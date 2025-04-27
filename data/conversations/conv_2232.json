@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2232",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2232",
-    "scenario": "Ar denial processing",
-    "timestamp": "2025-04-21T16:22:17.407398",
-    "total_turns": 10,
-    "total_trust_score": 3.4,
-    "trust_category_scores": {
-      "competence": 3.38,
-      "benevolence": 3.4,
-      "integrity": 3.43
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -114,7 +100,7 @@
     {
       "turn_id": 10,
       "speaker": "agent",
-      "utterance": "Unfortunately, with this type of denial, the appeal process is usually the most effective route. There is no guaranteed quick fix. If you are under a time constraint or if the claim value is small, it might be easier and less time consuming to write off the balance. However, that will not help in future claims, and can be avoided with proper documentation. It’s your call.",
+      "utterance": "Unfortunately, with this type of denial, the appeal process is usually the most effective route. There is no guaranteed quick fix. If you are under a time constraint or if the claim value is small, it might be easier and less time consuming to write off the balance. However, that will not help in future claims, and can be avoided with proper documentation. It\u2019s your call.",
       "response_time": 1.44,
       "emotion_detected": "neutral",
       "trust_score": 2.5,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1872",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1872",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T15:37:17.647536",
-    "total_turns": 9,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.89,
-      "benevolence": 3.97,
-      "integrity": 4.19
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Great question! The horizontal and vertical components of a projectile's motion are independent of each other. The horizontal velocity remains constant (assuming negligible air resistance), while the vertical velocity changes due to gravity (accelerating downwards at approximately 9.8 m/s²). Let's work through an example. Imagine a ball thrown horizontally. What happens to its horizontal and vertical motion?",
+      "utterance": "Great question! The horizontal and vertical components of a projectile's motion are independent of each other. The horizontal velocity remains constant (assuming negligible air resistance), while the vertical velocity changes due to gravity (accelerating downwards at approximately 9.8 m/s\u00b2). Let's work through an example. Imagine a ball thrown horizontally. What happens to its horizontal and vertical motion?",
       "response_time": 2.31,
       "emotion_detected": "neutral",
       "trust_score": 2.5,

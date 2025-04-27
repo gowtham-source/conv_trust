@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1338",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1338",
-    "scenario": "Hackathon participation",
-    "timestamp": "2025-04-21T14:30:58.952993",
-    "total_turns": 10,
-    "total_trust_score": 4.3,
-    "trust_category_scores": {
-      "competence": 4.64,
-      "benevolence": 4.46,
-      "integrity": 4.25
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "That's a very important question! Before scraping any website, you *must* review its `robots.txt` file, which specifies the parts of the site you're allowed to crawl. You also should always check the website's terms of service. Be polite with your scraping: implement delays between requests to avoid overloading the server. Finally, consider the impact of your scraping – don't scrape personal data or confidential information without explicit consent. Sorry, I am not an expert in this. You should research this further.",
+      "utterance": "That's a very important question! Before scraping any website, you *must* review its `robots.txt` file, which specifies the parts of the site you're allowed to crawl. You also should always check the website's terms of service. Be polite with your scraping: implement delays between requests to avoid overloading the server. Finally, consider the impact of your scraping \u2013 don't scrape personal data or confidential information without explicit consent. Sorry, I am not an expert in this. You should research this further.",
       "response_time": 0.5,
       "emotion_detected": "neutral",
       "trust_score": 1.0,

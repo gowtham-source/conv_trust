@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1398",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1398",
-    "scenario": "Ar denial processing",
-    "timestamp": "2025-04-21T14:42:55.454649",
-    "total_turns": 5,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.54,
-      "benevolence": 4.55,
-      "integrity": 4.35
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, that makes sense. But my doctor already submitted all the information, or so I thought. If I have to get him to do it again, won't that just mean more delay? Is there a standard timeframe or something I should be aware of for how long these appeals typically take? And how can I be sure they will actually *review* it this time? I’ve heard horror stories…",
+      "utterance": "Okay, that makes sense. But my doctor already submitted all the information, or so I thought. If I have to get him to do it again, won't that just mean more delay? Is there a standard timeframe or something I should be aware of for how long these appeals typically take? And how can I be sure they will actually *review* it this time? I\u2019ve heard horror stories\u2026",
       "response_time": null,
       "emotion_detected": "fear",
       "trust_score": null,

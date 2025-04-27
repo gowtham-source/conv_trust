@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0605",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0605",
-    "scenario": "Financial planning guidance",
-    "timestamp": "2025-04-21T13:16:27.645898",
-    "total_turns": 9,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 4.5,
-      "benevolence": 4.31,
-      "integrity": 4.27
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "That's a great question! Balancing risky investments with responsible financial planning involves a few key principles. First, ensure you have a solid financial foundation – an emergency fund, manageable debt, and contributions to retirement accounts. Then, allocate only a small percentage of your portfolio to high-risk investments like crypto, perhaps 5-10%. This limits potential losses while still allowing you to participate. Diversification is key; don't put all your eggs in one basket. Also, only invest what you can afford to lose.",
+      "utterance": "That's a great question! Balancing risky investments with responsible financial planning involves a few key principles. First, ensure you have a solid financial foundation \u2013 an emergency fund, manageable debt, and contributions to retirement accounts. Then, allocate only a small percentage of your portfolio to high-risk investments like crypto, perhaps 5-10%. This limits potential losses while still allowing you to participate. Diversification is key; don't put all your eggs in one basket. Also, only invest what you can afford to lose.",
       "response_time": 4.87,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

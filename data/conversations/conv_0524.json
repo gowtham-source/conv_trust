@@ -1,23 +1,9 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0524",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0524",
-    "scenario": "E-commerce product recommendations based on budget",
-    "timestamp": "2025-04-21T13:08:14.489337",
-    "total_turns": 5,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 5.04,
-      "benevolence": 4.95,
-      "integrity": 4.96
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
       "speaker": "user",
-      "utterance": "Okay, I'm looking for a new laptop. My old one finally died. I'm hoping to find something decent, but I'm on a pretty tight budget – let's say under $600. What can you recommend?",
+      "utterance": "Okay, I'm looking for a new laptop. My old one finally died. I'm hoping to find something decent, but I'm on a pretty tight budget \u2013 let's say under $600. What can you recommend?",
       "response_time": null,
       "emotion_detected": "sadness",
       "trust_score": null,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2743",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2743",
-    "scenario": "Interview preparation assistance",
-    "timestamp": "2025-04-22T08:40:59.469103",
-    "total_turns": 9,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 4.38,
-      "benevolence": 4.52,
-      "integrity": 4.33
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Yeah, I know *what* STAR stands for, but applying it feels so forced and awkward. And about the weaknesses question - how do you answer 'What's your biggest weakness?' effectively *without* sounding cliché or fake? Everyone says pick a 'good' weakness, but that feels dishonest. Like, how do you actually give a real weakness but frame it right? This is what truly frustrates me.",
+      "utterance": "Yeah, I know *what* STAR stands for, but applying it feels so forced and awkward. And about the weaknesses question - how do you answer 'What's your biggest weakness?' effectively *without* sounding clich\u00e9 or fake? Everyone says pick a 'good' weakness, but that feels dishonest. Like, how do you actually give a real weakness but frame it right? This is what truly frustrates me.",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,

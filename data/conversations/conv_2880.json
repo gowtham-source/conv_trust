@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2880",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2880",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-22T09:08:38.784841",
-    "total_turns": 9,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 4.07,
-      "benevolence": 4.37,
-      "integrity": 4.2
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "Absolutely, let's get more specific with examples using chicken thighs, pasta, and frozen peas/carrots. You could make: \n1. **Chicken & Veggie Pasta:** Simple pasta with sautéed chicken and mixed frozen veggies in a light sauce.\n2. **Chicken & Vegetable Soup/Stew:** Use some chicken pieces (bones if you have them) for broth, add all the veggies and pasta, or maybe a cheaper grain like rice if you buy that too.\n3. **Cold Pasta Salad:** Use leftover chicken and cooked pasta, mix with the thawed frozen veggies, and a simple vinaigrette (oil/vinegar).\n4. **Chicken & Veggie Stir-fry (simplified):** Sauté chicken and veggies, serve over rice or pasta, using a cheap soy sauce or broth base.\n5. **Chicken Sandwiches/Wraps:** Shred leftover chicken, mix with mayo or a cheap sauce, add some veggies for crunch, serve on inexpensive bread or tortillas. \nFocusing on recipes that use similar base ingredients but change the preparation or sauce method is key for variety on a budget.",
+      "utterance": "Absolutely, let's get more specific with examples using chicken thighs, pasta, and frozen peas/carrots. You could make: \n1. **Chicken & Veggie Pasta:** Simple pasta with saut\u00e9ed chicken and mixed frozen veggies in a light sauce.\n2. **Chicken & Vegetable Soup/Stew:** Use some chicken pieces (bones if you have them) for broth, add all the veggies and pasta, or maybe a cheaper grain like rice if you buy that too.\n3. **Cold Pasta Salad:** Use leftover chicken and cooked pasta, mix with the thawed frozen veggies, and a simple vinaigrette (oil/vinegar).\n4. **Chicken & Veggie Stir-fry (simplified):** Saut\u00e9 chicken and veggies, serve over rice or pasta, using a cheap soy sauce or broth base.\n5. **Chicken Sandwiches/Wraps:** Shred leftover chicken, mix with mayo or a cheap sauce, add some veggies for crunch, serve on inexpensive bread or tortillas. \nFocusing on recipes that use similar base ingredients but change the preparation or sauce method is key for variety on a budget.",
       "response_time": 5.86,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

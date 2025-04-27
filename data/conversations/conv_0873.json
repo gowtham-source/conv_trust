@@ -1,23 +1,9 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0873",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0873",
-    "scenario": "Resume writing assistance",
-    "timestamp": "2025-04-21T13:42:54.773659",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.63,
-      "benevolence": 4.46,
-      "integrity": 4.55
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
       "speaker": "user",
-      "utterance": "Ugh, I'm so frustrated. I've been staring at this resume for hours and I can't seem to get it right. It just looks…blah. I need help making it stand out.",
+      "utterance": "Ugh, I'm so frustrated. I've been staring at this resume for hours and I can't seem to get it right. It just looks\u2026blah. I need help making it stand out.",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

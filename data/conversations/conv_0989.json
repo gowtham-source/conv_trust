@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0989",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0989",
-    "scenario": "Insurance claim processing",
-    "timestamp": "2025-04-21T13:54:35.622339",
-    "total_turns": 10,
-    "total_trust_score": 4.9,
-    "trust_category_scores": {
-      "competence": 5.03,
-      "benevolence": 4.81,
-      "integrity": 4.97
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, but 'awaiting the estimate'… that's what you told me three days ago! Is there any way to speed things up? I need my car for work!",
+      "utterance": "Okay, but 'awaiting the estimate'\u2026 that's what you told me three days ago! Is there any way to speed things up? I need my car for work!",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

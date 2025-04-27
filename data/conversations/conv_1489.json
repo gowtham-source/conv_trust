@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1489",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1489",
-    "scenario": "Job application assistance",
-    "timestamp": "2025-04-21T14:52:39.257644",
-    "total_turns": 8,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.95,
-      "benevolence": 4.11,
-      "integrity": 3.99
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a challenging situation. When a job description is vague, it’s helpful to research the company and look for clues about what they value. Look at their website, blog, or LinkedIn profiles of current employees. Identify keywords and technologies they commonly use. Then, try to align your skills with those keywords. As a second option, you could craft the letter around the most common languages. For example, “My experience with languages like Python and JavaScript makes me a strong candidate”. I will provide you with a template for you to customize.",
+      "utterance": "That's a challenging situation. When a job description is vague, it\u2019s helpful to research the company and look for clues about what they value. Look at their website, blog, or LinkedIn profiles of current employees. Identify keywords and technologies they commonly use. Then, try to align your skills with those keywords. As a second option, you could craft the letter around the most common languages. For example, \u201cMy experience with languages like Python and JavaScript makes me a strong candidate\u201d. I will provide you with a template for you to customize.",
       "response_time": 5.07,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0026",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0026",
-    "scenario": "Health advice consultation",
-    "timestamp": "2025-04-21T12:20:01.286737",
-    "total_turns": 8,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 4.47,
-      "benevolence": 4.21,
-      "integrity": 4.31
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "Yes, of course. Until you see your doctor, try to prioritize getting more sleep – aim for 7-8 hours. Take breaks from screens every 20 minutes using the 20-20-20 rule (look at something 20 feet away for 20 seconds). Gentle neck stretches and relaxation techniques like deep breathing or meditation might also provide some relief. Avoid caffeine and alcohol, as these can sometimes trigger headaches. However, it is crucial to follow up with your doctor for a proper diagnosis and treatment plan.",
+      "utterance": "Yes, of course. Until you see your doctor, try to prioritize getting more sleep \u2013 aim for 7-8 hours. Take breaks from screens every 20 minutes using the 20-20-20 rule (look at something 20 feet away for 20 seconds). Gentle neck stretches and relaxation techniques like deep breathing or meditation might also provide some relief. Avoid caffeine and alcohol, as these can sometimes trigger headaches. However, it is crucial to follow up with your doctor for a proper diagnosis and treatment plan.",
       "response_time": 4.49,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

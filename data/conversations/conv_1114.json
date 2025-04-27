@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1114",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1114",
-    "scenario": "Financial planning guidance",
-    "timestamp": "2025-04-21T14:07:47.723942",
-    "total_turns": 7,
-    "total_trust_score": 3.0,
-    "trust_category_scores": {
-      "competence": 2.91,
-      "benevolence": 2.89,
-      "integrity": 2.84
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Ugh, I hate thinking about my debt. It's around $30,000 in student loans, and another $5,000 on a credit card. Income is roughly $60,000 a year, but expenses… I honestly don't track them super closely.",
+      "utterance": "Ugh, I hate thinking about my debt. It's around $30,000 in student loans, and another $5,000 on a credit card. Income is roughly $60,000 a year, but expenses\u2026 I honestly don't track them super closely.",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, that's… actually pretty helpful. I feel slightly less lost now. Thanks!",
+      "utterance": "Okay, that's\u2026 actually pretty helpful. I feel slightly less lost now. Thanks!",
       "response_time": null,
       "emotion_detected": "sadness",
       "trust_score": null,

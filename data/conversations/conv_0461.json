@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0461",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0461",
-    "scenario": "Insurance claim processing",
-    "timestamp": "2025-04-21T13:02:12.483795",
-    "total_turns": 5,
-    "total_trust_score": 2.5,
-    "trust_category_scores": {
-      "competence": 2.67,
-      "benevolence": 2.44,
-      "integrity": 2.47
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, sending that follow-up would be great. But what if the repair cost is not approved? What are my options then? This is a pretty sizable dent, and I’m worried they’ll try to lowball me.",
+      "utterance": "Okay, sending that follow-up would be great. But what if the repair cost is not approved? What are my options then? This is a pretty sizable dent, and I\u2019m worried they\u2019ll try to lowball me.",
       "response_time": null,
       "emotion_detected": "fear",
       "trust_score": null,

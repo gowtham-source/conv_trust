@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1170",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1170",
-    "scenario": "E-commerce Help Center",
-    "timestamp": "2025-04-21T14:13:05.458618",
-    "total_turns": 9,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 4.99,
-      "benevolence": 5.11,
-      "integrity": 5.29
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Monday? Ugh, that's really not ideal. Is there anything you can do to speed that up further? It’s already been a week!",
+      "utterance": "Monday? Ugh, that's really not ideal. Is there anything you can do to speed that up further? It\u2019s already been a week!",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Yes, please do that! And what happens if it *still* doesn’t arrive on Monday? Am I just stuck with it?",
+      "utterance": "Yes, please do that! And what happens if it *still* doesn\u2019t arrive on Monday? Am I just stuck with it?",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

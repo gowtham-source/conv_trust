@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0853",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0853",
-    "scenario": "Legal advice consultation",
-    "timestamp": "2025-04-21T13:40:50.130124",
-    "total_turns": 10,
-    "total_trust_score": 3.7,
-    "trust_category_scores": {
-      "competence": 3.69,
-      "benevolence": 3.81,
-      "integrity": 3.68
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, my zip code is 90210. One more thing – what if the lease said he could evict me for *any* reason, even if I paid rent? Is that even legal? I mean, isn't there some limit to what landlords can put in a lease?",
+      "utterance": "Okay, my zip code is 90210. One more thing \u2013 what if the lease said he could evict me for *any* reason, even if I paid rent? Is that even legal? I mean, isn't there some limit to what landlords can put in a lease?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

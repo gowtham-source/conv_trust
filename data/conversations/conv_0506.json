@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0506",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0506",
-    "scenario": "Book recommendations based on genre",
-    "timestamp": "2025-04-21T13:06:39.109536",
-    "total_turns": 8,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.75,
-      "benevolence": 4.58,
-      "integrity": 4.49
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, that's good to know. One last question – how does the AI in 'Project Hail Mary' compare to the AI characters in Iain M. Banks' Culture novels? I really enjoy complex AI characters.",
+      "utterance": "Okay, that's good to know. One last question \u2013 how does the AI in 'Project Hail Mary' compare to the AI characters in Iain M. Banks' Culture novels? I really enjoy complex AI characters.",
       "response_time": null,
       "emotion_detected": "joy",
       "trust_score": null,

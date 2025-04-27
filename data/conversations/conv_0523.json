@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0523",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0523",
-    "scenario": "Medical billing processing",
-    "timestamp": "2025-04-21T13:08:08.518039",
-    "total_turns": 9,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 4.61,
-      "benevolence": 4.34,
-      "integrity": 4.33
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Okay, it's Blue Cross Blue Shield, patient name is John Smith, and date of birth is 01/15/1980. I'm particularly confused by this bill from 'General Hospital' – it just lists a bunch of codes.",
+      "utterance": "Okay, it's Blue Cross Blue Shield, patient name is John Smith, and date of birth is 01/15/1980. I'm particularly confused by this bill from 'General Hospital' \u2013 it just lists a bunch of codes.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

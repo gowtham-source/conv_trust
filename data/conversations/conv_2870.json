@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2870",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2870",
-    "scenario": "Career counseling",
-    "timestamp": "2025-04-22T09:06:24.669165",
-    "total_turns": 7,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.02,
-      "benevolence": 3.85,
-      "integrity": 3.72
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "I'm employed, but I'm just going through the motions. The work isn't challenging, and I don't see a future here. But the idea of figuring out what *is* next feels overwhelming. I have diverse interests – some technical, some creative – and I don't know how to reconcile them or even start looking.",
+      "utterance": "I'm employed, but I'm just going through the motions. The work isn't challenging, and I don't see a future here. But the idea of figuring out what *is* next feels overwhelming. I have diverse interests \u2013 some technical, some creative \u2013 and I don't know how to reconcile them or even start looking.",
       "response_time": null,
       "emotion_detected": "surprise",
       "trust_score": null,

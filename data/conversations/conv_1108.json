@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1108",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1108",
-    "scenario": "Career counseling",
-    "timestamp": "2025-04-21T14:07:12.810872",
-    "total_turns": 7,
-    "total_trust_score": 5.0,
-    "trust_category_scores": {
-      "competence": 5.13,
-      "benevolence": 4.73,
-      "integrity": 4.87
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a valid concern given current trends. It is true that some career paths are more straightforward with a psychology degree, but the skills you've gained – critical thinking, data analysis, communication, understanding human behavior – are highly transferable. The key is to highlight these skills in your resume and cover letter and tailor them to the specific job you're applying for. We can work on refining your resume to do just that. Also, consider networking; talking to people in different fields to explore available possibilities can be highly beneficial.",
+      "utterance": "That's a valid concern given current trends. It is true that some career paths are more straightforward with a psychology degree, but the skills you've gained \u2013 critical thinking, data analysis, communication, understanding human behavior \u2013 are highly transferable. The key is to highlight these skills in your resume and cover letter and tailor them to the specific job you're applying for. We can work on refining your resume to do just that. Also, consider networking; talking to people in different fields to explore available possibilities can be highly beneficial.",
       "response_time": 4.4,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

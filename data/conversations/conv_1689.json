@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1689",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1689",
-    "scenario": "Food ordering and recommendations",
-    "timestamp": "2025-04-21T15:16:05.630431",
-    "total_turns": 8,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 4.52,
-      "benevolence": 4.23,
-      "integrity": 4.64
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "I'm at 123 Main Street, Anytown. I'm open to anything, but maybe not sushi. I'm feeling something…comforting. Like, maybe pizza or burgers, I guess.",
+      "utterance": "I'm at 123 Main Street, Anytown. I'm open to anything, but maybe not sushi. I'm feeling something\u2026comforting. Like, maybe pizza or burgers, I guess.",
       "response_time": null,
       "emotion_detected": "joy",
       "trust_score": null,

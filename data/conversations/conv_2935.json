@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2935",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2935",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-22T09:18:42.123954",
-    "total_turns": 9,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.84,
-      "benevolence": 4.69,
-      "integrity": 4.81
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -26,7 +12,7 @@
     {
       "turn_id": 2,
       "speaker": "agent",
-      "utterance": "Hello! Absolutely, I can help with quadratic equations. They are equations of the form ax² + bx + c = 0. The most common ways to solve them are factoring, completing the square, or using the quadratic formula. Which method are you finding most confusing?",
+      "utterance": "Hello! Absolutely, I can help with quadratic equations. They are equations of the form ax\u00b2 + bx + c = 0. The most common ways to solve them are factoring, completing the square, or using the quadratic formula. Which method are you finding most confusing?",
       "response_time": 6.0,
       "emotion_detected": "neutral",
       "trust_score": 7.0,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, let's focus on factoring. The goal is to rewrite the quadratic expression (ax² + bx + c) as a product of two binomials, like (px + q)(rx + s). For a simple case like x² + bx + c, you're looking for two numbers that multiply to 'c' and add up to 'b'.",
+      "utterance": "Okay, let's focus on factoring. The goal is to rewrite the quadratic expression (ax\u00b2 + bx + c) as a product of two binomials, like (px + q)(rx + s). For a simple case like x\u00b2 + bx + c, you're looking for two numbers that multiply to 'c' and add up to 'b'.",
       "response_time": 2.52,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Ugh, I get that rule, but it seems like I always pick the wrong numbers or it just doesn't work for the problems in my homework. It's so frustrating! What about equations where 'a' isn't 1, like 2x² - 5x - 3 = 0?",
+      "utterance": "Ugh, I get that rule, but it seems like I always pick the wrong numbers or it just doesn't work for the problems in my homework. It's so frustrating! What about equations where 'a' isn't 1, like 2x\u00b2 - 5x - 3 = 0?",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Ah, factoring when 'a' is not 1 can be a bit more involved. One common method is the 'AC method' where you find two numbers that multiply to (a*c) and add up to 'b'. Then you rewrite the 'bx' term using those numbers and factor by grouping. Alternatively, the quadratic formula always works, regardless of 'a' or if it's factorable. The formula is x = [-b ± √(b² - 4ac)] / 2a.",
+      "utterance": "Ah, factoring when 'a' is not 1 can be a bit more involved. One common method is the 'AC method' where you find two numbers that multiply to (a*c) and add up to 'b'. Then you rewrite the 'bx' term using those numbers and factor by grouping. Alternatively, the quadratic formula always works, regardless of 'a' or if it's factorable. The formula is x = [-b \u00b1 \u221a(b\u00b2 - 4ac)] / 2a.",
       "response_time": 3.88,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, the formula looks intimidating but maybe more reliable. What's that part under the square root, b² - 4ac? And what happens if that number is negative? Does that just mean there are no solutions?",
+      "utterance": "Okay, the formula looks intimidating but maybe more reliable. What's that part under the square root, b\u00b2 - 4ac? And what happens if that number is negative? Does that just mean there are no solutions?",
       "response_time": null,
       "emotion_detected": "fear",
       "trust_score": null,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "That expression, b² - 4ac, is called the discriminant. It tells you about the nature of the solutions. If the discriminant is positive, there are two distinct real solutions. If it's zero, there's exactly one real solution (a repeated root). If it's negative, it means there are no real number solutions because you can't take the square root of a negative number in the real number system. So, yes, it indicates no solutions in terms of real numbers.",
+      "utterance": "That expression, b\u00b2 - 4ac, is called the discriminant. It tells you about the nature of the solutions. If the discriminant is positive, there are two distinct real solutions. If it's zero, there's exactly one real solution (a repeated root). If it's negative, it means there are no real number solutions because you can't take the square root of a negative number in the real number system. So, yes, it indicates no solutions in terms of real numbers.",
       "response_time": 3.54,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

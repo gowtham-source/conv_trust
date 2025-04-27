@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2107",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2107",
-    "scenario": "Medical billing processing",
-    "timestamp": "2025-04-21T16:07:05.555678",
-    "total_turns": 9,
-    "total_trust_score": 3.62,
-    "trust_category_scores": {
-      "competence": 3.61,
-      "benevolence": 3.58,
-      "integrity": 3.74
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Okay, the patient is John Smith, the date of service was 2024-03-15, and the claim number is 1234567890. Honestly, I'm so frustrated with this – it's the third one this month!",
+      "utterance": "Okay, the patient is John Smith, the date of service was 2024-03-15, and the claim number is 1234567890. Honestly, I'm so frustrated with this \u2013 it's the third one this month!",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

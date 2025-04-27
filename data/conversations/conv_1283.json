@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1283",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1283",
-    "scenario": "hotel booking assistance",
-    "timestamp": "2025-04-21T14:24:52.798988",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.78,
-      "benevolence": 4.67,
-      "integrity": 4.46
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Alright, I've got that. Searching for hotels near the Eiffel Tower, 4-5 stars, for two adults from November 15th to 19th. I'm finding a few options. One moment while I filter based on average user reviews and price. Okay, I found the 'Hotel Plaza Athénée'. It's a 5-star hotel and has excellent reviews, but it may be outside of your budget. There is also 'Shangri-La Hotel, Paris' available. I am unsure if that location is ideal for you, however.",
+      "utterance": "Alright, I've got that. Searching for hotels near the Eiffel Tower, 4-5 stars, for two adults from November 15th to 19th. I'm finding a few options. One moment while I filter based on average user reviews and price. Okay, I found the 'Hotel Plaza Ath\u00e9n\u00e9e'. It's a 5-star hotel and has excellent reviews, but it may be outside of your budget. There is also 'Shangri-La Hotel, Paris' available. I am unsure if that location is ideal for you, however.",
       "response_time": 2.72,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Wow, the Plaza Athénée is way out of my budget, I expected that. The Shangri-La sounds good. But I am concerned about how far it is from the Eiffel Tower - what's the actual walking distance? And what's the cancellation policy?",
+      "utterance": "Wow, the Plaza Ath\u00e9n\u00e9e is way out of my budget, I expected that. The Shangri-La sounds good. But I am concerned about how far it is from the Eiffel Tower - what's the actual walking distance? And what's the cancellation policy?",
       "response_time": null,
       "emotion_detected": "surprise",
       "trust_score": null,

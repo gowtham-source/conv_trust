@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1870",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1870",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T15:36:59.664923",
-    "total_turns": 9,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.72,
-      "benevolence": 4.86,
-      "integrity": 4.76
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "That's the standard form! In the equation ax^2 + bx + c = 0, 'a', 'b', and 'c' are coefficients (numbers), and 'x' is the variable we're trying to solve for. The quadratic formula is x = (-b ± √(b² - 4ac)) / 2a.  We use it to find the values of 'x' that satisfy the equation. Let's work through an example: What is the quadratic formula for the equation x^2 + 5x + 6 = 0?",
+      "utterance": "That's the standard form! In the equation ax^2 + bx + c = 0, 'a', 'b', and 'c' are coefficients (numbers), and 'x' is the variable we're trying to solve for. The quadratic formula is x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a.  We use it to find the values of 'x' that satisfy the equation. Let's work through an example: What is the quadratic formula for the equation x^2 + 5x + 6 = 0?",
       "response_time": 3.17,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, I think I get it. So a = 1, b = 5, and c = 6. Then I plug those values into the formula, right?  (-5 ± √(5² - 4 * 1 * 6)) / (2 * 1). This part makes sense!",
+      "utterance": "Okay, I think I get it. So a = 1, b = 5, and c = 6. Then I plug those values into the formula, right?  (-5 \u00b1 \u221a(5\u00b2 - 4 * 1 * 6)) / (2 * 1). This part makes sense!",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, I think I understand the basic process. But what if the discriminant (b² - 4ac) is negative? What does that even mean? That's where I get confused.",
+      "utterance": "Okay, I think I understand the basic process. But what if the discriminant (b\u00b2 - 4ac) is negative? What does that even mean? That's where I get confused.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

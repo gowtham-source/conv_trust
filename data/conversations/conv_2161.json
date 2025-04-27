@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2161",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2161",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T16:14:02.178127",
-    "total_turns": 9,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.0,
-      "benevolence": 4.38,
-      "integrity": 3.9
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Absolutely! The horizontal component of the initial velocity (Vx) is given by V * cos(theta), and the vertical component (Vy) is V * sin(theta), where V is the initial velocity and theta is the launch angle. So, in this case, Vx = 15 m/s * cos(30°) and Vy = 15 m/s * sin(30°). Then, the time of flight can be calculated... [response truncated due to length limits]",
+      "utterance": "Absolutely! The horizontal component of the initial velocity (Vx) is given by V * cos(theta), and the vertical component (Vy) is V * sin(theta), where V is the initial velocity and theta is the launch angle. So, in this case, Vx = 15 m/s * cos(30\u00b0) and Vy = 15 m/s * sin(30\u00b0). Then, the time of flight can be calculated... [response truncated due to length limits]",
       "response_time": 0.59,
       "emotion_detected": "neutral",
       "trust_score": 1.0,

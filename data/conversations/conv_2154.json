@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2154",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2154",
-    "scenario": "Food ordering and recommendations",
-    "timestamp": "2025-04-21T16:13:08.813020",
-    "total_turns": 6,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.8,
-      "benevolence": 5.82,
-      "integrity": 5.44
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, processing. Finding Italian restaurants with delivery near your location, sorted by customer ratings... hmm, this is proving to be a bit trickier than expected. My recommendation engine is experiencing a temporary glitch. However, I can suggest 'Pasta Paradise' – it has a 4.5-star rating and excellent reviews for their carbonara. Does that sound appetizing?",
+      "utterance": "Okay, processing. Finding Italian restaurants with delivery near your location, sorted by customer ratings... hmm, this is proving to be a bit trickier than expected. My recommendation engine is experiencing a temporary glitch. However, I can suggest 'Pasta Paradise' \u2013 it has a 4.5-star rating and excellent reviews for their carbonara. Does that sound appetizing?",
       "response_time": 4.06,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

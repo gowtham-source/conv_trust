@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0597",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0597",
-    "scenario": "E-commerce product recommendations",
-    "timestamp": "2025-04-21T13:15:39.620820",
-    "total_turns": 8,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.48,
-      "benevolence": 5.59,
-      "integrity": 5.24
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Okay, I understand. Let me see… Considering durability, the Cuisinart DCC-3200P1 Perfectemp Coffee Maker might be a good option. It's a bit over your initial budget, around $120, but Cuisinart is known for its quality and longevity. It also has programmable features and brews 14 cups.",
+      "utterance": "Okay, I understand. Let me see\u2026 Considering durability, the Cuisinart DCC-3200P1 Perfectemp Coffee Maker might be a good option. It's a bit over your initial budget, around $120, but Cuisinart is known for its quality and longevity. It also has programmable features and brews 14 cups.",
       "response_time": 2.91,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

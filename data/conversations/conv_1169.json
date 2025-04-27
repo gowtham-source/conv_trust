@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1169",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1169",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T14:13:00.153982",
-    "total_turns": 7,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.0,
-      "benevolence": 3.9,
-      "integrity": 4.1
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Hmm, that sounds… generic. And what about shoes? Shoes are expensive! How am I supposed to get shoes in that budget too? This is starting to feel impossible.",
+      "utterance": "Hmm, that sounds\u2026 generic. And what about shoes? Shoes are expensive! How am I supposed to get shoes in that budget too? This is starting to feel impossible.",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,

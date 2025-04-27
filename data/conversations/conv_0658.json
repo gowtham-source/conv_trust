@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0658",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0658",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T13:21:37.378991",
-    "total_turns": 10,
-    "total_trust_score": 5.2,
-    "trust_category_scores": {
-      "competence": 5.0,
-      "benevolence": 5.23,
-      "integrity": 5.07
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a valid point. When thrifting, look closely at the fabric quality and any signs of wear and tear. Research the brand online to get an idea of its original retail price. Don't be afraid to negotiate! As for new options, check out stores like H&M, Old Navy, or Target – they often have sales and affordable basics. Focus on building a capsule wardrobe with versatile pieces you can mix and match.",
+      "utterance": "That's a valid point. When thrifting, look closely at the fabric quality and any signs of wear and tear. Research the brand online to get an idea of its original retail price. Don't be afraid to negotiate! As for new options, check out stores like H&M, Old Navy, or Target \u2013 they often have sales and affordable basics. Focus on building a capsule wardrobe with versatile pieces you can mix and match.",
       "response_time": 4.03,
       "emotion_detected": "fear",
       "trust_score": 5.5,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1683",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1683",
-    "scenario": "Home improvement guidance",
-    "timestamp": "2025-04-21T15:15:24.599212",
-    "total_turns": 9,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 5.08,
-      "benevolence": 5.03,
-      "integrity": 5.29
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "It's a single-handle faucet. The old one is off, thankfully. I’ve done some basic stuff before, like fixing a leaky toilet, but this seems more complex, honestly.",
+      "utterance": "It's a single-handle faucet. The old one is off, thankfully. I\u2019ve done some basic stuff before, like fixing a leaky toilet, but this seems more complex, honestly.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "I understand. Unfortunately, the exact torque specifications can vary depending on the sink material and the faucet's design. A good rule of thumb is to tighten the screws until they are snug, but *not* over-tightened. You don't want to crack the sink. Usually, a couple of additional turns after it's snug is fine. If you have a torque wrench, consult the faucet's manual for the manufacturer's recommendations, but that's unlikely. If unsure, it's better to err on the side of less tightness. This avoids cracking the sink, so it’s usually better to tighten it in small increments.",
+      "utterance": "I understand. Unfortunately, the exact torque specifications can vary depending on the sink material and the faucet's design. A good rule of thumb is to tighten the screws until they are snug, but *not* over-tightened. You don't want to crack the sink. Usually, a couple of additional turns after it's snug is fine. If you have a torque wrench, consult the faucet's manual for the manufacturer's recommendations, but that's unlikely. If unsure, it's better to err on the side of less tightness. This avoids cracking the sink, so it\u2019s usually better to tighten it in small increments.",
       "response_time": 2.94,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

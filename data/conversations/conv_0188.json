@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0188",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0188",
-    "scenario": "Game recommendations based on genre",
-    "timestamp": "2025-04-21T12:36:40.576533",
-    "total_turns": 6,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.73,
-      "benevolence": 4.46,
-      "integrity": 4.52
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a great question! Unlike many RPGs where combat often involves simply clicking to attack, 'Kingdom Come: Deliverance' uses a system where you need to consider your stance, weapon type, and the timing of your attacks and blocks. It's based on historical European martial arts. Furthermore, your character's skill directly impacts their ability to perform these actions effectively – a poorly trained character will struggle even with well-timed attacks. Think less 'button-mashing' and more 'deliberate fencing match'.",
+      "utterance": "That's a great question! Unlike many RPGs where combat often involves simply clicking to attack, 'Kingdom Come: Deliverance' uses a system where you need to consider your stance, weapon type, and the timing of your attacks and blocks. It's based on historical European martial arts. Furthermore, your character's skill directly impacts their ability to perform these actions effectively \u2013 a poorly trained character will struggle even with well-timed attacks. Think less 'button-mashing' and more 'deliberate fencing match'.",
       "response_time": 3.8,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

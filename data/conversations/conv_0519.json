@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0519",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0519",
-    "scenario": "Interview preparation assistance",
-    "timestamp": "2025-04-21T13:07:47.461165",
-    "total_turns": 4,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.45,
-      "benevolence": 5.36,
-      "integrity": 5.2
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "I understand your concern about system design and those unexpected 'design X' questions. Let's start with system design. A good approach is to follow the 'STAR' method – Situation, Task, Action, Result – adapting it to a design context. You want to clearly define the problem (Situation), identify the key goals of the system (Task), outline your proposed solution and architecture (Action), and finally, discuss the potential benefits and trade-offs of your design (Result). We can walk through a practice scenario. As for the curveball questions, the key is not necessarily to come up with the perfect system, but to demonstrate your problem-solving skills, ability to think critically, and how you approach a complex problem with limited information. Focus on breaking the problem down into smaller, manageable components, identify constraints, and make reasonable assumptions. Would you like me to give you a practice question?",
+      "utterance": "I understand your concern about system design and those unexpected 'design X' questions. Let's start with system design. A good approach is to follow the 'STAR' method \u2013 Situation, Task, Action, Result \u2013 adapting it to a design context. You want to clearly define the problem (Situation), identify the key goals of the system (Task), outline your proposed solution and architecture (Action), and finally, discuss the potential benefits and trade-offs of your design (Result). We can walk through a practice scenario. As for the curveball questions, the key is not necessarily to come up with the perfect system, but to demonstrate your problem-solving skills, ability to think critically, and how you approach a complex problem with limited information. Focus on breaking the problem down into smaller, manageable components, identify constraints, and make reasonable assumptions. Would you like me to give you a practice question?",
       "response_time": 4.22,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

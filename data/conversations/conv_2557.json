@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2557",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2557",
-    "scenario": "Career counseling",
-    "timestamp": "2025-04-21T17:10:27.681591",
-    "total_turns": 4,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.71,
-      "benevolence": 5.62,
-      "integrity": 5.87
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "That's a very common challenge when considering a significant career pivot – the 'experience paradox.' While it's true many roles list specific industry experience as preferred, it's often about demonstrating transferable skills and a strong aptitude. For a move towards tech or consulting from manufacturing operations, highlight skills like process optimization, problem-solving, data analysis, project management, and efficiency improvements – these are highly valued in those sectors. Also, look for entry-level positions, roles in companies that value diverse backgrounds, or consider targeted training like bootcamps or certifications to signal your commitment to the new field. Networking within the target industries is also crucial for uncovering opportunities that aren't always publicly advertised.",
+      "utterance": "That's a very common challenge when considering a significant career pivot \u2013 the 'experience paradox.' While it's true many roles list specific industry experience as preferred, it's often about demonstrating transferable skills and a strong aptitude. For a move towards tech or consulting from manufacturing operations, highlight skills like process optimization, problem-solving, data analysis, project management, and efficiency improvements \u2013 these are highly valued in those sectors. Also, look for entry-level positions, roles in companies that value diverse backgrounds, or consider targeted training like bootcamps or certifications to signal your commitment to the new field. Networking within the target industries is also crucial for uncovering opportunities that aren't always publicly advertised.",
       "response_time": 4.88,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

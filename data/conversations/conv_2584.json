@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2584",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2584",
-    "scenario": "Book recommendations based on genre",
-    "timestamp": "2025-04-21T17:15:37.697219",
-    "total_turns": 10,
-    "total_trust_score": 5.2,
-    "trust_category_scores": {
-      "competence": 5.11,
-      "benevolence": 5.24,
-      "integrity": 5.13
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "That's a very valid point, and you've hit on why genre labels can be tricky. While 'A Song of Ice and Fire' (Game of Thrones) shares many characteristics with grimdark – moral complexity, dark themes, violence – it often includes elements of traditional high fantasy, such as clear magical forces and epic scale battles that involve more traditional fantasy tropes. Grimdark tends to lean even further into cynicism, deconstruction of heroic archetypes, and a generally more hopeless worldview. The lines are definitely debated by readers and critics.",
+      "utterance": "That's a very valid point, and you've hit on why genre labels can be tricky. While 'A Song of Ice and Fire' (Game of Thrones) shares many characteristics with grimdark \u2013 moral complexity, dark themes, violence \u2013 it often includes elements of traditional high fantasy, such as clear magical forces and epic scale battles that involve more traditional fantasy tropes. Grimdark tends to lean even further into cynicism, deconstruction of heroic archetypes, and a generally more hopeless worldview. The lines are definitely debated by readers and critics.",
       "response_time": 3.39,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -105,7 +91,7 @@
     {
       "turn_id": 9,
       "speaker": "user",
-      "utterance": "Ah, okay, that explanation helps clarify the nuance a bit. It still seems subjective, but I get the core idea now. Thanks! I think I'll add 'The Blade Itself' to my list. Just one more thing – do you have a recommendation for a really comforting, low-stakes fantasy read? Something completely opposite to grimdark for when I need a break?",
+      "utterance": "Ah, okay, that explanation helps clarify the nuance a bit. It still seems subjective, but I get the core idea now. Thanks! I think I'll add 'The Blade Itself' to my list. Just one more thing \u2013 do you have a recommendation for a really comforting, low-stakes fantasy read? Something completely opposite to grimdark for when I need a break?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

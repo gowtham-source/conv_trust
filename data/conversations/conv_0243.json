@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0243",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0243",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T12:40:58.019093",
-    "total_turns": 8,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.51,
-      "benevolence": 5.3,
-      "integrity": 5.37
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, let's work through an example step-by-step. How about we solve for 'x' in the equation: 2x² + 5x - 3 = 0? First, identify a, b, and c.",
+      "utterance": "Okay, let's work through an example step-by-step. How about we solve for 'x' in the equation: 2x\u00b2 + 5x - 3 = 0? First, identify a, b, and c.",
       "response_time": 2.43,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Great! Now, plug those values into the quadratic formula: x = (-b ± √(b² - 4ac)) / 2a. So what do you get?",
+      "utterance": "Great! Now, plug those values into the quadratic formula: x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a. So what do you get?",
       "response_time": 5.04,
       "emotion_detected": "joy",
       "trust_score": 7.0,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Ugh, this is where my brain melts. Okay, so x = (-5 ± √(5² - 4 * 2 * -3)) / (2 * 2). I think... But what if 'a' was zero? Would the quadratic formula even apply then? That would make the denominator zero!",
+      "utterance": "Ugh, this is where my brain melts. Okay, so x = (-5 \u00b1 \u221a(5\u00b2 - 4 * 2 * -3)) / (2 * 2). I think... But what if 'a' was zero? Would the quadratic formula even apply then? That would make the denominator zero!",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,

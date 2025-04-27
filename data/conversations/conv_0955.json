@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0955",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0955",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T13:51:03.966211",
-    "total_turns": 7,
-    "total_trust_score": 5.0,
-    "trust_category_scores": {
-      "competence": 5.02,
-      "benevolence": 5.08,
-      "integrity": 5.19
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -26,7 +12,7 @@
     {
       "turn_id": 2,
       "speaker": "agent",
-      "utterance": "Great question! The key difference lies in the structure of the polynomial. If you have a polynomial with four terms, grouping is usually the best approach. For a quadratic trinomial (ax² + bx + c), if 'a' is equal to 1, then finding two numbers that multiply to 'c' and add up to 'b' is a quick method. If 'a' is not 1, you can still use that method, but it might be more efficient to use the AC method (grouping).",
+      "utterance": "Great question! The key difference lies in the structure of the polynomial. If you have a polynomial with four terms, grouping is usually the best approach. For a quadratic trinomial (ax\u00b2 + bx + c), if 'a' is equal to 1, then finding two numbers that multiply to 'c' and add up to 'b' is a quick method. If 'a' is not 1, you can still use that method, but it might be more efficient to use the AC method (grouping).",
       "response_time": 5.85,
       "emotion_detected": "neutral",
       "trust_score": 5.5,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's an excellent question! The AC method works because it essentially reverses the process of expanding two binomials using the FOIL method. By splitting the 'b' term based on the factors of 'ac', we're creating a setup where we can factor by grouping. To provide a proof, let's consider a general quadratic (ax² + bx + c) that can be factored into (px + q)(rx + s). Expanding this gives prx² + (ps + qr)x + qs. Notice that 'ac' corresponds to (pr)(qs) and 'b' corresponds to (ps + qr). The AC method finds 'ps' and 'qr' as the two numbers, enabling the reverse process of factoring by grouping. Does that initial explanation help?",
+      "utterance": "That's an excellent question! The AC method works because it essentially reverses the process of expanding two binomials using the FOIL method. By splitting the 'b' term based on the factors of 'ac', we're creating a setup where we can factor by grouping. To provide a proof, let's consider a general quadratic (ax\u00b2 + bx + c) that can be factored into (px + q)(rx + s). Expanding this gives prx\u00b2 + (ps + qr)x + qs. Notice that 'ac' corresponds to (pr)(qs) and 'b' corresponds to (ps + qr). The AC method finds 'ps' and 'qr' as the two numbers, enabling the reverse process of factoring by grouping. Does that initial explanation help?",
       "response_time": 5.0,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0768",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0768",
-    "scenario": "Financial planning guidance",
-    "timestamp": "2025-04-21T13:32:06.025264",
-    "total_turns": 4,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.45,
-      "benevolence": 4.96,
-      "integrity": 4.54
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "It's great that you're getting the full company match – that's essentially free money! As a general rule, many financial advisors recommend saving 15% of your income for retirement, including any employer match. To get a more personalized recommendation, it's useful to estimate your retirement expenses. There are many online calculators to help with that calculation. Some of these tools may be helpful to you but I am unable to provide financial advice. I am an AI assistant.",
+      "utterance": "It's great that you're getting the full company match \u2013 that's essentially free money! As a general rule, many financial advisors recommend saving 15% of your income for retirement, including any employer match. To get a more personalized recommendation, it's useful to estimate your retirement expenses. There are many online calculators to help with that calculation. Some of these tools may be helpful to you but I am unable to provide financial advice. I am an AI assistant.",
       "response_time": 5.33,
       "emotion_detected": "neutral",
       "trust_score": 7.0,

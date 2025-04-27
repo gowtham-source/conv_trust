@@ -1,23 +1,9 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1174",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1174",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-21T14:13:26.329530",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.62,
-      "benevolence": 4.4,
-      "integrity": 4.69
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
       "speaker": "user",
-      "utterance": "Hey, I need some help planning my grocery shopping for the week. I'm on a really tight budget – like, $50 max. Any ideas?",
+      "utterance": "Hey, I need some help planning my grocery shopping for the week. I'm on a really tight budget \u2013 like, $50 max. Any ideas?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, lentils sound good! And I'll check out tofu prices. Thanks for the suggestions – that's actually really helpful. I think I have a much better plan now. Appreciate it!",
+      "utterance": "Okay, lentils sound good! And I'll check out tofu prices. Thanks for the suggestions \u2013 that's actually really helpful. I think I have a much better plan now. Appreciate it!",
       "response_time": null,
       "emotion_detected": "joy",
       "trust_score": null,

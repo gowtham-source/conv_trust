@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1923",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1923",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T15:44:54.551069",
-    "total_turns": 8,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 5.21,
-      "benevolence": 5.09,
-      "integrity": 5.39
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "Excellent! If the tank were a cylinder, the volume formula would be different (V = πr²h). The key difference would be that the radius would no longer be changing in relation to the water height. This would greatly simplify the problem. The water level would rise at a constant rate, assuming water is flowing in at a constant rate. You would essentially be dealing with a simpler rate of change problem, dh/dt, directly from the volume rate, dV/dt, since the radius would remain constant. Good job with that challenging question!",
+      "utterance": "Excellent! If the tank were a cylinder, the volume formula would be different (V = \u03c0r\u00b2h). The key difference would be that the radius would no longer be changing in relation to the water height. This would greatly simplify the problem. The water level would rise at a constant rate, assuming water is flowing in at a constant rate. You would essentially be dealing with a simpler rate of change problem, dh/dt, directly from the volume rate, dV/dt, since the radius would remain constant. Good job with that challenging question!",
       "response_time": 4.79,
       "emotion_detected": "neutral",
       "trust_score": 7.0,

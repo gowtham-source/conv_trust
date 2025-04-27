@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1143",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1143",
-    "scenario": "Ar denial processing",
-    "timestamp": "2025-04-21T14:10:43.045980",
-    "total_turns": 5,
-    "total_trust_score": 2.5,
-    "trust_category_scores": {
-      "competence": 2.67,
-      "benevolence": 2.58,
-      "integrity": 2.73
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "CO-97 usually indicates that the service is bundled with another procedure already paid. For 99213 specifically with BCBS, verify if any other services were billed on the same date of service. Common culprits are vaccinations, injections, or even certain lab tests that BCBS might consider part of a global service package. Also, double-check your modifier usage – are you using any modifiers on the 99213, and if so, are they appropriate? Finally, is it possible that the patient saw another provider in your practice on the same day? The information I'm giving is of a general nature; please consult a professional for more definitive direction.",
+      "utterance": "CO-97 usually indicates that the service is bundled with another procedure already paid. For 99213 specifically with BCBS, verify if any other services were billed on the same date of service. Common culprits are vaccinations, injections, or even certain lab tests that BCBS might consider part of a global service package. Also, double-check your modifier usage \u2013 are you using any modifiers on the 99213, and if so, are they appropriate? Finally, is it possible that the patient saw another provider in your practice on the same day? The information I'm giving is of a general nature; please consult a professional for more definitive direction.",
       "response_time": 2.71,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

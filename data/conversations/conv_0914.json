@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0914",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0914",
-    "scenario": "restaurant booking assistance",
-    "timestamp": "2025-04-21T13:47:06.558910",
-    "total_turns": 8,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.15,
-      "benevolence": 4.11,
-      "integrity": 4.08
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Bella Notte… Hmm, I think I've heard of it. What's their price range like? And more importantly, do they have any vegetarian options? One of us doesn't eat meat.",
+      "utterance": "Bella Notte\u2026 Hmm, I think I've heard of it. What's their price range like? And more importantly, do they have any vegetarian options? One of us doesn't eat meat.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

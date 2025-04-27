@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0320",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0320",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T12:48:21.904570",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.49,
-      "benevolence": 4.29,
-      "integrity": 4.34
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a valid concern. Sustainable and ethical fashion within a $100 budget is definitely challenging but not impossible. Consider thrifting or shopping at consignment stores – you can often find high-quality, pre-owned items for a fraction of the original price. Look for local charity shops or online platforms like ThredUp or Poshmark. Prioritize buying fewer, well-made pieces that will last longer. For example, a well-made second-hand pair of jeans might be better than two pairs of cheaply made new ones. Also, consider eco-friendly brands like Pact or tentree, which occasionally have sales, or look for items made with organic cotton, which is more sustainable.",
+      "utterance": "That's a valid concern. Sustainable and ethical fashion within a $100 budget is definitely challenging but not impossible. Consider thrifting or shopping at consignment stores \u2013 you can often find high-quality, pre-owned items for a fraction of the original price. Look for local charity shops or online platforms like ThredUp or Poshmark. Prioritize buying fewer, well-made pieces that will last longer. For example, a well-made second-hand pair of jeans might be better than two pairs of cheaply made new ones. Also, consider eco-friendly brands like Pact or tentree, which occasionally have sales, or look for items made with organic cotton, which is more sustainable.",
       "response_time": 2.58,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0547",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0547",
-    "scenario": "Health advice consultation",
-    "timestamp": "2025-04-21T13:10:39.400677",
-    "total_turns": 8,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 4.65,
-      "benevolence": 4.52,
-      "integrity": 4.54
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, but what *else* could it be? I've Googled it, and now I'm worried it's something serious. I’ve been under a lot of stress lately. Could that be the only cause?",
+      "utterance": "Okay, but what *else* could it be? I've Googled it, and now I'm worried it's something serious. I\u2019ve been under a lot of stress lately. Could that be the only cause?",
       "response_time": null,
       "emotion_detected": "fear",
       "trust_score": null,

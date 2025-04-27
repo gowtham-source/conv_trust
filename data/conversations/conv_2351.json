@@ -1,23 +1,9 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2351",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2351",
-    "scenario": "Food ordering and recommendations",
-    "timestamp": "2025-04-21T16:34:56.109039",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.14,
-      "benevolence": 4.62,
-      "integrity": 4.5
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
       "speaker": "user",
-      "utterance": "Hey, I'm starving. Any good food recommendations nearby? I'm in the mood for something… interesting.",
+      "utterance": "Hey, I'm starving. Any good food recommendations nearby? I'm in the mood for something\u2026 interesting.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Alright, let me check… It seems Spice Route's average meal price is around $15-$20. And, yes, they do offer several gluten-free options. However, I'm having some trouble pinpointing specifically *which* dishes are gluten-free due to a temporary database glitch. You might want to call them directly to confirm those details if that is a requirement. Sorry for the inconvenience!",
+      "utterance": "Alright, let me check\u2026 It seems Spice Route's average meal price is around $15-$20. And, yes, they do offer several gluten-free options. However, I'm having some trouble pinpointing specifically *which* dishes are gluten-free due to a temporary database glitch. You might want to call them directly to confirm those details if that is a requirement. Sorry for the inconvenience!",
       "response_time": 2.98,
       "emotion_detected": "sadness",
       "trust_score": 4.0,

@@ -1,23 +1,9 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1750",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1750",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T15:23:00.195120",
-    "total_turns": 5,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.01,
-      "benevolence": 4.09,
-      "integrity": 3.9
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
       "speaker": "user",
-      "utterance": "Okay, I need some help. I have a wedding to go to next month, and I have absolutely no idea what to wear. My budget is pretty tight – let's say $200 for the whole outfit. Can you help?",
+      "utterance": "Okay, I need some help. I have a wedding to go to next month, and I have absolutely no idea what to wear. My budget is pretty tight \u2013 let's say $200 for the whole outfit. Can you help?",
       "response_time": null,
       "emotion_detected": "sadness",
       "trust_score": null,

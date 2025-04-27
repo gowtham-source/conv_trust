@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2837",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2837",
-    "scenario": "Travel booking assistance",
-    "timestamp": "2025-04-22T08:59:41.591325",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.67,
-      "benevolence": 4.58,
-      "integrity": 4.67
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, London to Paris flights and a mid-range hotel for two, checking in around the 8th and out around the 15th. Let me look into options. I'm finding some flights around £150-£200 return per person, mostly flying into CDG. For hotels, I see a few options like a place near Gare du Nord or one closer to the Latin Quarter, both around £120-£150 per night. The Gare du Nord one is £125, the Latin Quarter one is £145.",
+      "utterance": "Okay, London to Paris flights and a mid-range hotel for two, checking in around the 8th and out around the 15th. Let me look into options. I'm finding some flights around \u00a3150-\u00a3200 return per person, mostly flying into CDG. For hotels, I see a few options like a place near Gare du Nord or one closer to the Latin Quarter, both around \u00a3120-\u00a3150 per night. The Gare du Nord one is \u00a3125, the Latin Quarter one is \u00a3145.",
       "response_time": 3.98,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "You're right, Gare du Nord is more of a transport hub. The Latin Quarter is better for culture. Getting from CDG to the Latin Quarter usually involves taking the RER B train line. It's relatively inexpensive but can be busy. For hotels in the Marais or Saint-Germain in the mid-range, those areas tend to be pricier. Let me re-search for options specifically in those areas or perhaps slightly further out but with excellent transit links. It might be hard to find many under £150 in Saint-Germain.",
+      "utterance": "You're right, Gare du Nord is more of a transport hub. The Latin Quarter is better for culture. Getting from CDG to the Latin Quarter usually involves taking the RER B train line. It's relatively inexpensive but can be busy. For hotels in the Marais or Saint-Germain in the mid-range, those areas tend to be pricier. Let me re-search for options specifically in those areas or perhaps slightly further out but with excellent transit links. It might be hard to find many under \u00a3150 in Saint-Germain.",
       "response_time": 3.61,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, I appreciate you checking. If Marais/Saint-Germain is tough, maybe just find the best option near the Latin Quarter then that *isn't* that £145 one? Is there anything around £130-£135 that's well-rated? And about the RER - is it safe at night?",
+      "utterance": "Okay, I appreciate you checking. If Marais/Saint-Germain is tough, maybe just find the best option near the Latin Quarter then that *isn't* that \u00a3145 one? Is there anything around \u00a3130-\u00a3135 that's well-rated? And about the RER - is it safe at night?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

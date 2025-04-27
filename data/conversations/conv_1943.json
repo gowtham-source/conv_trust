@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1943",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1943",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T15:47:32.936825",
-    "total_turns": 9,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.59,
-      "benevolence": 4.57,
-      "integrity": 4.84
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, great problem! Let's break it down. First, we can use the Pythagorean theorem:  x² + y² = 10². Where x is the distance from the wall and y is the height of the ladder on the wall. Now we can differentiate both sides with respect to time (t). Do you want me to show you that step-by-step?",
+      "utterance": "Okay, great problem! Let's break it down. First, we can use the Pythagorean theorem:  x\u00b2 + y\u00b2 = 10\u00b2. Where x is the distance from the wall and y is the height of the ladder on the wall. Now we can differentiate both sides with respect to time (t). Do you want me to show you that step-by-step?",
       "response_time": 3.84,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Alright. So, differentiating x² + y² = 10² with respect to t, we get:  2x(dx/dt) + 2y(dy/dt) = 0.  Now, let's plug in the values we know:  x = 6 ft (given), dx/dt = 1 ft/sec (given). We can find y using the Pythagorean theorem: 6² + y² = 10², so y = 8 ft.  Then, we can solve for dy/dt, which is what we're looking for. dy/dt = -(x/y)(dx/dt).  Can you solve for dy/dt now?",
+      "utterance": "Alright. So, differentiating x\u00b2 + y\u00b2 = 10\u00b2 with respect to t, we get:  2x(dx/dt) + 2y(dy/dt) = 0.  Now, let's plug in the values we know:  x = 6 ft (given), dx/dt = 1 ft/sec (given). We can find y using the Pythagorean theorem: 6\u00b2 + y\u00b2 = 10\u00b2, so y = 8 ft.  Then, we can solve for dy/dt, which is what we're looking for. dy/dt = -(x/y)(dx/dt).  Can you solve for dy/dt now?",
       "response_time": 3.05,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

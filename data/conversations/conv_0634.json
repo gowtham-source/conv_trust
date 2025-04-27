@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0634",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0634",
-    "scenario": "Book recommendations based on genre",
-    "timestamp": "2025-04-21T13:19:23.767015",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.72,
-      "benevolence": 4.84,
-      "integrity": 4.36
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "I've read 'Dune' already, great book! 'The Martian' sounds interesting, but I'm looking for something a little less… mainstream, I guess? Something a bit more thought-provoking, maybe dealing with philosophical themes. It's hard to explain, I know!",
+      "utterance": "I've read 'Dune' already, great book! 'The Martian' sounds interesting, but I'm looking for something a little less\u2026 mainstream, I guess? Something a bit more thought-provoking, maybe dealing with philosophical themes. It's hard to explain, I know!",
       "response_time": null,
       "emotion_detected": "surprise",
       "trust_score": null,

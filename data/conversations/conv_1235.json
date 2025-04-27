@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1235",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1235",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-21T14:19:36.612492",
-    "total_turns": 6,
-    "total_trust_score": 6.0,
-    "trust_category_scores": {
-      "competence": 5.76,
-      "benevolence": 5.8,
-      "integrity": 5.96
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Understood. Based on your preferences and budget, here’s a possible grocery list:\n\n*   **Vegetables:** Broccoli, carrots, spinach, bell peppers ($20)\n*   **Protein:** Chicken breast, eggs, lentils ($25)\n*   **Grains:** Brown rice, whole wheat bread ($10)\n*   **Fruits:** Apples, bananas, oranges ($10)\n*   **Other:** Olive oil, spices ($10)\n\nThis list should come in around $75. Prices may vary based on your location and specific store. Would you like me to provide more specific quantities for each item?",
+      "utterance": "Understood. Based on your preferences and budget, here\u2019s a possible grocery list:\n\n*   **Vegetables:** Broccoli, carrots, spinach, bell peppers ($20)\n*   **Protein:** Chicken breast, eggs, lentils ($25)\n*   **Grains:** Brown rice, whole wheat bread ($10)\n*   **Fruits:** Apples, bananas, oranges ($10)\n*   **Other:** Olive oil, spices ($10)\n\nThis list should come in around $75. Prices may vary based on your location and specific store. Would you like me to provide more specific quantities for each item?",
       "response_time": 4.82,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

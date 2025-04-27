@@ -1,23 +1,9 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1012",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1012",
-    "scenario": "Book recommendations based on genre",
-    "timestamp": "2025-04-21T13:57:05.246342",
-    "total_turns": 4,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.8,
-      "benevolence": 4.97,
-      "integrity": 4.81
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
       "speaker": "user",
-      "utterance": "Okay, I'm looking for a good book to read. I'm really in the mood for something in the sci-fi genre, but not something too cliché, you know? I'm tired of space operas.",
+      "utterance": "Okay, I'm looking for a good book to read. I'm really in the mood for something in the sci-fi genre, but not something too clich\u00e9, you know? I'm tired of space operas.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

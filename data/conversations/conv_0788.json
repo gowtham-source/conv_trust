@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0788",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0788",
-    "scenario": "Ar denial processing",
-    "timestamp": "2025-04-21T13:33:59.349711",
-    "total_turns": 5,
-    "total_trust_score": 2.5,
-    "trust_category_scores": {
-      "competence": 2.44,
-      "benevolence": 2.83,
-      "integrity": 2.79
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Sure, it's John Smith, date of service was 2024-03-15. And honestly, this feels like a wild goose chase. Is there *anything* specific I can look for in the denial reason to figure out what they're missing? It just says 'lack of medical necessity' – super helpful, right?",
+      "utterance": "Sure, it's John Smith, date of service was 2024-03-15. And honestly, this feels like a wild goose chase. Is there *anything* specific I can look for in the denial reason to figure out what they're missing? It just says 'lack of medical necessity' \u2013 super helpful, right?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Aha! Okay, that makes sense. We'll double-check the ICD-10 codes against the payer's policy. Thanks for pointing that out – I appreciate you digging into the details. A link to their policy would be great just to be absolutely sure. Hopefully, this will solve the issue this time.",
+      "utterance": "Aha! Okay, that makes sense. We'll double-check the ICD-10 codes against the payer's policy. Thanks for pointing that out \u2013 I appreciate you digging into the details. A link to their policy would be great just to be absolutely sure. Hopefully, this will solve the issue this time.",
       "response_time": null,
       "emotion_detected": "joy",
       "trust_score": null,

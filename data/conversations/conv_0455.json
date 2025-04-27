@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0455",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0455",
-    "scenario": "Financial planning guidance",
-    "timestamp": "2025-04-21T13:01:30.081613",
-    "total_turns": 7,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.11,
-      "benevolence": 3.94,
-      "integrity": 3.88
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, that's… actually helpful. Tax-free withdrawals sound pretty good. So, next step: figure out how to actually *open* one of these things, I guess. Thanks! I feel slightly less lost now.",
+      "utterance": "Okay, that's\u2026 actually helpful. Tax-free withdrawals sound pretty good. So, next step: figure out how to actually *open* one of these things, I guess. Thanks! I feel slightly less lost now.",
       "response_time": null,
       "emotion_detected": "sadness",
       "trust_score": null,

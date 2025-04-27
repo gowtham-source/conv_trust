@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1036",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1036",
-    "scenario": "E-commerce product recommendations based on budget",
-    "timestamp": "2025-04-21T13:59:40.929183",
-    "total_turns": 10,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.84,
-      "benevolence": 3.95,
-      "integrity": 3.91
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -105,7 +91,7 @@
     {
       "turn_id": 9,
       "speaker": "user",
-      "utterance": "Okay, that helps a bit. One last question – how long do these laptops usually last? I don't want to buy something that's going to be obsolete in a year or two.",
+      "utterance": "Okay, that helps a bit. One last question \u2013 how long do these laptops usually last? I don't want to buy something that's going to be obsolete in a year or two.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

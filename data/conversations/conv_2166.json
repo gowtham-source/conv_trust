@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2166",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2166",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T16:14:42.048482",
-    "total_turns": 5,
-    "total_trust_score": 2.5,
-    "trust_category_scores": {
-      "competence": 2.39,
-      "benevolence": 2.56,
-      "integrity": 2.54
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Absolutely. Here's the breakdown of the derivative part. Let's call the distance from the wall to the bottom of the ladder 'x', and the height of the ladder on the wall 'y'. Then, x² + y² = 10². Differentiating implicitly with respect to time 't', we get 2x(dx/dt) + 2y(dy/dt) = 0. Now, plug in the known values, and solve for dy/dt when x=6.  Does that make sense? And then, what if the rate of change of x, dx/dt, was NOT constant? How would that change the problem?",
+      "utterance": "Absolutely. Here's the breakdown of the derivative part. Let's call the distance from the wall to the bottom of the ladder 'x', and the height of the ladder on the wall 'y'. Then, x\u00b2 + y\u00b2 = 10\u00b2. Differentiating implicitly with respect to time 't', we get 2x(dx/dt) + 2y(dy/dt) = 0. Now, plug in the known values, and solve for dy/dt when x=6.  Does that make sense? And then, what if the rate of change of x, dx/dt, was NOT constant? How would that change the problem?",
       "response_time": 0.54,
       "emotion_detected": "neutral",
       "trust_score": 1.0,

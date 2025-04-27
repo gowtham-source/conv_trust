@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1918",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1918",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T15:44:19.560442",
-    "total_turns": 8,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 4.38,
-      "benevolence": 4.39,
-      "integrity": 4.45
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Hmm... Okay, I think I get it. The opportunity cost is $8,000 – the profit he could have made from soybeans. If he had to pay rent, the opportunity cost would be the same, because the best alternative use of his resources is still the best alternative. Right?",
+      "utterance": "Hmm... Okay, I think I get it. The opportunity cost is $8,000 \u2013 the profit he could have made from soybeans. If he had to pay rent, the opportunity cost would be the same, because the best alternative use of his resources is still the best alternative. Right?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

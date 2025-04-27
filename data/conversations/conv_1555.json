@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1555",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1555",
-    "scenario": "Technical support for a malfunctioning device",
-    "timestamp": "2025-04-21T15:00:11.647617",
-    "total_turns": 9,
-    "total_trust_score": 2.5,
-    "trust_category_scores": {
-      "competence": 2.58,
-      "benevolence": 2.57,
-      "integrity": 2.62
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "There is no power switch on the back, and the display is completely blank. Nothing. Absolutely nothing happens when I press the power button. I’ve tried holding the button, too, as some devices need that.",
+      "utterance": "There is no power switch on the back, and the display is completely blank. Nothing. Absolutely nothing happens when I press the power button. I\u2019ve tried holding the button, too, as some devices need that.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

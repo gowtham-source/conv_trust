@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2755",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2755",
-    "scenario": "E-commerce product recommendations",
-    "timestamp": "2025-04-22T08:43:19.138714",
-    "total_turns": 9,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.36,
-      "benevolence": 5.51,
-      "integrity": 5.31
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, that helps a bit with the durability concern. But here's a tricky one: Given that I *might* do some light photo editing, which processor within the sub-$800 range – say, between an Intel Core i5-1135G7 and an AMD Ryzen 5 5500U – would generally provide a noticeable performance advantage for tasks like loading large images or applying basic filters in software like GIMP or Photoshop Express, assuming other specs like RAM and SSD are equal?",
+      "utterance": "Okay, that helps a bit with the durability concern. But here's a tricky one: Given that I *might* do some light photo editing, which processor within the sub-$800 range \u2013 say, between an Intel Core i5-1135G7 and an AMD Ryzen 5 5500U \u2013 would generally provide a noticeable performance advantage for tasks like loading large images or applying basic filters in software like GIMP or Photoshop Express, assuming other specs like RAM and SSD are equal?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

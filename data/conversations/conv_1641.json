@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1641",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1641",
-    "scenario": "hotel booking assistance",
-    "timestamp": "2025-04-21T15:10:25.675878",
-    "total_turns": 5,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.83,
-      "benevolence": 3.83,
-      "integrity": 4.02
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Alright. Let me see what I can find... (pauses) Okay, I've found a few options. The first is the Hyatt Centric The Loop Chicago. It has breakfast included, but parking is valet only and pretty pricey. The second is The Kinzie Hotel, which is slightly further from the park but offers free parking and breakfast. The third option is a bit more of a stretch, the Radisson Blu Aqua Hotel Chicago, which has a pool and great views, but it’s a little over your budget. Are any of these a good fit, or should I refine the search?",
+      "utterance": "Alright. Let me see what I can find... (pauses) Okay, I've found a few options. The first is the Hyatt Centric The Loop Chicago. It has breakfast included, but parking is valet only and pretty pricey. The second is The Kinzie Hotel, which is slightly further from the park but offers free parking and breakfast. The third option is a bit more of a stretch, the Radisson Blu Aqua Hotel Chicago, which has a pool and great views, but it\u2019s a little over your budget. Are any of these a good fit, or should I refine the search?",
       "response_time": 2.78,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

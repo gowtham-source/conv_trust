@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0096",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0096",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T12:27:45.154935",
-    "total_turns": 4,
-    "total_trust_score": 3.25,
-    "trust_category_scores": {
-      "competence": 3.65,
-      "benevolence": 3.48,
-      "integrity": 3.39
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, let's tackle that. First, we need to break down the initial velocity into its horizontal (vx) and vertical (vy) components. vx = 15 * cos(30) ≈ 12.99 m/s, and vy = 15 * sin(30) = 7.5 m/s. Next, we need to find the time it takes for the ball to hit the ground. We can use the following kinematic equation for the vertical motion: Δy = vy*t + (1/2)*a*t^2, where Δy = -20 m (since the ball is going down), a = -9.8 m/s^2 (acceleration due to gravity). Solving for t, you'll get a quadratic equation. The positive value of t is the time of flight. Finally, once you have the time of flight, you can calculate the horizontal distance (range) using x = vx * t. That should give you the answer! Let me know what value you get for t.",
+      "utterance": "Okay, let's tackle that. First, we need to break down the initial velocity into its horizontal (vx) and vertical (vy) components. vx = 15 * cos(30) \u2248 12.99 m/s, and vy = 15 * sin(30) = 7.5 m/s. Next, we need to find the time it takes for the ball to hit the ground. We can use the following kinematic equation for the vertical motion: \u0394y = vy*t + (1/2)*a*t^2, where \u0394y = -20 m (since the ball is going down), a = -9.8 m/s^2 (acceleration due to gravity). Solving for t, you'll get a quadratic equation. The positive value of t is the time of flight. Finally, once you have the time of flight, you can calculate the horizontal distance (range) using x = vx * t. That should give you the answer! Let me know what value you get for t.",
       "response_time": 3.73,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

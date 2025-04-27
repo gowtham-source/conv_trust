@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2599",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2599",
-    "scenario": "Interview preparation assistance",
-    "timestamp": "2025-04-21T17:18:14.805348",
-    "total_turns": 10,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.43,
-      "benevolence": 5.61,
-      "integrity": 5.33
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -114,7 +100,7 @@
     {
       "turn_id": 10,
       "speaker": "agent",
-      "utterance": "That's a very insightful question! To tailor answers to company values, research their mission and values thoroughly. When crafting your STAR stories, select experiences that naturally highlight these values. For instance, use a story involving teamwork for 'collaboration' or problem-solving for 'innovation'. To anticipate their underlying intent and follow-ups, consider *why* they ask certain questions – usually to assess key competencies like problem-solving, leadership, handling conflict, or learning from mistakes. Think about the core skill each question is probing and be ready to elaborate on your thought process, alternatives you considered, or how you influenced others. Practicing articulating your thinking process is key.",
+      "utterance": "That's a very insightful question! To tailor answers to company values, research their mission and values thoroughly. When crafting your STAR stories, select experiences that naturally highlight these values. For instance, use a story involving teamwork for 'collaboration' or problem-solving for 'innovation'. To anticipate their underlying intent and follow-ups, consider *why* they ask certain questions \u2013 usually to assess key competencies like problem-solving, leadership, handling conflict, or learning from mistakes. Think about the core skill each question is probing and be ready to elaborate on your thought process, alternatives you considered, or how you influenced others. Practicing articulating your thinking process is key.",
       "response_time": 5.38,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

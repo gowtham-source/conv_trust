@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0432",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0432",
-    "scenario": "Health advice consultation",
-    "timestamp": "2025-04-21T12:59:14.168303",
-    "total_turns": 5,
-    "total_trust_score": 3.0,
-    "trust_category_scores": {
-      "competence": 3.02,
-      "benevolence": 2.68,
-      "integrity": 3.02
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, I guess. But what if it *is* something serious? Like, how do I know when it's just a headache and when I should be really worried? That answer was a little vague, honestly. I’m just trying to figure out what's worth a costly doctor's visit.",
+      "utterance": "Okay, I guess. But what if it *is* something serious? Like, how do I know when it's just a headache and when I should be really worried? That answer was a little vague, honestly. I\u2019m just trying to figure out what's worth a costly doctor's visit.",
       "response_time": null,
       "emotion_detected": "fear",
       "trust_score": null,

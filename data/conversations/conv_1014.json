@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1014",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1014",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T13:57:19.113060",
-    "total_turns": 7,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.39,
-      "benevolence": 5.87,
-      "integrity": 5.71
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "To add some flair without overspending: consider accessories! A statement necklace (check clearance sections), a colorful scarf (thrift stores are great for this), or even just rolling up your sleeves in a specific way can elevate the look. Also, experiment with different ways of tucking in your top – a full tuck, a front tuck, or even tying a knot. You could also try DIY-ing some distressing on your jeans, if you're feeling crafty!",
+      "utterance": "To add some flair without overspending: consider accessories! A statement necklace (check clearance sections), a colorful scarf (thrift stores are great for this), or even just rolling up your sleeves in a specific way can elevate the look. Also, experiment with different ways of tucking in your top \u2013 a full tuck, a front tuck, or even tying a knot. You could also try DIY-ing some distressing on your jeans, if you're feeling crafty!",
       "response_time": 5.53,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

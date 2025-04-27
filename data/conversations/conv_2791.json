@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2791",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2791",
-    "scenario": "Career counseling",
-    "timestamp": "2025-04-22T08:50:13.082569",
-    "total_turns": 5,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.37,
-      "benevolence": 5.5,
-      "integrity": 5.62
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "I understand that transitioning can feel daunting without direct experience in the target field. However, the skills you mentioned – organizing, analysis, writing, creativity – are highly valuable and transferable. You can start by highlighting these transferable skills prominently on your resume and cover letters, framing your admin experience to showcase these abilities. Additionally, consider building a portfolio through personal projects (like analyzing public datasets and writing up findings), taking online courses to formalize your skills, or targeting entry-level roles or internships that value your foundational abilities and willingness to learn.",
+      "utterance": "I understand that transitioning can feel daunting without direct experience in the target field. However, the skills you mentioned \u2013 organizing, analysis, writing, creativity \u2013 are highly valuable and transferable. You can start by highlighting these transferable skills prominently on your resume and cover letters, framing your admin experience to showcase these abilities. Additionally, consider building a portfolio through personal projects (like analyzing public datasets and writing up findings), taking online courses to formalize your skills, or targeting entry-level roles or internships that value your foundational abilities and willingness to learn.",
       "response_time": 5.55,
       "emotion_detected": "fear",
       "trust_score": 5.5,

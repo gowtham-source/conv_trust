@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0590",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0590",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-21T13:15:01.233857",
-    "total_turns": 6,
-    "total_trust_score": 6.0,
-    "trust_category_scores": {
-      "competence": 6.12,
-      "benevolence": 5.93,
-      "integrity": 5.83
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, that sounds…reasonable. But how do I actually *make* anything with that? Can you give me, like, meal suggestions based on those ingredients, and make sure they are actually healthy and not just 'cheap'?",
+      "utterance": "Okay, that sounds\u2026reasonable. But how do I actually *make* anything with that? Can you give me, like, meal suggestions based on those ingredients, and make sure they are actually healthy and not just 'cheap'?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

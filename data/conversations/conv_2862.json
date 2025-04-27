@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2862",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2862",
-    "scenario": "Job application assistance",
-    "timestamp": "2025-04-22T09:04:43.449579",
-    "total_turns": 9,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.26,
-      "benevolence": 5.38,
-      "integrity": 5.34
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a common challenge. To make it sound authentic while hitting keywords, you need to integrate your genuine experiences and personality. Instead of just listing skills, describe *how* you used creativity or data analysis in a specific project. Research Innovate Solutions' values and mission – weaving in language that resonates with their culture can also make it feel more personal and targeted. Focus on telling a brief story or providing a concrete example for each key requirement.",
+      "utterance": "That's a common challenge. To make it sound authentic while hitting keywords, you need to integrate your genuine experiences and personality. Instead of just listing skills, describe *how* you used creativity or data analysis in a specific project. Research Innovate Solutions' values and mission \u2013 weaving in language that resonates with their culture can also make it feel more personal and targeted. Focus on telling a brief story or providing a concrete example for each key requirement.",
       "response_time": 3.2,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

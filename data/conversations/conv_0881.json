@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0881",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0881",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T13:43:43.964225",
-    "total_turns": 8,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 5.05,
-      "benevolence": 4.92,
-      "integrity": 4.94
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "Finding quality shoes for under $50 can be tricky. Your best bet would be outlet stores, sales, or looking for gently used options online. Pay attention to the construction – look for shoes with stitched soles rather than glued ones. Another option is to prioritize one good pair of versatile shoes like sneakers or boots and care for them meticulously to extend their lifespan. Unfortunately, it’s hard to guarantee finding brand-new, high-quality footwear at that price point consistently.",
+      "utterance": "Finding quality shoes for under $50 can be tricky. Your best bet would be outlet stores, sales, or looking for gently used options online. Pay attention to the construction \u2013 look for shoes with stitched soles rather than glued ones. Another option is to prioritize one good pair of versatile shoes like sneakers or boots and care for them meticulously to extend their lifespan. Unfortunately, it\u2019s hard to guarantee finding brand-new, high-quality footwear at that price point consistently.",
       "response_time": 3.57,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

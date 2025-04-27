@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1799",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1799",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T15:28:44.367704",
-    "total_turns": 5,
-    "total_trust_score": 6.25,
-    "trust_category_scores": {
-      "competence": 6.33,
-      "benevolence": 5.95,
-      "integrity": 6.3
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Certainly! First, we consider the vertical motion. We know the initial vertical velocity is 0 m/s (since it's thrown horizontally), the displacement is -10 m (downwards), and the acceleration due to gravity is -9.8 m/s². Using the equation d = v₀t + (1/2)at², we can solve for time (t). So, -10 = 0*t + (1/2)*(-9.8)t². Solve for t, and you have the answer. Now, for a more challenging question, what if we consider air resistance?",
+      "utterance": "Certainly! First, we consider the vertical motion. We know the initial vertical velocity is 0 m/s (since it's thrown horizontally), the displacement is -10 m (downwards), and the acceleration due to gravity is -9.8 m/s\u00b2. Using the equation d = v\u2080t + (1/2)at\u00b2, we can solve for time (t). So, -10 = 0*t + (1/2)*(-9.8)t\u00b2. Solve for t, and you have the answer. Now, for a more challenging question, what if we consider air resistance?",
       "response_time": 3.31,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

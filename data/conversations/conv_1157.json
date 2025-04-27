@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1157",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1157",
-    "scenario": "Home improvement guidance",
-    "timestamp": "2025-04-21T14:11:56.767098",
-    "total_turns": 9,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 3.98,
-      "benevolence": 4.5,
-      "integrity": 4.43
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, great. Now, here's the part I always mess up – cutting in. I can never get a straight line! Any tips beyond just \"go slow\"?",
+      "utterance": "Okay, great. Now, here's the part I always mess up \u2013 cutting in. I can never get a straight line! Any tips beyond just \"go slow\"?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

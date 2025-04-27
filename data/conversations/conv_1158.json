@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1158",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1158",
-    "scenario": "Book recommendations based on genre",
-    "timestamp": "2025-04-21T14:12:03.190308",
-    "total_turns": 8,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 4.52,
-      "benevolence": 4.52,
-      "integrity": 4.32
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, that sounds interesting. I'll look it up. Anything else? Something maybe a little less…dragon-y? I've read so many dragon books lately.",
+      "utterance": "Okay, that sounds interesting. I'll look it up. Anything else? Something maybe a little less\u2026dragon-y? I've read so many dragon books lately.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "That's an excellent question. My assessment of tropes is based on the data I've been trained on, which includes book descriptions, reviews, and user ratings. I identify recurring themes, character archetypes, and plot devices that are frequently mentioned in negative contexts as being 'overused' or 'clichéd'. However, this data is inherently biased. For example, certain subgenres or authors might be unfairly labeled due to the reviewers who tend to cover them. I try to mitigate this by considering a wide range of sources and using algorithms that penalize overly simplistic or biased classifications, but I cannot guarantee a completely neutral assessment. My recommendations should always be viewed as suggestions, not definitive statements.",
+      "utterance": "That's an excellent question. My assessment of tropes is based on the data I've been trained on, which includes book descriptions, reviews, and user ratings. I identify recurring themes, character archetypes, and plot devices that are frequently mentioned in negative contexts as being 'overused' or 'clich\u00e9d'. However, this data is inherently biased. For example, certain subgenres or authors might be unfairly labeled due to the reviewers who tend to cover them. I try to mitigate this by considering a wide range of sources and using algorithms that penalize overly simplistic or biased classifications, but I cannot guarantee a completely neutral assessment. My recommendations should always be viewed as suggestions, not definitive statements.",
       "response_time": 1.56,
       "emotion_detected": "neutral",
       "trust_score": 2.5,

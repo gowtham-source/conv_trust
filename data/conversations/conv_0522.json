@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0522",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0522",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T13:08:01.901632",
-    "total_turns": 9,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 4.89,
-      "benevolence": 4.98,
-      "integrity": 5.08
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -26,7 +12,7 @@
     {
       "turn_id": 2,
       "speaker": "agent",
-      "utterance": "Okay, I understand! To give you the best recommendations, what's your approximate budget for new clothes right now? Also, what kind of style are you generally going for – casual, professional, something else?",
+      "utterance": "Okay, I understand! To give you the best recommendations, what's your approximate budget for new clothes right now? Also, what kind of style are you generally going for \u2013 casual, professional, something else?",
       "response_time": 3.5,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2092",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2092",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T16:04:47.184593",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.35,
-      "benevolence": 4.48,
-      "integrity": 4.72
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "I understand your confusion. This type of problem can be tricky. Let's break it down step by step. First, we need to relate the volume of the water to the water level. The volume of a cone is V = (1/3)πr²h. We can use similar triangles to relate r and h. Can you tell me what the relationship is between r and h in this scenario?",
+      "utterance": "I understand your confusion. This type of problem can be tricky. Let's break it down step by step. First, we need to relate the volume of the water to the water level. The volume of a cone is V = (1/3)\u03c0r\u00b2h. We can use similar triangles to relate r and h. Can you tell me what the relationship is between r and h in this scenario?",
       "response_time": 2.34,
       "emotion_detected": "neutral",
       "trust_score": 2.5,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Hmm... okay, the derivative of the volume formula is dV/dt = (π/9)h^2 * dh/dt. I then plugged in the known values and found the answer to be approximately -0.159 ft/min, or the water level drops at about 0.16 ft/min when the water is 6 feet deep. I am so satisfied, thank you so much!",
+      "utterance": "Hmm... okay, the derivative of the volume formula is dV/dt = (\u03c0/9)h^2 * dh/dt. I then plugged in the known values and found the answer to be approximately -0.159 ft/min, or the water level drops at about 0.16 ft/min when the water is 6 feet deep. I am so satisfied, thank you so much!",
       "response_time": null,
       "emotion_detected": "joy",
       "trust_score": null,

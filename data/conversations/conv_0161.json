@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0161",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0161",
-    "scenario": "Movie recommendations based on genre",
-    "timestamp": "2025-04-21T12:34:06.703286",
-    "total_turns": 6,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.42,
-      "benevolence": 4.38,
-      "integrity": 4.47
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a tricky one! Given your interest in obscure and disturbing thrillers similar to 'Se7en', you might appreciate 'Cure' (1997), a Japanese psychological thriller. It explores similar themes of societal decay and features a detective investigating a series of bizarre murders. Be warned, it is pretty unsettling. Another possibility, although tonally different, is 'The Skin I Live In'. It's a Pedro Almodóvar film, so more stylish and less gritty than 'Se7en', but still deals with dark subject matter and has significant twists.",
+      "utterance": "That's a tricky one! Given your interest in obscure and disturbing thrillers similar to 'Se7en', you might appreciate 'Cure' (1997), a Japanese psychological thriller. It explores similar themes of societal decay and features a detective investigating a series of bizarre murders. Be warned, it is pretty unsettling. Another possibility, although tonally different, is 'The Skin I Live In'. It's a Pedro Almod\u00f3var film, so more stylish and less gritty than 'Se7en', but still deals with dark subject matter and has significant twists.",
       "response_time": 3.49,
       "emotion_detected": "fear",
       "trust_score": 5.5,

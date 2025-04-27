@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1256",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1256",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T14:21:56.168434",
-    "total_turns": 4,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.65,
-      "benevolence": 4.62,
-      "integrity": 4.44
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Okay, that sounds reasonable, but I'm not sure about the blazer. What if I hate blazers? Can you give me alternative suggestions that are still suitable for a business-casual environment, but without a blazer? And also, can you show me specific items I can buy that are within the budget? I’m a little frustrated with general suggestions.",
+      "utterance": "Okay, that sounds reasonable, but I'm not sure about the blazer. What if I hate blazers? Can you give me alternative suggestions that are still suitable for a business-casual environment, but without a blazer? And also, can you show me specific items I can buy that are within the budget? I\u2019m a little frustrated with general suggestions.",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

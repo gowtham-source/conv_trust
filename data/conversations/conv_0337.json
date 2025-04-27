@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0337",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0337",
-    "scenario": "E-commerce product recommendations",
-    "timestamp": "2025-04-21T12:50:03.692923",
-    "total_turns": 9,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.75,
-      "benevolence": 4.79,
-      "integrity": 4.86
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "Brew temperature affects the extraction of different compounds from the coffee grounds. Lower temperatures can result in sour or weak coffee due to under-extraction, while excessively high temperatures can lead to bitter flavors from over-extraction. The ideal temperature range is generally between 195-205°F. Bloom time is the initial saturation of the grounds, which allows CO2 to escape. Proper blooming helps ensure even extraction by allowing the water to fully penetrate the grounds. If the grounds aren't properly saturated, CO2 can create pockets that prevent full water contact, leading to uneven extraction and a less flavorful cup.",
+      "utterance": "Brew temperature affects the extraction of different compounds from the coffee grounds. Lower temperatures can result in sour or weak coffee due to under-extraction, while excessively high temperatures can lead to bitter flavors from over-extraction. The ideal temperature range is generally between 195-205\u00b0F. Bloom time is the initial saturation of the grounds, which allows CO2 to escape. Proper blooming helps ensure even extraction by allowing the water to fully penetrate the grounds. If the grounds aren't properly saturated, CO2 can create pockets that prevent full water contact, leading to uneven extraction and a less flavorful cup.",
       "response_time": 4.0,
       "emotion_detected": "disgust",
       "trust_score": 4.0,

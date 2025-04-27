@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0237",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0237",
-    "scenario": "Insurance claim processing",
-    "timestamp": "2025-04-21T12:40:28.549793",
-    "total_turns": 6,
-    "total_trust_score": 3.0,
-    "trust_category_scores": {
-      "competence": 2.87,
-      "benevolence": 2.98,
-      "integrity": 2.67
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, well, if you've requested it, I guess I have to wait. But what exactly are you investigating? I have photos, a witness statement, and the preliminary police report – isn't it pretty clear the other driver was at fault? Why does it take so long, and how does the final police report change what I've already provided?",
+      "utterance": "Okay, well, if you've requested it, I guess I have to wait. But what exactly are you investigating? I have photos, a witness statement, and the preliminary police report \u2013 isn't it pretty clear the other driver was at fault? Why does it take so long, and how does the final police report change what I've already provided?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2856",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2856",
-    "scenario": "Job application assistance",
-    "timestamp": "2025-04-22T09:03:30.662802",
-    "total_turns": 9,
-    "total_trust_score": 5.88,
-    "trust_category_scores": {
-      "competence": 5.65,
-      "benevolence": 5.9,
-      "integrity": 5.78
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Thanks for sharing. I've reviewed your resume. It looks solid, good experience listed. To strengthen it for tech marketing manager roles, I'd suggest highlighting any experience you have with specific tech marketing tools or platforms (like HubSpot, Salesforce Marketing Cloud, etc.) and emphasizing quantifiable results from your campaigns – use numbers! Also, ensure keywords from typical tech marketing job descriptions are present.",
+      "utterance": "Thanks for sharing. I've reviewed your resume. It looks solid, good experience listed. To strengthen it for tech marketing manager roles, I'd suggest highlighting any experience you have with specific tech marketing tools or platforms (like HubSpot, Salesforce Marketing Cloud, etc.) and emphasizing quantifiable results from your campaigns \u2013 use numbers! Also, ensure keywords from typical tech marketing job descriptions are present.",
       "response_time": 3.91,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

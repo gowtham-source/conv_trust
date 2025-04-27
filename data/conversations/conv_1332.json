@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1332",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1332",
-    "scenario": "Hackathon participation",
-    "timestamp": "2025-04-21T14:30:13.586896",
-    "total_turns": 8,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 4.56,
-      "benevolence": 4.52,
-      "integrity": 4.41
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, I can help with that. Given your skills and the lack of a specific theme, you have many options! Here are a few general ideas:\n\n1.  **A Web-based Task Management Application:** Use your web dev skills and Python for the backend (maybe with a framework like Flask or Django). Focus on a clean UI/UX.\n2.  **A Data Visualization Tool:** If you enjoy data, find a dataset and create an interactive visualization using your HTML/CSS/JS skills (maybe using a library like D3.js).\n3.  **A Mobile App Prototype (using React Native or similar):** Showcase your UI/UX skills by building a prototype for a mobile app – even without full functionality.\n\nWould any of these interest you?",
+      "utterance": "Okay, I can help with that. Given your skills and the lack of a specific theme, you have many options! Here are a few general ideas:\n\n1.  **A Web-based Task Management Application:** Use your web dev skills and Python for the backend (maybe with a framework like Flask or Django). Focus on a clean UI/UX.\n2.  **A Data Visualization Tool:** If you enjoy data, find a dataset and create an interactive visualization using your HTML/CSS/JS skills (maybe using a library like D3.js).\n3.  **A Mobile App Prototype (using React Native or similar):** Showcase your UI/UX skills by building a prototype for a mobile app \u2013 even without full functionality.\n\nWould any of these interest you?",
       "response_time": 3.92,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

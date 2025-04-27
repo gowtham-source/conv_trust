@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1503",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1503",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T14:54:13.132112",
-    "total_turns": 4,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.33,
-      "benevolence": 5.54,
-      "integrity": 5.58
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "That's a great question! The angle affects the range because it determines how much of the initial velocity is directed horizontally (for range) and vertically (for hang time). The general equation is: Range = (v₀² * sin(2θ)) / g, where v₀ is the initial velocity, θ is the launch angle, and g is the acceleration due to gravity. For the derivation, let me provide a link to an excellent Khan Academy video. Does that make sense, or would you like me to try and explain it differently? Also, this equation assumes the launch and landing heights are the same, a common scenario.",
+      "utterance": "That's a great question! The angle affects the range because it determines how much of the initial velocity is directed horizontally (for range) and vertically (for hang time). The general equation is: Range = (v\u2080\u00b2 * sin(2\u03b8)) / g, where v\u2080 is the initial velocity, \u03b8 is the launch angle, and g is the acceleration due to gravity. For the derivation, let me provide a link to an excellent Khan Academy video. Does that make sense, or would you like me to try and explain it differently? Also, this equation assumes the launch and landing heights are the same, a common scenario.",
       "response_time": 4.31,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

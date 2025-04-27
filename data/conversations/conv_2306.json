@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2306",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2306",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-21T16:30:37.559428",
-    "total_turns": 10,
-    "total_trust_score": 4.6,
-    "trust_category_scores": {
-      "competence": 4.72,
-      "benevolence": 4.67,
-      "integrity": 4.46
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "That's a bit trickier because prices fluctuate. However, I'll do my best! Based on average grocery prices, I estimate: Tofu ($3), Lentils ($2), Rice ($4), Broccoli ($3), Spinach ($3), Apples ($3), Bananas ($2), Granola ($5), Olive Oil ($8) – leaving about $44 for other spices and incidentals. This leaves some wiggle room. Prices can vary depending on store and brand.",
+      "utterance": "That's a bit trickier because prices fluctuate. However, I'll do my best! Based on average grocery prices, I estimate: Tofu ($3), Lentils ($2), Rice ($4), Broccoli ($3), Spinach ($3), Apples ($3), Bananas ($2), Granola ($5), Olive Oil ($8) \u2013 leaving about $44 for other spices and incidentals. This leaves some wiggle room. Prices can vary depending on store and brand.",
       "response_time": 2.87,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0128",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0128",
-    "scenario": "Book recommendations based on genre",
-    "timestamp": "2025-04-21T12:30:55.693445",
-    "total_turns": 7,
-    "total_trust_score": 5.0,
-    "trust_category_scores": {
-      "competence": 4.94,
-      "benevolence": 5.29,
-      "integrity": 4.98
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "I've read 'The Martian' and enjoyed it. 'Dune' was okay, but I couldn't really get into 'Foundation'. Is there anything a little more… recent? Maybe something published in the last 5 years?",
+      "utterance": "I've read 'The Martian' and enjoyed it. 'Dune' was okay, but I couldn't really get into 'Foundation'. Is there anything a little more\u2026 recent? Maybe something published in the last 5 years?",
       "response_time": null,
       "emotion_detected": "joy",
       "trust_score": null,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0722",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0722",
-    "scenario": "Shoe recommendations based on style",
-    "timestamp": "2025-04-21T13:27:31.506508",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.47,
-      "benevolence": 4.44,
-      "integrity": 4.63
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Okay, good question. I guess I'm mainly looking for something versatile. Shoes I can wear to work (business casual) but also out on weekends. Maybe… stylish but not too flashy? I'm so bad at describing this!",
+      "utterance": "Okay, good question. I guess I'm mainly looking for something versatile. Shoes I can wear to work (business casual) but also out on weekends. Maybe\u2026 stylish but not too flashy? I'm so bad at describing this!",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,

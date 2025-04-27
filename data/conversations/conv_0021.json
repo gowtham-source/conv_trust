@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0021",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0021",
-    "scenario": "Hackathon participation",
-    "timestamp": "2025-04-21T12:19:24.371813",
-    "total_turns": 10,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.04,
-      "benevolence": 4.08,
-      "integrity": 4.22
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "I understand. Start by brainstorming ideas that solve a problem you find interesting. It doesn't have to be groundbreaking; focus on building something functional and showcasing your skills. Consider the judging criteria too – many hackathons value creativity, technical difficulty, and impact. Aim for an MVP (Minimum Viable Product) that demonstrates core functionality.",
+      "utterance": "I understand. Start by brainstorming ideas that solve a problem you find interesting. It doesn't have to be groundbreaking; focus on building something functional and showcasing your skills. Consider the judging criteria too \u2013 many hackathons value creativity, technical difficulty, and impact. Aim for an MVP (Minimum Viable Product) that demonstrates core functionality.",
       "response_time": 4.0,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -105,7 +91,7 @@
     {
       "turn_id": 9,
       "speaker": "user",
-      "utterance": "This is helpful! But here's a tough one: what if my code just… breaks? I'm talking deadline looming, completely stuck, Googling furiously and still getting nowhere. Any tips for dealing with that kind of crisis during the event itself?",
+      "utterance": "This is helpful! But here's a tough one: what if my code just\u2026 breaks? I'm talking deadline looming, completely stuck, Googling furiously and still getting nowhere. Any tips for dealing with that kind of crisis during the event itself?",
       "response_time": null,
       "emotion_detected": "fear",
       "trust_score": null,

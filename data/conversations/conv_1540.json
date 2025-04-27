@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1540",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1540",
-    "scenario": "Book recommendations based on genre",
-    "timestamp": "2025-04-21T14:58:12.121799",
-    "total_turns": 5,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 5.02,
-      "benevolence": 4.94,
-      "integrity": 4.75
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, given your preference for Dune and a disinterest in overly tech-focused narratives, I'd suggest looking into 'A Fire Upon the Deep' by Vernor Vinge. It’s a space opera, but it has interesting concepts and character-driven storylines.  Also, maybe check out 'The Left Hand of Darkness' by Ursula K. Le Guin. It's more character-focused and explores themes of gender and society in a thought-provoking way. Both are highly regarded, but the Le Guin book might be challenging to get into, depending on your reading habits. Let me know if those sound interesting, or if you'd like to explore anything else!",
+      "utterance": "Okay, given your preference for Dune and a disinterest in overly tech-focused narratives, I'd suggest looking into 'A Fire Upon the Deep' by Vernor Vinge. It\u2019s a space opera, but it has interesting concepts and character-driven storylines.  Also, maybe check out 'The Left Hand of Darkness' by Ursula K. Le Guin. It's more character-focused and explores themes of gender and society in a thought-provoking way. Both are highly regarded, but the Le Guin book might be challenging to get into, depending on your reading habits. Let me know if those sound interesting, or if you'd like to explore anything else!",
       "response_time": 2.79,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

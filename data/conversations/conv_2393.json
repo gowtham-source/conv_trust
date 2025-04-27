@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2393",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2393",
-    "scenario": "E-commerce product recommendations based on budget",
-    "timestamp": "2025-04-21T16:39:32.283015",
-    "total_turns": 5,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.51,
-      "benevolence": 4.7,
-      "integrity": 4.92
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Okay, that's a good starting point, thanks. I'll primarily use it for work – mostly writing and browsing the web. But, I've heard that some of those budget laptops can be slow. What's the cheapest option that *won't* make me want to throw it out the window due to lag?",
+      "utterance": "Okay, that's a good starting point, thanks. I'll primarily use it for work \u2013 mostly writing and browsing the web. But, I've heard that some of those budget laptops can be slow. What's the cheapest option that *won't* make me want to throw it out the window due to lag?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

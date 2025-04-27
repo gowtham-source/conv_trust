@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1448",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1448",
-    "scenario": "Technical support for a malfunctioning device",
-    "timestamp": "2025-04-21T14:48:10.103790",
-    "total_turns": 9,
-    "total_trust_score": 2.5,
-    "trust_category_scores": {
-      "competence": 2.47,
-      "benevolence": 2.35,
-      "integrity": 2.67
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "The error message says 'Heating element failure'. I've tried white bread, wheat bread, even bagels – nothing works! This is incredibly frustrating, it's a brand new toaster!",
+      "utterance": "The error message says 'Heating element failure'. I've tried white bread, wheat bread, even bagels \u2013 nothing works! This is incredibly frustrating, it's a brand new toaster!",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

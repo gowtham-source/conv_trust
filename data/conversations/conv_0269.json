@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0269",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0269",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T12:43:40.226130",
-    "total_turns": 9,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 5.13,
-      "benevolence": 5.21,
-      "integrity": 5.26
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Hmm, let's say my budget is around $200 total. I mostly need casual wear – stuff I can wear to class or just hanging out with friends. Jeans, tops, maybe a jacket?",
+      "utterance": "Hmm, let's say my budget is around $200 total. I mostly need casual wear \u2013 stuff I can wear to class or just hanging out with friends. Jeans, tops, maybe a jacket?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, that sounds reasonable. But aren't those clothes kinda… low quality? Like, will they fall apart after a few washes?",
+      "utterance": "Okay, that sounds reasonable. But aren't those clothes kinda\u2026 low quality? Like, will they fall apart after a few washes?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a valid concern! While they might not be the highest quality, if you care for them properly – washing them inside out in cold water and avoiding the dryer – you can extend their lifespan. You could also consider thrifting! You can find unique, high-quality pieces for a fraction of the original price.",
+      "utterance": "That's a valid concern! While they might not be the highest quality, if you care for them properly \u2013 washing them inside out in cold water and avoiding the dryer \u2013 you can extend their lifespan. You could also consider thrifting! You can find unique, high-quality pieces for a fraction of the original price.",
       "response_time": 3.96,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

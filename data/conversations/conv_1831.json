@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1831",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1831",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T15:32:17.077413",
-    "total_turns": 10,
-    "total_trust_score": 4.6,
-    "trust_category_scores": {
-      "competence": 4.54,
-      "benevolence": 4.53,
-      "integrity": 4.58
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Factoring can be tricky! Let's start with a simple example. Consider x² + 5x + 6 = 0. Do you know what the first step is to find the factors?",
+      "utterance": "Factoring can be tricky! Let's start with a simple example. Consider x\u00b2 + 5x + 6 = 0. Do you know what the first step is to find the factors?",
       "response_time": 2.94,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "So... x = -2 and x = -3? I think I'm getting it! That was a pretty easy one though. What about something like,  3x² + 7x - 6 = 0? This one seems much harder!",
+      "utterance": "So... x = -2 and x = -3? I think I'm getting it! That was a pretty easy one though. What about something like,  3x\u00b2 + 7x - 6 = 0? This one seems much harder!",
       "response_time": null,
       "emotion_detected": "surprise",
       "trust_score": null,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "You're right, that's a bit more complex. For that one, you can use the AC method, or the quadratic formula. Let me help you with the AC method. First, we multiply the coefficient of x² (which is 3) by the constant term (-6), which gives us -18. Then we look for factors of -18 that add up to 7. These are 9 and -2... (the response was cut off for brevity). ...Then you rewrite the middle term, and factor by grouping. This will give you the solutions.",
+      "utterance": "You're right, that's a bit more complex. For that one, you can use the AC method, or the quadratic formula. Let me help you with the AC method. First, we multiply the coefficient of x\u00b2 (which is 3) by the constant term (-6), which gives us -18. Then we look for factors of -18 that add up to 7. These are 9 and -2... (the response was cut off for brevity). ...Then you rewrite the middle term, and factor by grouping. This will give you the solutions.",
       "response_time": 2.31,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

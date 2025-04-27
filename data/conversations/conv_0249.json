@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0249",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0249",
-    "scenario": "Home improvement guidance",
-    "timestamp": "2025-04-21T12:41:34.601661",
-    "total_turns": 6,
-    "total_trust_score": 6.5,
-    "trust_category_scores": {
-      "competence": 6.37,
-      "benevolence": 6.39,
-      "integrity": 6.29
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "For standard drywall, a good quality multi-purpose latex primer will work perfectly. And yes, the color of the primer *definitely* matters when painting a light color over a dark one. Ask for a tinted primer – have it tinted as close as possible to your final white color. This will significantly reduce the number of coats of white paint you'll need. Otherwise, that red will keep bleeding through!",
+      "utterance": "For standard drywall, a good quality multi-purpose latex primer will work perfectly. And yes, the color of the primer *definitely* matters when painting a light color over a dark one. Ask for a tinted primer \u2013 have it tinted as close as possible to your final white color. This will significantly reduce the number of coats of white paint you'll need. Otherwise, that red will keep bleeding through!",
       "response_time": 4.29,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

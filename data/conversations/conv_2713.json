@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2713",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2713",
-    "scenario": "restaurant booking assistance",
-    "timestamp": "2025-04-22T08:35:18.041123",
-    "total_turns": 8,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.34,
-      "benevolence": 5.54,
-      "integrity": 5.69
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "My apologies for the limitation regarding menu specifics. Based on your refined criteria – downtown Italian/Mediterranean, good reviews, not Bella Italia, for two tonight – 'Constantine's' is showing availability. It's a well-regarded Mediterranean place downtown. Would you like me to check if they have any slots open for your preferred time?",
+      "utterance": "My apologies for the limitation regarding menu specifics. Based on your refined criteria \u2013 downtown Italian/Mediterranean, good reviews, not Bella Italia, for two tonight \u2013 'Constantine's' is showing availability. It's a well-regarded Mediterranean place downtown. Would you like me to check if they have any slots open for your preferred time?",
       "response_time": 3.92,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

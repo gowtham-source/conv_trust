@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0642",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0642",
-    "scenario": "Legal advice consultation",
-    "timestamp": "2025-04-21T13:20:04.249129",
-    "total_turns": 10,
-    "total_trust_score": 4.6,
-    "trust_category_scores": {
-      "competence": 4.51,
-      "benevolence": 4.52,
-      "integrity": 4.53
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "The emails are excellent. A witness statement could also be very helpful. It’s impossible to say definitively if it's 'enough' without reviewing all the specifics, but it certainly strengthens your position. I would recommend consulting with a qualified attorney. Would you like me to provide resources on finding an attorney in your area?",
+      "utterance": "The emails are excellent. A witness statement could also be very helpful. It\u2019s impossible to say definitively if it's 'enough' without reviewing all the specifics, but it certainly strengthens your position. I would recommend consulting with a qualified attorney. Would you like me to provide resources on finding an attorney in your area?",
       "response_time": 4.25,
       "emotion_detected": "neutral",
       "trust_score": 7.0,

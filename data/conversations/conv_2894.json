@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2894",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2894",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-22T09:11:28.891707",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.52,
-      "benevolence": 4.43,
-      "integrity": 4.47
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a fair point. Let's get more specific. For inexpensive and filling options, consider dried beans (like black beans or chickpeas) or lentils – they are very affordable protein sources. Eggs are also relatively cheap and versatile. For carbs, oats, rice, potatoes, and pasta are staples. Look for frozen vegetables which are often cheaper than fresh and last longer (peas, corn, broccoli). Canned tuna or sardines are also budget-friendly protein. A simple list could include: a bag of rice or pasta, a bag of dried lentils or beans, a carton of eggs, frozen vegetables, potatoes, oats, and perhaps chicken thighs or drumsticks if on sale, or a few cans of tuna. You can build various meals from these.",
+      "utterance": "That's a fair point. Let's get more specific. For inexpensive and filling options, consider dried beans (like black beans or chickpeas) or lentils \u2013 they are very affordable protein sources. Eggs are also relatively cheap and versatile. For carbs, oats, rice, potatoes, and pasta are staples. Look for frozen vegetables which are often cheaper than fresh and last longer (peas, corn, broccoli). Canned tuna or sardines are also budget-friendly protein. A simple list could include: a bag of rice or pasta, a bag of dried lentils or beans, a carton of eggs, frozen vegetables, potatoes, oats, and perhaps chicken thighs or drumsticks if on sale, or a few cans of tuna. You can build various meals from these.",
       "response_time": 2.31,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

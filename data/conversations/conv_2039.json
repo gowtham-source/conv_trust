@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2039",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2039",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-21T15:58:23.564474",
-    "total_turns": 4,
-    "total_trust_score": 3.25,
-    "trust_category_scores": {
-      "competence": 3.18,
-      "benevolence": 3.03,
-      "integrity": 3.1
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, I apologize for the oversight regarding the gluten. Adapting the meal plan with gluten-free options and attempting to provide a shopping list with estimated prices (prices can fluctuate based on your location and store sales): \n\n*   **Monday:** Lentil Soup (as before, approx. $10)\n*   **Tuesday:** Chicken Stir-fry with Rice (use rice noodles, approx. $18)\n*   **Wednesday:** Chicken and vegetable skewers, cauliflower rice - approx. $15\n*   **Thursday:** Leftovers\n*   **Friday:** Chicken Tacos on corn tortillas (approx. $15)\n*   **Saturday:** Baked Chicken with roasted sweet potatoes and green beans - approx. $17\n*   **Sunday:** Leftovers\n\n**Shopping List (Estimated Prices):**\n\n*   Chicken Thighs (2 lbs): $8-12\n*   Rice Noodles/Cauliflower rice: $3-5\n*   Lentils (1 lb): $2-3\n*   Canned Tomatoes (2 cans): $2-4\n*   Vegetables (onions, carrots, celery, bell peppers, sweet potatoes, green beans – approx. $25, depending on selections and if fresh or frozen)\n*   Corn Tortillas: $4-6\n*   Spices and Cooking Oil (assumed to be in pantry)\n*   Other: Garlic, Lime, salt, pepper, etc., $2-3\n\nThis plan *should* fit within your budget, but always compare prices in your local store and consider shopping sales. Please note, these are *estimates* only, prices vary.",
+      "utterance": "Okay, I apologize for the oversight regarding the gluten. Adapting the meal plan with gluten-free options and attempting to provide a shopping list with estimated prices (prices can fluctuate based on your location and store sales): \n\n*   **Monday:** Lentil Soup (as before, approx. $10)\n*   **Tuesday:** Chicken Stir-fry with Rice (use rice noodles, approx. $18)\n*   **Wednesday:** Chicken and vegetable skewers, cauliflower rice - approx. $15\n*   **Thursday:** Leftovers\n*   **Friday:** Chicken Tacos on corn tortillas (approx. $15)\n*   **Saturday:** Baked Chicken with roasted sweet potatoes and green beans - approx. $17\n*   **Sunday:** Leftovers\n\n**Shopping List (Estimated Prices):**\n\n*   Chicken Thighs (2 lbs): $8-12\n*   Rice Noodles/Cauliflower rice: $3-5\n*   Lentils (1 lb): $2-3\n*   Canned Tomatoes (2 cans): $2-4\n*   Vegetables (onions, carrots, celery, bell peppers, sweet potatoes, green beans \u2013 approx. $25, depending on selections and if fresh or frozen)\n*   Corn Tortillas: $4-6\n*   Spices and Cooking Oil (assumed to be in pantry)\n*   Other: Garlic, Lime, salt, pepper, etc., $2-3\n\nThis plan *should* fit within your budget, but always compare prices in your local store and consider shopping sales. Please note, these are *estimates* only, prices vary.",
       "response_time": 4.17,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

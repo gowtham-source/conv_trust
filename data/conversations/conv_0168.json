@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0168",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0168",
-    "scenario": "Medical billing processing",
-    "timestamp": "2025-04-21T12:34:51.187588",
-    "total_turns": 10,
-    "total_trust_score": 5.2,
-    "trust_category_scores": {
-      "competence": 5.24,
-      "benevolence": 5.22,
-      "integrity": 5.12
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -105,7 +91,7 @@
     {
       "turn_id": 9,
       "speaker": "user",
-      "utterance": "Okay, I understand. One last question – how secure is this process? I'm uploading sensitive patient data, and I need to know it's protected. What kind of encryption and security measures are in place to comply with HIPAA?",
+      "utterance": "Okay, I understand. One last question \u2013 how secure is this process? I'm uploading sensitive patient data, and I need to know it's protected. What kind of encryption and security measures are in place to comply with HIPAA?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

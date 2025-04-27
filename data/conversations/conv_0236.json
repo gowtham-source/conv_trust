@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0236",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0236",
-    "scenario": "Legal advice consultation",
-    "timestamp": "2025-04-21T12:40:21.559958",
-    "total_turns": 5,
-    "total_trust_score": 2.5,
-    "trust_category_scores": {
-      "competence": 2.77,
-      "benevolence": 2.32,
-      "integrity": 2.48
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, that's helpful. But here's the thing – he's also claiming I violated the lease by having a pet, even though it doesn't say anything about pets being prohibited in the lease agreement. How can he claim a violation when it's not even in the contract? Can he just make stuff up as he goes along? This whole thing is ridiculous!",
+      "utterance": "Okay, that's helpful. But here's the thing \u2013 he's also claiming I violated the lease by having a pet, even though it doesn't say anything about pets being prohibited in the lease agreement. How can he claim a violation when it's not even in the contract? Can he just make stuff up as he goes along? This whole thing is ridiculous!",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

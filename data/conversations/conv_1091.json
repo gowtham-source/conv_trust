@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1091",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1091",
-    "scenario": "Home improvement guidance",
-    "timestamp": "2025-04-21T14:05:36.900342",
-    "total_turns": 7,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.38,
-      "benevolence": 5.49,
-      "integrity": 5.32
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Some users report good results with epoxy grout softeners, though these can be more expensive. Also, ensure you're letting the softener penetrate the grout fully – a few hours is usually necessary. Applying it multiple times might help too.",
+      "utterance": "Some users report good results with epoxy grout softeners, though these can be more expensive. Also, ensure you're letting the softener penetrate the grout fully \u2013 a few hours is usually necessary. Applying it multiple times might help too.",
       "response_time": 5.32,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

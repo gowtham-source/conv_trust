@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0681",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0681",
-    "scenario": "Hackathon participation",
-    "timestamp": "2025-04-21T13:23:46.621357",
-    "total_turns": 10,
-    "total_trust_score": 5.8,
-    "trust_category_scores": {
-      "competence": 5.71,
-      "benevolence": 5.96,
-      "integrity": 5.66
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Good question. A great project idea is one that is both feasible given the limited time and skill of your team, and interesting enough to motivate you to complete it. Focus on problems you or people you know actually face. Think about simplifying an existing process, or creating a proof of concept for something innovative. Break down larger ideas into smaller, achievable goals. What are some technologies you’re interested in working with?",
+      "utterance": "Good question. A great project idea is one that is both feasible given the limited time and skill of your team, and interesting enough to motivate you to complete it. Focus on problems you or people you know actually face. Think about simplifying an existing process, or creating a proof of concept for something innovative. Break down larger ideas into smaller, achievable goals. What are some technologies you\u2019re interested in working with?",
       "response_time": 4.46,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

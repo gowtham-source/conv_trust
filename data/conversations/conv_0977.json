@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0977",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0977",
-    "scenario": "E-commerce product recommendations",
-    "timestamp": "2025-04-21T13:53:23.890155",
-    "total_turns": 10,
-    "total_trust_score": 5.2,
-    "trust_category_scores": {
-      "competence": 4.98,
-      "benevolence": 5.17,
-      "integrity": 5.11
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "There are a few ways! You can check the wear pattern on your old running shoes – excessive wear on the inside edge might indicate overpronation. You can also try the 'wet test' – wet the bottom of your foot and step onto a piece of paper. The footprint it leaves can give you an idea of your arch type. Or, a running specialist at a shoe store can analyze your gait.",
+      "utterance": "There are a few ways! You can check the wear pattern on your old running shoes \u2013 excessive wear on the inside edge might indicate overpronation. You can also try the 'wet test' \u2013 wet the bottom of your foot and step onto a piece of paper. The footprint it leaves can give you an idea of your arch type. Or, a running specialist at a shoe store can analyze your gait.",
       "response_time": 4.66,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

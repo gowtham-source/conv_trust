@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2551",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2551",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T17:09:10.063103",
-    "total_turns": 9,
-    "total_trust_score": 5.88,
-    "trust_category_scores": {
-      "competence": 5.75,
-      "benevolence": 5.75,
-      "integrity": 5.85
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, Uniqlo and Old Navy are good ideas, thanks! I always forget about second-hand stuff too. That feels much more strategic. So, let's say I find some versatile pieces – like a basic tee, some neutral pants, and a simple jacket or cardigan. How would I make that work for both casual day-to-day and dress it up slightly for the dinner party?",
+      "utterance": "Okay, Uniqlo and Old Navy are good ideas, thanks! I always forget about second-hand stuff too. That feels much more strategic. So, let's say I find some versatile pieces \u2013 like a basic tee, some neutral pants, and a simple jacket or cardigan. How would I make that work for both casual day-to-day and dress it up slightly for the dinner party?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

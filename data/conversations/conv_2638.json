@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2638",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2638",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T17:25:49.864349",
-    "total_turns": 7,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.39,
-      "benevolence": 5.5,
-      "integrity": 5.5
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -26,7 +12,7 @@
     {
       "turn_id": 2,
       "speaker": "agent",
-      "utterance": "Absolutely! I can certainly help you find stylish options that fit your budget. To get started, could you tell me what kind of items you're looking for – like an outfit for a specific occasion, or maybe some versatile pieces? And what is your approximate budget range?",
+      "utterance": "Absolutely! I can certainly help you find stylish options that fit your budget. To get started, could you tell me what kind of items you're looking for \u2013 like an outfit for a specific occasion, or maybe some versatile pieces? And what is your approximate budget range?",
       "response_time": 4.65,
       "emotion_detected": "neutral",
       "trust_score": 7.0,

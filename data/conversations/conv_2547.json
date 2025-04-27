@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2547",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2547",
-    "scenario": "Financial planning guidance",
-    "timestamp": "2025-04-21T17:08:18.699741",
-    "total_turns": 4,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.61,
-      "benevolence": 5.38,
-      "integrity": 5.99
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "That's a very common and challenging situation – balancing significant debt repayment with savings goals. Given the high interest rates typically associated with credit card debt, prioritizing paying that down aggressively is usually the most effective strategy to free up cash flow and reduce overall interest paid. Think of paying off 15% interest debt as an equivalent risk-free 'return' on your money. While saving for the down payment is crucial, tackling that debt first often provides a stronger foundation. For the down payment savings itself, while a regular savings account is liquid and secure, for a 5-7 year timeframe, you *might* consider options with slightly higher potential returns depending on your risk tolerance, though volatility is a factor. Tax efficiency for non-retirement savings like a down payment can be limited; standard brokerage accounts or high-yield savings are common. However, given your debt situation, focusing cash flow on the credit cards after building a small emergency fund is often the recommended initial step. It's a tough balance, but tackling the highest-cost debt first will likely accelerate your progress towards saving in the long run.",
+      "utterance": "That's a very common and challenging situation \u2013 balancing significant debt repayment with savings goals. Given the high interest rates typically associated with credit card debt, prioritizing paying that down aggressively is usually the most effective strategy to free up cash flow and reduce overall interest paid. Think of paying off 15% interest debt as an equivalent risk-free 'return' on your money. While saving for the down payment is crucial, tackling that debt first often provides a stronger foundation. For the down payment savings itself, while a regular savings account is liquid and secure, for a 5-7 year timeframe, you *might* consider options with slightly higher potential returns depending on your risk tolerance, though volatility is a factor. Tax efficiency for non-retirement savings like a down payment can be limited; standard brokerage accounts or high-yield savings are common. However, given your debt situation, focusing cash flow on the credit cards after building a small emergency fund is often the recommended initial step. It's a tough balance, but tackling the highest-cost debt first will likely accelerate your progress towards saving in the long run.",
       "response_time": 5.94,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

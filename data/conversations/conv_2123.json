@@ -1,23 +1,9 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2123",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2123",
-    "scenario": "Technical support for a malfunctioning device",
-    "timestamp": "2025-04-21T16:09:09.703203",
-    "total_turns": 4,
-    "total_trust_score": 3.25,
-    "trust_category_scores": {
-      "competence": 3.71,
-      "benevolence": 2.83,
-      "integrity": 3.12
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
       "speaker": "user",
-      "utterance": "Hi, my SmartFridge 3000 is acting up again. The ice maker keeps freezing up and it’s making a terrible grinding noise. I've tried unplugging it, but that didn't help. This is incredibly frustrating!",
+      "utterance": "Hi, my SmartFridge 3000 is acting up again. The ice maker keeps freezing up and it\u2019s making a terrible grinding noise. I've tried unplugging it, but that didn't help. This is incredibly frustrating!",
       "response_time": null,
       "emotion_detected": "sadness",
       "trust_score": null,

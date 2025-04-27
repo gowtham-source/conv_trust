@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0191",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0191",
-    "scenario": "Bank account management",
-    "timestamp": "2025-04-21T12:36:54.408698",
-    "total_turns": 6,
-    "total_trust_score": 5.0,
-    "trust_category_scores": {
-      "competence": 4.81,
-      "benevolence": 4.89,
-      "integrity": 5.08
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, the Netflix one makes sense. But that grocery store purchase… I didn’t spend $50 there recently. Could you check that transaction again? Maybe there's an error or something.",
+      "utterance": "Okay, the Netflix one makes sense. But that grocery store purchase\u2026 I didn\u2019t spend $50 there recently. Could you check that transaction again? Maybe there's an error or something.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2290",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2290",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T16:28:42.571498",
-    "total_turns": 9,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.1,
-      "benevolence": 4.04,
-      "integrity": 4.02
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Alright, let's break this down. First, we need to determine the time it takes for the ball to hit the ground. We can use the equation:  d = v₀t + (1/2)at², where d is the distance (20 meters), v₀ is the initial vertical velocity (0 m/s), a is the acceleration due to gravity (9.8 m/s²), and t is the time. Solve for 't' and let me know what you get!",
+      "utterance": "Alright, let's break this down. First, we need to determine the time it takes for the ball to hit the ground. We can use the equation:  d = v\u2080t + (1/2)at\u00b2, where d is the distance (20 meters), v\u2080 is the initial vertical velocity (0 m/s), a is the acceleration due to gravity (9.8 m/s\u00b2), and t is the time. Solve for 't' and let me know what you get!",
       "response_time": 2.29,
       "emotion_detected": "neutral",
       "trust_score": 2.5,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, so 20 = 0 + 0.5 * 9.8 * t². That simplifies to t² = 4.08, so t is about 2.02 seconds. Right?",
+      "utterance": "Okay, so 20 = 0 + 0.5 * 9.8 * t\u00b2. That simplifies to t\u00b2 = 4.08, so t is about 2.02 seconds. Right?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

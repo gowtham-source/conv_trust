@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2609",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2609",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-21T17:20:06.116476",
-    "total_turns": 6,
-    "total_trust_score": 5.0,
-    "trust_category_scores": {
-      "competence": 5.24,
-      "benevolence": 5.29,
-      "integrity": 4.91
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a very good point about hidden costs like spices or oil. If you're starting from scratch, it can indeed be challenging. For initial stocking, look for small sizes or sales, or consider buying staples like oil/salt/pepper in larger containers if you plan on cooking regularly, as the cost per unit is lower over time. As for meal ideas with the mentioned staples, you could make dishes like rice and beans with frozen veggies, pasta with canned tuna and a simple tomato sauce, or scrambled eggs with sautéed onions and carrots. Planning 2-3 core meals and having leftovers can stretch your budget significantly. Focusing on versatile ingredients helps.",
+      "utterance": "That's a very good point about hidden costs like spices or oil. If you're starting from scratch, it can indeed be challenging. For initial stocking, look for small sizes or sales, or consider buying staples like oil/salt/pepper in larger containers if you plan on cooking regularly, as the cost per unit is lower over time. As for meal ideas with the mentioned staples, you could make dishes like rice and beans with frozen veggies, pasta with canned tuna and a simple tomato sauce, or scrambled eggs with saut\u00e9ed onions and carrots. Planning 2-3 core meals and having leftovers can stretch your budget significantly. Focusing on versatile ingredients helps.",
       "response_time": 5.66,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

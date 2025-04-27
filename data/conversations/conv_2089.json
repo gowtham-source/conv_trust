@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2089",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2089",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T16:04:26.129176",
-    "total_turns": 4,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.57,
-      "benevolence": 5.57,
-      "integrity": 5.35
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, $150 for jeans, t-shirts, and a light jacket, aiming for minimal store visits and good fit – that's a challenge! Finding clothes that fit perfectly is complex, as it depends on your measurements. However, I can generate a list of items based on popularity and estimated cost, including brands known for good fits. I'll also try to suggest a limited number of online stores that offer a variety of items. Here are some possible recommendations:\n\n*   **Jeans:** Levi's 501 Original Fit (approx. $60), Gap Straight Jeans (approx. $50)\n*   **T-shirts:** H&M Basic Crew Neck T-shirts (approx. $10 each), Uniqlo U Crew Neck T-shirt (approx. $20 each)\n*   **Light Jacket:** Old Navy Jean Jacket (approx. $40). \n\nThese are general price guidelines, of course. You can find all of these on their respective websites. Let me know if you'd like me to refine those options based on specific styles or fit preferences!",
+      "utterance": "Okay, $150 for jeans, t-shirts, and a light jacket, aiming for minimal store visits and good fit \u2013 that's a challenge! Finding clothes that fit perfectly is complex, as it depends on your measurements. However, I can generate a list of items based on popularity and estimated cost, including brands known for good fits. I'll also try to suggest a limited number of online stores that offer a variety of items. Here are some possible recommendations:\n\n*   **Jeans:** Levi's 501 Original Fit (approx. $60), Gap Straight Jeans (approx. $50)\n*   **T-shirts:** H&M Basic Crew Neck T-shirts (approx. $10 each), Uniqlo U Crew Neck T-shirt (approx. $20 each)\n*   **Light Jacket:** Old Navy Jean Jacket (approx. $40). \n\nThese are general price guidelines, of course. You can find all of these on their respective websites. Let me know if you'd like me to refine those options based on specific styles or fit preferences!",
       "response_time": 2.9,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0084",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0084",
-    "scenario": "Shoe recommendations based on style",
-    "timestamp": "2025-04-21T12:26:35.619601",
-    "total_turns": 6,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.78,
-      "benevolence": 3.68,
-      "integrity": 4.06
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Good question. To maintain a preppy aesthetic with chukka boots, opt for suede or fine-grain leather in lighter colors like tan, light brown, or even navy. Avoid darker, distressed leathers and chunky soles, as those lean more towards a rugged look. Also, consider the lacing – simpler, less decorative lacing contributes to a cleaner, preppier style.",
+      "utterance": "Good question. To maintain a preppy aesthetic with chukka boots, opt for suede or fine-grain leather in lighter colors like tan, light brown, or even navy. Avoid darker, distressed leathers and chunky soles, as those lean more towards a rugged look. Also, consider the lacing \u2013 simpler, less decorative lacing contributes to a cleaner, preppier style.",
       "response_time": 2.48,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

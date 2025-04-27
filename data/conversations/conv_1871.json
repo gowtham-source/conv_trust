@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1871",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1871",
-    "scenario": "Legal advice consultation",
-    "timestamp": "2025-04-21T15:37:09.364308",
-    "total_turns": 7,
-    "total_trust_score": 3.0,
-    "trust_category_scores": {
-      "competence": 3.06,
-      "benevolence": 3.13,
-      "integrity": 3.25
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Yes, I have everything. The problem is, they're claiming I diverted funds. But can I really use the argument that the agreement was poorly written, or will that make me look bad? It’s a pretty complicated agreement.",
+      "utterance": "Yes, I have everything. The problem is, they're claiming I diverted funds. But can I really use the argument that the agreement was poorly written, or will that make me look bad? It\u2019s a pretty complicated agreement.",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,

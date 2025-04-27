@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0670",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0670",
-    "scenario": "Legal advice consultation",
-    "timestamp": "2025-04-21T13:22:47.465002",
-    "total_turns": 8,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.93,
-      "benevolence": 4.04,
-      "integrity": 3.98
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Okay, well, I'm a woman, and I've noticed that male colleagues with similar experience are being promoted faster than I am. Also, I was recently passed over for a project lead role, and the reason my boss gave was pretty vague and seemed kind of…well, flimsy. I've consistently received excellent performance reviews, so I'm just confused and angry.",
+      "utterance": "Okay, well, I'm a woman, and I've noticed that male colleagues with similar experience are being promoted faster than I am. Also, I was recently passed over for a project lead role, and the reason my boss gave was pretty vague and seemed kind of\u2026well, flimsy. I've consistently received excellent performance reviews, so I'm just confused and angry.",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

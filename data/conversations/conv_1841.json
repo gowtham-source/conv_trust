@@ -1,23 +1,9 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1841",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1841",
-    "scenario": "Technical support for a malfunctioning device",
-    "timestamp": "2025-04-21T15:33:14.903756",
-    "total_turns": 8,
-    "total_trust_score": 2.5,
-    "trust_category_scores": {
-      "competence": 2.5,
-      "benevolence": 2.55,
-      "integrity": 2.5
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
       "speaker": "user",
-      "utterance": "Hi, my smart toaster is acting up. It won't toast the bread evenly, and sometimes it just… stops.",
+      "utterance": "Hi, my smart toaster is acting up. It won't toast the bread evenly, and sometimes it just\u2026 stops.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

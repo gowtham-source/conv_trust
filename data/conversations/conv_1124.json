@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1124",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1124",
-    "scenario": "Health advice consultation",
-    "timestamp": "2025-04-21T14:08:46.888038",
-    "total_turns": 10,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.11,
-      "benevolence": 3.9,
-      "integrity": 3.87
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -114,7 +100,7 @@
     {
       "turn_id": 10,
       "speaker": "agent",
-      "utterance": "That's a great question! Susceptibility to illness is complex and influenced by a combination of factors. Genetics certainly play a role, as do lifestyle choices like diet, exercise, sleep, and stress levels. Exposure to pathogens and underlying health conditions also contribute. While you can't completely eliminate the risk of getting sick, you can significantly strengthen your immune system by maintaining a healthy lifestyle – a balanced diet rich in fruits and vegetables, regular exercise, adequate sleep, stress management techniques, and avoiding smoking can all help. Consistent hygiene practices like handwashing are also crucial.",
+      "utterance": "That's a great question! Susceptibility to illness is complex and influenced by a combination of factors. Genetics certainly play a role, as do lifestyle choices like diet, exercise, sleep, and stress levels. Exposure to pathogens and underlying health conditions also contribute. While you can't completely eliminate the risk of getting sick, you can significantly strengthen your immune system by maintaining a healthy lifestyle \u2013 a balanced diet rich in fruits and vegetables, regular exercise, adequate sleep, stress management techniques, and avoiding smoking can all help. Consistent hygiene practices like handwashing are also crucial.",
       "response_time": 6.0,
       "emotion_detected": "neutral",
       "trust_score": 7.0,

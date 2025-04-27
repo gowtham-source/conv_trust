@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2101",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2101",
-    "scenario": "E-commerce product recommendations based on budget",
-    "timestamp": "2025-04-21T16:06:25.650690",
-    "total_turns": 9,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.93,
-      "benevolence": 4.15,
-      "integrity": 3.99
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a valid concern! For smooth performance, look for these key specs: At least an Intel Core i5 or AMD Ryzen 5 processor, 8GB of RAM (or more), and an SSD (Solid State Drive) for storage – avoid traditional hard drives as they're much slower. Check for reviews about boot-up times and general responsiveness. Unfortunately, specific models vary by retailer, so the best I can do is suggest these general specifications.",
+      "utterance": "That's a valid concern! For smooth performance, look for these key specs: At least an Intel Core i5 or AMD Ryzen 5 processor, 8GB of RAM (or more), and an SSD (Solid State Drive) for storage \u2013 avoid traditional hard drives as they're much slower. Check for reviews about boot-up times and general responsiveness. Unfortunately, specific models vary by retailer, so the best I can do is suggest these general specifications.",
       "response_time": 3.58,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

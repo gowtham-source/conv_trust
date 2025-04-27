@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2850",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2850",
-    "scenario": "Music recommendations based on genre",
-    "timestamp": "2025-04-22T09:02:22.506708",
-    "total_turns": 9,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 5.08,
-      "benevolence": 5.17,
-      "integrity": 5.31
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -105,7 +91,7 @@
     {
       "turn_id": 9,
       "speaker": "user",
-      "utterance": "Yeah, I figured that was a long shot! Tool makes some sense in parts. Porcupine Tree is interesting but maybe too 'clean'. Thanks for trying to tackle that one, though. I appreciate the deeper classic rock suggestions like Blue Cheer – I'll definitely give them a listen.",
+      "utterance": "Yeah, I figured that was a long shot! Tool makes some sense in parts. Porcupine Tree is interesting but maybe too 'clean'. Thanks for trying to tackle that one, though. I appreciate the deeper classic rock suggestions like Blue Cheer \u2013 I'll definitely give them a listen.",
       "response_time": null,
       "emotion_detected": "joy",
       "trust_score": null,

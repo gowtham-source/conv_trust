@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0626",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0626",
-    "scenario": "Shoe recommendations based on style",
-    "timestamp": "2025-04-21T13:18:38.774828",
-    "total_turns": 8,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.93,
-      "benevolence": 4.89,
-      "integrity": 4.65
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Ugh, that's the problem, I'm not entirely sure! I guess… leaning towards casual, but still stylish. Something I can wear with jeans or maybe dress pants on a good day.",
+      "utterance": "Ugh, that's the problem, I'm not entirely sure! I guess\u2026 leaning towards casual, but still stylish. Something I can wear with jeans or maybe dress pants on a good day.",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "I'm gathering some images for you now. As for your question about long-term style vs. trends, that's a really insightful point! Generally, focusing on quality materials, classic silhouettes, and versatility is key. Avoid overly flashy details or anything too heavily branded. Read style blogs and observe what consistently looks good on well-dressed people over time. And most importantly, choose what makes you feel confident and comfortable – confidence is always stylish! As for loafers, check out this image search result: [link to image search results showing various modern loafer styles]",
+      "utterance": "I'm gathering some images for you now. As for your question about long-term style vs. trends, that's a really insightful point! Generally, focusing on quality materials, classic silhouettes, and versatility is key. Avoid overly flashy details or anything too heavily branded. Read style blogs and observe what consistently looks good on well-dressed people over time. And most importantly, choose what makes you feel confident and comfortable \u2013 confidence is always stylish! As for loafers, check out this image search result: [link to image search results showing various modern loafer styles]",
       "response_time": 5.53,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

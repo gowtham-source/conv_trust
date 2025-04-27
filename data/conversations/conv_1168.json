@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1168",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1168",
-    "scenario": "Career counseling",
-    "timestamp": "2025-04-21T14:12:56.080586",
-    "total_turns": 4,
-    "total_trust_score": 3.25,
-    "trust_category_scores": {
-      "competence": 3.35,
-      "benevolence": 3.03,
-      "integrity": 3.54
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Okay, so I dislike the repetitive reporting tasks. I enjoy problem-solving and coming up with creative solutions, but I rarely get to do that. Outside of work, I volunteer at a local animal shelter – I really enjoy working with the animals and the people there. My strongest skills are probably my analytical abilities, communication, and I'm pretty good at learning new software. But honestly, it's hard to see how any of that translates into something fulfilling. Why can't I just *know* what I'm meant to do?",
+      "utterance": "Okay, so I dislike the repetitive reporting tasks. I enjoy problem-solving and coming up with creative solutions, but I rarely get to do that. Outside of work, I volunteer at a local animal shelter \u2013 I really enjoy working with the animals and the people there. My strongest skills are probably my analytical abilities, communication, and I'm pretty good at learning new software. But honestly, it's hard to see how any of that translates into something fulfilling. Why can't I just *know* what I'm meant to do?",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,

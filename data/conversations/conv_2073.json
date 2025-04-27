@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2073",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2073",
-    "scenario": "Resume writing assistance",
-    "timestamp": "2025-04-21T16:02:19.567849",
-    "total_turns": 6,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.46,
-      "benevolence": 5.68,
-      "integrity": 5.42
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a valid point. Quantifying achievements is crucial. Try using metrics like percentage improvements (e.g., 'Improved code efficiency by 15%'), cost savings (e.g., 'Reduced cloud spending by $5,000 per month'), or project completion time reduction. Even if it's team work, try phrases like, 'Led a team of X developers to successfully deploy…' or 'Contributed to a project that resulted in…'. I can help you brainstorm more specific ways to quantify your experience, just provide me the project details.",
+      "utterance": "That's a valid point. Quantifying achievements is crucial. Try using metrics like percentage improvements (e.g., 'Improved code efficiency by 15%'), cost savings (e.g., 'Reduced cloud spending by $5,000 per month'), or project completion time reduction. Even if it's team work, try phrases like, 'Led a team of X developers to successfully deploy\u2026' or 'Contributed to a project that resulted in\u2026'. I can help you brainstorm more specific ways to quantify your experience, just provide me the project details.",
       "response_time": 4.98,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

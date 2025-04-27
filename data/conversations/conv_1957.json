@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1957",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1957",
-    "scenario": "Movie recommendations based on genre",
-    "timestamp": "2025-04-21T15:49:12.391626",
-    "total_turns": 9,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.6,
-      "benevolence": 5.7,
-      "integrity": 5.62
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Yes, *The Bourne Identity* is excellent! It has plenty of twists and turns, keeping you engaged throughout. It’s a great choice if you like the spy-thriller elements of the Mission: Impossible films. It also spawned several sequels. However, I can't provide specific details on the plot to avoid spoilers. I recommend checking it out!",
+      "utterance": "Yes, *The Bourne Identity* is excellent! It has plenty of twists and turns, keeping you engaged throughout. It\u2019s a great choice if you like the spy-thriller elements of the Mission: Impossible films. It also spawned several sequels. However, I can't provide specific details on the plot to avoid spoilers. I recommend checking it out!",
       "response_time": 5.99,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

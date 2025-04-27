@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0417",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0417",
-    "scenario": "Insurance claim processing",
-    "timestamp": "2025-04-21T12:57:43.242669",
-    "total_turns": 5,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.74,
-      "benevolence": 4.38,
-      "integrity": 3.96
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, that's helpful. But what happens if the final estimate is significantly higher than the initial one? Will my insurance cover the difference, or will I be stuck paying a huge bill? That’s what I am most concerned about!",
+      "utterance": "Okay, that's helpful. But what happens if the final estimate is significantly higher than the initial one? Will my insurance cover the difference, or will I be stuck paying a huge bill? That\u2019s what I am most concerned about!",
       "response_time": null,
       "emotion_detected": "fear",
       "trust_score": null,

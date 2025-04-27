@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2603",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2603",
-    "scenario": "Hackathon participation",
-    "timestamp": "2025-04-21T17:18:57.208898",
-    "total_turns": 5,
-    "total_trust_score": 6.25,
-    "trust_category_scores": {
-      "competence": 6.39,
-      "benevolence": 6.43,
-      "integrity": 6.33
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -26,7 +12,7 @@
     {
       "turn_id": 2,
       "speaker": "agent",
-      "utterance": "That's fantastic! Participating in a hackathon is a great experience. For a beginner, I'd recommend focusing on a few key things: familiarize yourself with the tools and technologies you plan to use, try to attend any pre-hackathon workshops, and definitely prioritize sleep and staying hydrated during the event itself. Also, networking is key – don't be afraid to talk to other participants!",
+      "utterance": "That's fantastic! Participating in a hackathon is a great experience. For a beginner, I'd recommend focusing on a few key things: familiarize yourself with the tools and technologies you plan to use, try to attend any pre-hackathon workshops, and definitely prioritize sleep and staying hydrated during the event itself. Also, networking is key \u2013 don't be afraid to talk to other participants!",
       "response_time": 6.0,
       "emotion_detected": "fear",
       "trust_score": 7.0,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Team formation can definitely be a challenging part, but also very rewarding! Most hackathons have dedicated time for team formation at the beginning. Look for people who seem enthusiastic and have complementary skills to your own – maybe someone good at design if you're a developer, or vice versa. Discuss project ideas openly and try to find a common ground that excites everyone. Setting clear expectations upfront about roles and goals can help prevent issues later.",
+      "utterance": "Team formation can definitely be a challenging part, but also very rewarding! Most hackathons have dedicated time for team formation at the beginning. Look for people who seem enthusiastic and have complementary skills to your own \u2013 maybe someone good at design if you're a developer, or vice versa. Discuss project ideas openly and try to find a common ground that excites everyone. Setting clear expectations upfront about roles and goals can help prevent issues later.",
       "response_time": 3.87,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

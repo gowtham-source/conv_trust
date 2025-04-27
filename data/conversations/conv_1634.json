@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1634",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1634",
-    "scenario": "Game recommendations based on genre",
-    "timestamp": "2025-04-21T15:09:24.916817",
-    "total_turns": 9,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 5.07,
-      "benevolence": 5.02,
-      "integrity": 4.47
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, I understand. Considering you enjoy story-rich RPGs and strategy games, I would recommend the following: For RPGs, you might enjoy 'Disco Elysium' – it's highly praised for its unique setting and narrative. For strategy, how about 'Crusader Kings III'? It offers deep gameplay and allows you to roleplay a medieval dynasty. I'll need a little more information to improve my suggestions though, like your favorite platforms.",
+      "utterance": "Okay, I understand. Considering you enjoy story-rich RPGs and strategy games, I would recommend the following: For RPGs, you might enjoy 'Disco Elysium' \u2013 it's highly praised for its unique setting and narrative. For strategy, how about 'Crusader Kings III'? It offers deep gameplay and allows you to roleplay a medieval dynasty. I'll need a little more information to improve my suggestions though, like your favorite platforms.",
       "response_time": 4.03,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Crusader Kings sounds a bit overwhelming... What if I'm looking for a strategy game that's also a bit more… accessible? Something with a lower learning curve?",
+      "utterance": "Crusader Kings sounds a bit overwhelming... What if I'm looking for a strategy game that's also a bit more\u2026 accessible? Something with a lower learning curve?",
       "response_time": null,
       "emotion_detected": "surprise",
       "trust_score": null,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Northgard sounds good! What if I'm looking for a game that blends both genres – RPG and strategy? Something like... I don't know... a good example of a city-building RPG?",
+      "utterance": "Northgard sounds good! What if I'm looking for a game that blends both genres \u2013 RPG and strategy? Something like... I don't know... a good example of a city-building RPG?",
       "response_time": null,
       "emotion_detected": "surprise",
       "trust_score": null,

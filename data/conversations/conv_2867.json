@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2867",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2867",
-    "scenario": "flight booking assistance",
-    "timestamp": "2025-04-22T09:05:49.173457",
-    "total_turns": 4,
-    "total_trust_score": 3.25,
-    "trust_category_scores": {
-      "competence": 3.12,
-      "benevolence": 3.16,
-      "integrity": 3.14
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Ugh, these initial results are either ridiculously expensive or have 2+ stops and crazy long travel times. Can you find flights that are under £700 AND have only one stop? Is it even possible to get something decent for that price during December?",
+      "utterance": "Ugh, these initial results are either ridiculously expensive or have 2+ stops and crazy long travel times. Can you find flights that are under \u00a3700 AND have only one stop? Is it even possible to get something decent for that price during December?",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "I understand your frustration. Finding flights under £700 with only one stop for those dates in December can be challenging due to peak season demand, but I will certainly apply those filters and search again. Please note that availability matching both price and stop criteria might be limited. Searching now for options under £700 with a maximum of one stop for December 15th to 22nd.",
+      "utterance": "I understand your frustration. Finding flights under \u00a3700 with only one stop for those dates in December can be challenging due to peak season demand, but I will certainly apply those filters and search again. Please note that availability matching both price and stop criteria might be limited. Searching now for options under \u00a3700 with a maximum of one stop for December 15th to 22nd.",
       "response_time": 2.25,
       "emotion_detected": "anger",
       "trust_score": 2.5,

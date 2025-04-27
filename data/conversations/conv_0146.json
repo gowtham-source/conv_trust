@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0146",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0146",
-    "scenario": "Home improvement guidance",
-    "timestamp": "2025-04-21T12:32:41.578923",
-    "total_turns": 7,
-    "total_trust_score": 5.0,
-    "trust_category_scores": {
-      "competence": 4.84,
-      "benevolence": 5.03,
-      "integrity": 4.85
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Budget is… well, let's say 'reasonable'. I'm leaning towards a modern, clean look. Probably something light, like a white or light gray. Porcelain seems durable, so maybe that? The shower is roughly 3 feet by 4 feet, I think. Honestly, I'm more worried about the actual tiling process than picking the tiles. I've never done it before!",
+      "utterance": "Budget is\u2026 well, let's say 'reasonable'. I'm leaning towards a modern, clean look. Probably something light, like a white or light gray. Porcelain seems durable, so maybe that? The shower is roughly 3 feet by 4 feet, I think. Honestly, I'm more worried about the actual tiling process than picking the tiles. I've never done it before!",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

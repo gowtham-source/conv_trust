@@ -1,23 +1,9 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1662",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1662",
-    "scenario": "Insurance claim processing",
-    "timestamp": "2025-04-21T15:12:55.367149",
-    "total_turns": 6,
-    "total_trust_score": 1.5,
-    "trust_category_scores": {
-      "competence": 1.38,
-      "benevolence": 1.5,
-      "integrity": 1.62
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
       "speaker": "user",
-      "utterance": "Hi, I need to file an insurance claim. I had a car accident last week and I’m not sure where to start.",
+      "utterance": "Hi, I need to file an insurance claim. I had a car accident last week and I\u2019m not sure where to start.",
       "response_time": null,
       "emotion_detected": "fear",
       "trust_score": null,

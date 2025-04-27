@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1732",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1732",
-    "scenario": "Interview preparation assistance",
-    "timestamp": "2025-04-21T15:20:53.826480",
-    "total_turns": 7,
-    "total_trust_score": 7.0,
-    "trust_category_scores": {
-      "competence": 6.97,
-      "benevolence": 6.93,
-      "integrity": 6.75
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a great question! In such situations, honesty is key. Acknowledge you haven't worked directly with the platform, but then demonstrate your ability to learn. You could say something like: \"While I haven't had hands-on experience with [Platform Name], I'm familiar with cloud computing concepts like [related concepts]. I'm also a quick learner and would be eager to get up to speed. Could you tell me more about how your team utilizes [Platform Name]?\" This shows your adaptability and willingness to learn. Also, research the company’s tech stack before the interview.",
+      "utterance": "That's a great question! In such situations, honesty is key. Acknowledge you haven't worked directly with the platform, but then demonstrate your ability to learn. You could say something like: \"While I haven't had hands-on experience with [Platform Name], I'm familiar with cloud computing concepts like [related concepts]. I'm also a quick learner and would be eager to get up to speed. Could you tell me more about how your team utilizes [Platform Name]?\" This shows your adaptability and willingness to learn. Also, research the company\u2019s tech stack before the interview.",
       "response_time": 6.0,
       "emotion_detected": "neutral",
       "trust_score": 7.0,

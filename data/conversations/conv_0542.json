@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0542",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0542",
-    "scenario": "Job application assistance",
-    "timestamp": "2025-04-21T13:10:06.622338",
-    "total_turns": 6,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.54,
-      "benevolence": 4.49,
-      "integrity": 4.7
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, this is where it gets tricky. I led a social media campaign that increased engagement by 30%, but it was for a previous company that had, shall we say, a *very* different brand voice than Acme. Acme is much more…corporate. Should I even include it if the tone is so different? Won't they think I don't understand their brand?",
+      "utterance": "Okay, this is where it gets tricky. I led a social media campaign that increased engagement by 30%, but it was for a previous company that had, shall we say, a *very* different brand voice than Acme. Acme is much more\u2026corporate. Should I even include it if the tone is so different? Won't they think I don't understand their brand?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

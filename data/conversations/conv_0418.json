@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0418",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0418",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-21T12:57:48.093880",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.2,
-      "benevolence": 4.29,
-      "integrity": 4.4
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, great! Here’s a possible meal plan and grocery list to stay under $50. I recommend focusing on staples like rice, beans, and seasonal vegetables. Consider meals such as lentil soup, rice and beans with sauteed vegetables, and simple pasta dishes with tomato sauce. To save money, shop store brands and buy in bulk when possible. I cannot provide a specific grocery list as prices will vary based on location and stores.",
+      "utterance": "Okay, great! Here\u2019s a possible meal plan and grocery list to stay under $50. I recommend focusing on staples like rice, beans, and seasonal vegetables. Consider meals such as lentil soup, rice and beans with sauteed vegetables, and simple pasta dishes with tomato sauce. To save money, shop store brands and buy in bulk when possible. I cannot provide a specific grocery list as prices will vary based on location and stores.",
       "response_time": 3.8,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

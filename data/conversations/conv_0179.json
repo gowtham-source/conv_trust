@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0179",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0179",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T12:35:56.566475",
-    "total_turns": 4,
-    "total_trust_score": 3.25,
-    "trust_category_scores": {
-      "competence": 3.19,
-      "benevolence": 3.39,
-      "integrity": 3.16
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -26,7 +12,7 @@
     {
       "turn_id": 2,
       "speaker": "agent",
-      "utterance": "I understand your frustration. It can be tricky! Let's break it down. Factoring is generally the quickest method *if* the quadratic equation factors easily. Look for two numbers that multiply to give you the 'c' term and add up to the 'b' term in the equation ax² + bx + c = 0. If factoring seems difficult or impossible, then completing the square or the quadratic formula are your next options. Completing the square is useful when 'a' equals 1 and 'b' is an even number, or when you need to rewrite the equation in vertex form. The quadratic formula is your reliable fallback – it *always* works, regardless of the coefficients. Does that clarify things a little?",
+      "utterance": "I understand your frustration. It can be tricky! Let's break it down. Factoring is generally the quickest method *if* the quadratic equation factors easily. Look for two numbers that multiply to give you the 'c' term and add up to the 'b' term in the equation ax\u00b2 + bx + c = 0. If factoring seems difficult or impossible, then completing the square or the quadratic formula are your next options. Completing the square is useful when 'a' equals 1 and 'b' is an even number, or when you need to rewrite the equation in vertex form. The quadratic formula is your reliable fallback \u2013 it *always* works, regardless of the coefficients. Does that clarify things a little?",
       "response_time": 1.7,
       "emotion_detected": "anger",
       "trust_score": 2.5,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "You're right, completing the square can be more involved when 'a' isn't 1 or 'b' isn't even. In those cases, the quadratic formula is often the easier route. As for where the quadratic formula comes from, it is derived by completing the square on the *general* quadratic equation, ax² + bx + c = 0. Would you like me to walk you through the algebraic steps to derive the quadratic formula itself? It might help make the concept clearer!",
+      "utterance": "You're right, completing the square can be more involved when 'a' isn't 1 or 'b' isn't even. In those cases, the quadratic formula is often the easier route. As for where the quadratic formula comes from, it is derived by completing the square on the *general* quadratic equation, ax\u00b2 + bx + c = 0. Would you like me to walk you through the algebraic steps to derive the quadratic formula itself? It might help make the concept clearer!",
       "response_time": 4.05,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2589",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2589",
-    "scenario": "Career counseling",
-    "timestamp": "2025-04-21T17:16:32.078822",
-    "total_turns": 4,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.88,
-      "benevolence": 4.25,
-      "integrity": 3.76
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "That's a very common and valid concern. Pivoting careers without extensive new education or financial hardship is challenging, but often achievable through strategic steps. It's not always about starting completely from scratch. We could look at identifying transferable skills from your administrative background – like your organizational skills, attention to detail, or communication abilities – and see how they might apply to entry-level roles in related or slightly different fields. Exploring industries that value those skills, considering certifications or short courses instead of full degrees, or seeking roles that blend administrative tasks with exposure to a new area might be pathways. It requires careful planning and often starting with smaller steps.",
+      "utterance": "That's a very common and valid concern. Pivoting careers without extensive new education or financial hardship is challenging, but often achievable through strategic steps. It's not always about starting completely from scratch. We could look at identifying transferable skills from your administrative background \u2013 like your organizational skills, attention to detail, or communication abilities \u2013 and see how they might apply to entry-level roles in related or slightly different fields. Exploring industries that value those skills, considering certifications or short courses instead of full degrees, or seeking roles that blend administrative tasks with exposure to a new area might be pathways. It requires careful planning and often starting with smaller steps.",
       "response_time": 2.92,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1860",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1860",
-    "scenario": "Job application assistance",
-    "timestamp": "2025-04-21T15:35:47.053244",
-    "total_turns": 5,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.58,
-      "benevolence": 5.53,
-      "integrity": 5.6
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "That's… helpful, I guess, but a little generic. The job description also mentions managing budgets, which I've done, but only for very small projects. How do I address the budget management requirement without underselling myself, while still being honest? It's for a company I really want to work for, and I don't want to mess this up.",
+      "utterance": "That's\u2026 helpful, I guess, but a little generic. The job description also mentions managing budgets, which I've done, but only for very small projects. How do I address the budget management requirement without underselling myself, while still being honest? It's for a company I really want to work for, and I don't want to mess this up.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

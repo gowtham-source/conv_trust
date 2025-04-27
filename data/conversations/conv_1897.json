@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1897",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1897",
-    "scenario": "Game recommendations based on genre",
-    "timestamp": "2025-04-21T15:41:15.787529",
-    "total_turns": 9,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.32,
-      "benevolence": 5.6,
-      "integrity": 5.4
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Hmm, fair enough. What about something… less punishing? Like, maybe a good open-world game? Anything come to mind?",
+      "utterance": "Hmm, fair enough. What about something\u2026 less punishing? Like, maybe a good open-world game? Anything come to mind?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

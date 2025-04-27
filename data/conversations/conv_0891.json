@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0891",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0891",
-    "scenario": "E-commerce product recommendations",
-    "timestamp": "2025-04-21T13:44:46.638721",
-    "total_turns": 7,
-    "total_trust_score": 5.0,
-    "trust_category_scores": {
-      "competence": 4.8,
-      "benevolence": 4.89,
-      "integrity": 5.14
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a fair question. The higher price of the Moccamaster reflects several factors. Firstly, it's hand-built in the Netherlands with durable, high-quality materials designed to last for years, unlike many cheaper models that use more plastic and are prone to breaking. Secondly, it maintains an optimal brewing temperature (between 196-205°F) throughout the entire brewing process, resulting in a more flavorful and balanced cup of coffee. Cheaper coffee makers often fluctuate in temperature, leading to under-extraction or over-extraction. Independent testers also consistently rate Moccamaster coffee higher in terms of taste and clarity. The faster brewing time also helps to avoid bitterness. Is there anything else I can help clarify?",
+      "utterance": "That's a fair question. The higher price of the Moccamaster reflects several factors. Firstly, it's hand-built in the Netherlands with durable, high-quality materials designed to last for years, unlike many cheaper models that use more plastic and are prone to breaking. Secondly, it maintains an optimal brewing temperature (between 196-205\u00b0F) throughout the entire brewing process, resulting in a more flavorful and balanced cup of coffee. Cheaper coffee makers often fluctuate in temperature, leading to under-extraction or over-extraction. Independent testers also consistently rate Moccamaster coffee higher in terms of taste and clarity. The faster brewing time also helps to avoid bitterness. Is there anything else I can help clarify?",
       "response_time": 2.67,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

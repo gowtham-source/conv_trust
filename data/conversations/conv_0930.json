@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0930",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0930",
-    "scenario": "Health advice consultation",
-    "timestamp": "2025-04-21T13:48:39.049087",
-    "total_turns": 6,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.55,
-      "benevolence": 4.63,
-      "integrity": 4.44
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a very good question. While I cannot provide a diagnosis, key warning signs that warrant immediate medical attention include high fever (above 103°F), difficulty breathing or shortness of breath, chest pain, persistent dizziness, or blueish discoloration of the lips or face. If you experience any of these, please seek immediate medical care. Since you've already tried over-the-counter remedies without much relief and are concerned, scheduling an appointment with your doctor is the best course of action. They can properly assess your condition and rule out more serious illnesses. Does that help?",
+      "utterance": "That's a very good question. While I cannot provide a diagnosis, key warning signs that warrant immediate medical attention include high fever (above 103\u00b0F), difficulty breathing or shortness of breath, chest pain, persistent dizziness, or blueish discoloration of the lips or face. If you experience any of these, please seek immediate medical care. Since you've already tried over-the-counter remedies without much relief and are concerned, scheduling an appointment with your doctor is the best course of action. They can properly assess your condition and rule out more serious illnesses. Does that help?",
       "response_time": 4.98,
       "emotion_detected": "fear",
       "trust_score": 5.5,

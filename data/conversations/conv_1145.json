@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1145",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1145",
-    "scenario": "Insurance claim processing",
-    "timestamp": "2025-04-21T14:10:54.912195",
-    "total_turns": 5,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.69,
-      "benevolence": 5.26,
-      "integrity": 5.55
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Okay, that's… somewhat helpful. But what about the damage estimate to my car? I need to know if it's even worth repairing, or if they're just going to total it. I can't be without a car for much longer!",
+      "utterance": "Okay, that's\u2026 somewhat helpful. But what about the damage estimate to my car? I need to know if it's even worth repairing, or if they're just going to total it. I can't be without a car for much longer!",
       "response_time": null,
       "emotion_detected": "surprise",
       "trust_score": null,

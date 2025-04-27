@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2686",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2686",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T22:11:58.573819",
-    "total_turns": 9,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 5.08,
-      "benevolence": 5.14,
-      "integrity": 5.14
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Okay, let's say I have about $200-$250 total to spend right now. I need versatile pieces for weekend wear – like jeans, some tops, maybe something light for layering. I'm basically starting from scratch.",
+      "utterance": "Okay, let's say I have about $200-$250 total to spend right now. I need versatile pieces for weekend wear \u2013 like jeans, some tops, maybe something light for layering. I'm basically starting from scratch.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "Apologies for not being more specific. For a versatile top that works well with jeans and layering, I'd suggest looking for a fitted or semi-fitted long-sleeve t-shirt or a simple crewneck sweater in a neutral color like white, black, grey, or navy. These can be worn alone or layered under a jacket or cardigan. When checking quality in person, look at the seams – they should be neat and strong – and feel the fabric; avoid anything overly thin or flimsy if you want it to last. Checking online reviews for specific items can also be helpful regarding durability.",
+      "utterance": "Apologies for not being more specific. For a versatile top that works well with jeans and layering, I'd suggest looking for a fitted or semi-fitted long-sleeve t-shirt or a simple crewneck sweater in a neutral color like white, black, grey, or navy. These can be worn alone or layered under a jacket or cardigan. When checking quality in person, look at the seams \u2013 they should be neat and strong \u2013 and feel the fabric; avoid anything overly thin or flimsy if you want it to last. Checking online reviews for specific items can also be helpful regarding durability.",
       "response_time": 3.27,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

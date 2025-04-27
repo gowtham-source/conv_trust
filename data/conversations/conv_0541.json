@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0541",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0541",
-    "scenario": "Hackathon participation",
-    "timestamp": "2025-04-21T13:09:59.218272",
-    "total_turns": 7,
-    "total_trust_score": 3.0,
-    "trust_category_scores": {
-      "competence": 3.14,
-      "benevolence": 3.13,
-      "integrity": 2.87
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Brainstorming is key! Try thinking about everyday problems you face related to sustainability. Even better, talk to people who work in sustainability. See if you can identify a pain point they experience that you can address with your skills. For a weekend hackathon, aim for a *minimum viable product (MVP)* – a basic, functional solution, not a perfect polished one.",
+      "utterance": "Brainstorming is key! Try thinking about everyday problems you face related to sustainability. Even better, talk to people who work in sustainability. See if you can identify a pain point they experience that you can address with your skills. For a weekend hackathon, aim for a *minimum viable product (MVP)* \u2013 a basic, functional solution, not a perfect polished one.",
       "response_time": 3.75,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

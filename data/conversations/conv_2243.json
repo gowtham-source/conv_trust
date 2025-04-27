@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2243",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2243",
-    "scenario": "Resume writing assistance",
-    "timestamp": "2025-04-21T16:23:30.001095",
-    "total_turns": 7,
-    "total_trust_score": 5.0,
-    "trust_category_scores": {
-      "competence": 4.8,
-      "benevolence": 5.31,
-      "integrity": 4.88
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a great question! The best approach is to analyze the job descriptions for the roles you're targeting. Identify the keywords and skills that the companies are looking for, and then highlight your experience and accomplishments that directly align with those requirements. Focus on quantifiable achievements whenever possible – things like 'Increased project efficiency by 15%' or 'Managed a budget of $X.' For roles more than 10 years old, you can generally shorten the descriptions, focusing on titles and key responsibilities. Let me know if you want help with keyword extraction from a specific job posting.",
+      "utterance": "That's a great question! The best approach is to analyze the job descriptions for the roles you're targeting. Identify the keywords and skills that the companies are looking for, and then highlight your experience and accomplishments that directly align with those requirements. Focus on quantifiable achievements whenever possible \u2013 things like 'Increased project efficiency by 15%' or 'Managed a budget of $X.' For roles more than 10 years old, you can generally shorten the descriptions, focusing on titles and key responsibilities. Let me know if you want help with keyword extraction from a specific job posting.",
       "response_time": 5.49,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

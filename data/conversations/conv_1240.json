@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1240",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1240",
-    "scenario": "Customer support interaction about a billing issue",
-    "timestamp": "2025-04-21T14:20:11.458830",
-    "total_turns": 7,
-    "total_trust_score": 5.0,
-    "trust_category_scores": {
-      "competence": 5.12,
-      "benevolence": 5.1,
-      "integrity": 4.84
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Premium Access? Nope, never heard of it. I’m very careful about subscriptions, and I didn’t sign up for anything like that. What exactly does it provide, and is it possible someone else on my account did this without my knowledge?",
+      "utterance": "Premium Access? Nope, never heard of it. I\u2019m very careful about subscriptions, and I didn\u2019t sign up for anything like that. What exactly does it provide, and is it possible someone else on my account did this without my knowledge?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

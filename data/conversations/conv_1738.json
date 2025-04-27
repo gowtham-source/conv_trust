@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1738",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1738",
-    "scenario": "Shoe recommendations based on style",
-    "timestamp": "2025-04-21T15:21:31.158282",
-    "total_turns": 8,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.61,
-      "benevolence": 4.72,
-      "integrity": 4.53
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Mainly everyday wear, maybe some light walking. Nothing too intense. I’m also trying to avoid anything too expensive. I'm on a budget.",
+      "utterance": "Mainly everyday wear, maybe some light walking. Nothing too intense. I\u2019m also trying to avoid anything too expensive. I'm on a budget.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

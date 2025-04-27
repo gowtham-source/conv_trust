@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2406",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2406",
-    "scenario": "Medical billing processing",
-    "timestamp": "2025-04-21T16:40:46.384844",
-    "total_turns": 4,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.48,
-      "benevolence": 4.89,
-      "integrity": 5.11
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Alright, let me pull up that claim first… (pause). Okay, denial reason CO-45 indicates the service is not covered by the patient's plan. Regarding your question about less obvious pitfalls: Common issues include incorrect modifier usage, coding errors related to medical necessity, and failing to obtain prior authorizations. Also, it's surprisingly common for claims to be denied due to typos in patient demographics. I am still retrieving the details for claim 12345 for you now, please give me a moment.",
+      "utterance": "Alright, let me pull up that claim first\u2026 (pause). Okay, denial reason CO-45 indicates the service is not covered by the patient's plan. Regarding your question about less obvious pitfalls: Common issues include incorrect modifier usage, coding errors related to medical necessity, and failing to obtain prior authorizations. Also, it's surprisingly common for claims to be denied due to typos in patient demographics. I am still retrieving the details for claim 12345 for you now, please give me a moment.",
       "response_time": 3.88,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

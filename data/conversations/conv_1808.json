@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1808",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1808",
-    "scenario": "Book recommendations based on genre",
-    "timestamp": "2025-04-21T15:29:39.173004",
-    "total_turns": 4,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.49,
-      "benevolence": 4.77,
-      "integrity": 4.71
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "I've read all of those, unfortunately. Do you have any suggestions that are less mainstream or maybe a bit more… experimental? Something thought-provoking, even if it's not necessarily 'fun' to read.",
+      "utterance": "I've read all of those, unfortunately. Do you have any suggestions that are less mainstream or maybe a bit more\u2026 experimental? Something thought-provoking, even if it's not necessarily 'fun' to read.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0030",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0030",
-    "scenario": "Interview preparation assistance",
-    "timestamp": "2025-04-21T12:20:32.270071",
-    "total_turns": 8,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 4.51,
-      "benevolence": 4.4,
-      "integrity": 4.3
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "That's a valid concern. When discussing a failure, choose a situation where you learned a valuable lesson and demonstrated resilience. Frame it as a growth opportunity. Focus on what you learned, how you changed your approach, and the positive outcome or improvement that resulted from that experience. For example, 'In a previous role, a marketing campaign I led underperformed due to… However, I learned the importance of... and implemented a new strategy that resulted in...' ",
+      "utterance": "That's a valid concern. When discussing a failure, choose a situation where you learned a valuable lesson and demonstrated resilience. Frame it as a growth opportunity. Focus on what you learned, how you changed your approach, and the positive outcome or improvement that resulted from that experience. For example, 'In a previous role, a marketing campaign I led underperformed due to\u2026 However, I learned the importance of... and implemented a new strategy that resulted in...' ",
       "response_time": 2.4,
       "emotion_detected": "fear",
       "trust_score": 2.5,

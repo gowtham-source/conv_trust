@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1236",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1236",
-    "scenario": "Medical billing processing",
-    "timestamp": "2025-04-21T14:19:42.862844",
-    "total_turns": 10,
-    "total_trust_score": 3.7,
-    "trust_category_scores": {
-      "competence": 3.72,
-      "benevolence": 3.8,
-      "integrity": 3.78
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Ugh, missing modifier again? The procedure code was 99214. The modifier should have been -25. I’m sure of it.",
+      "utterance": "Ugh, missing modifier again? The procedure code was 99214. The modifier should have been -25. I\u2019m sure of it.",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "How long does 'some time' usually mean? I have patients waiting for this to get resolved and it’s important they get their bills paid.",
+      "utterance": "How long does 'some time' usually mean? I have patients waiting for this to get resolved and it\u2019s important they get their bills paid.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

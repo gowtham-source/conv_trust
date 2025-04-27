@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0093",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0093",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T12:27:24.541341",
-    "total_turns": 10,
-    "total_trust_score": 5.2,
-    "trust_category_scores": {
-      "competence": 5.07,
-      "benevolence": 5.19,
-      "integrity": 5.08
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Okay, so it says: A solid sphere with a mass of 5 kg and a radius of 0.2 m is rotating at 10 rad/s. What is its kinetic energy? I used the formula KE = 1/2 * I * ω^2, where I is the moment of inertia and ω is the angular velocity. I calculated I as 2/5 * m * r^2, but the final KE is wrong!",
+      "utterance": "Okay, so it says: A solid sphere with a mass of 5 kg and a radius of 0.2 m is rotating at 10 rad/s. What is its kinetic energy? I used the formula KE = 1/2 * I * \u03c9^2, where I is the moment of inertia and \u03c9 is the angular velocity. I calculated I as 2/5 * m * r^2, but the final KE is wrong!",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0472",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0472",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T13:03:07.633924",
-    "total_turns": 10,
-    "total_trust_score": 4.9,
-    "trust_category_scores": {
-      "competence": 5.13,
-      "benevolence": 5.04,
-      "integrity": 4.82
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Right, I see. The bases (b1 and b2) are always the parallel sides – they'll never intersect. The height is the perpendicular distance between these two bases. Imagine a line drawn straight down from one base to the other, forming a right angle. Does that help visualize it?",
+      "utterance": "Right, I see. The bases (b1 and b2) are always the parallel sides \u2013 they'll never intersect. The height is the perpendicular distance between these two bases. Imagine a line drawn straight down from one base to the other, forming a right angle. Does that help visualize it?",
       "response_time": 4.0,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

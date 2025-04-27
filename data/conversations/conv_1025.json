@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1025",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1025",
-    "scenario": "Home improvement guidance",
-    "timestamp": "2025-04-21T13:58:35.144543",
-    "total_turns": 10,
-    "total_trust_score": 4.6,
-    "trust_category_scores": {
-      "competence": 4.66,
-      "benevolence": 4.62,
-      "integrity": 4.64
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Yes, I picked out a color! It's a light gray. I think I have most of the supplies... rollers, brushes, tape. But how do I figure out how much paint I need? My living room is… awkwardly shaped.",
+      "utterance": "Yes, I picked out a color! It's a light gray. I think I have most of the supplies... rollers, brushes, tape. But how do I figure out how much paint I need? My living room is\u2026 awkwardly shaped.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

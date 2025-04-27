@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2579",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2579",
-    "scenario": "Book recommendations based on genre",
-    "timestamp": "2025-04-21T17:14:45.673672",
-    "total_turns": 8,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 5.04,
-      "benevolence": 4.56,
-      "integrity": 4.83
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, I appreciate the attempt to explain the 'Mistborn' thing, but recommending 'The Broken Earth' feels a bit off track again – that's another popular, multi-book trilogy, and while it has atmosphere, it's not exactly the niche I was trying to describe. It feels like I'm not getting very tailored suggestions. Ugh.",
+      "utterance": "Okay, I appreciate the attempt to explain the 'Mistborn' thing, but recommending 'The Broken Earth' feels a bit off track again \u2013 that's another popular, multi-book trilogy, and while it has atmosphere, it's not exactly the niche I was trying to describe. It feels like I'm not getting very tailored suggestions. Ugh.",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "Apologies if the suggestions haven't been perfectly aligned with your preferences. Finding less mainstream, standalone, atmospheric dark fantasy can be specific. Perhaps try 'Perdido Street Station' by China Miéville? It's a unique blend of fantasy, sci-fi, and horror with a very distinct, dark atmosphere and complex world, though it is quite lengthy. Alternatively, switching genres might yield better results?",
+      "utterance": "Apologies if the suggestions haven't been perfectly aligned with your preferences. Finding less mainstream, standalone, atmospheric dark fantasy can be specific. Perhaps try 'Perdido Street Station' by China Mi\u00e9ville? It's a unique blend of fantasy, sci-fi, and horror with a very distinct, dark atmosphere and complex world, though it is quite lengthy. Alternatively, switching genres might yield better results?",
       "response_time": 4.07,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

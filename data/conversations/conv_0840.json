@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0840",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0840",
-    "scenario": "Game recommendations based on genre",
-    "timestamp": "2025-04-21T13:39:24.482523",
-    "total_turns": 6,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.32,
-      "benevolence": 4.35,
-      "integrity": 4.31
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a valid point! You're right, truly excellent real-time combat RPGs with compelling narratives are somewhat rarer these days. It's likely a combination of factors – the development complexity of real-time combat systems alongside narrative depth, the higher risk associated with longer development cycles, and perhaps a shift in market preferences towards other genres. While turn-based games offer more tactical depth, real-time systems require more nuanced AI and animation, which can be challenging. Regarding recommendations though, outside of the Witcher, the most recent that comes to mind is maybe the 'Souls' games, specifically 'Elden Ring'. It does have a good story, but it is more subtle than something like the Witcher, and the focus is primarily on exploration and boss fights.",
+      "utterance": "That's a valid point! You're right, truly excellent real-time combat RPGs with compelling narratives are somewhat rarer these days. It's likely a combination of factors \u2013 the development complexity of real-time combat systems alongside narrative depth, the higher risk associated with longer development cycles, and perhaps a shift in market preferences towards other genres. While turn-based games offer more tactical depth, real-time systems require more nuanced AI and animation, which can be challenging. Regarding recommendations though, outside of the Witcher, the most recent that comes to mind is maybe the 'Souls' games, specifically 'Elden Ring'. It does have a good story, but it is more subtle than something like the Witcher, and the focus is primarily on exploration and boss fights.",
       "response_time": 4.27,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

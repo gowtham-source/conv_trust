@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0412",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0412",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-21T12:57:13.721061",
-    "total_turns": 9,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.26,
-      "benevolence": 5.35,
-      "integrity": 5.36
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "That's a good question! Flexibility is key. If your preferred items are too expensive, look for alternatives within the same food group. For example, if chicken thighs are pricey, try lentils as a protein source. Also, consider frozen vegetables, which are often cheaper than fresh and last longer. And always check the unit price – sometimes a larger package is actually cheaper per serving, even if the upfront cost is higher. Finally, plan simple meals that use the same ingredients in multiple ways to reduce waste.",
+      "utterance": "That's a good question! Flexibility is key. If your preferred items are too expensive, look for alternatives within the same food group. For example, if chicken thighs are pricey, try lentils as a protein source. Also, consider frozen vegetables, which are often cheaper than fresh and last longer. And always check the unit price \u2013 sometimes a larger package is actually cheaper per serving, even if the upfront cost is higher. Finally, plan simple meals that use the same ingredients in multiple ways to reduce waste.",
       "response_time": 3.98,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

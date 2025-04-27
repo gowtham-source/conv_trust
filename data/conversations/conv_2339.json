@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2339",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2339",
-    "scenario": "Job application assistance",
-    "timestamp": "2025-04-21T16:33:47.832186",
-    "total_turns": 4,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.67,
-      "benevolence": 5.1,
-      "integrity": 5.28
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, I understand your frustration and the complexity of the job description. The key is to analyze the job description carefully. We can break it down into essential and preferred requirements. For 'Experience with cloud platforms,' even if you only have experience with a couple, specify the platforms and highlight any related projects or achievements. For example, if it says \"experience with cloud platforms,\" and you have experience with AWS, you can state it as \"Demonstrated experience with cloud platforms, specifically AWS, used for… [briefly describe the project and your contributions].\" I am able to generate example bullet points or sections for your cover letter based on the resume and job description. This will ease the process. How does that sound?",
+      "utterance": "Okay, I understand your frustration and the complexity of the job description. The key is to analyze the job description carefully. We can break it down into essential and preferred requirements. For 'Experience with cloud platforms,' even if you only have experience with a couple, specify the platforms and highlight any related projects or achievements. For example, if it says \"experience with cloud platforms,\" and you have experience with AWS, you can state it as \"Demonstrated experience with cloud platforms, specifically AWS, used for\u2026 [briefly describe the project and your contributions].\" I am able to generate example bullet points or sections for your cover letter based on the resume and job description. This will ease the process. How does that sound?",
       "response_time": 4.1,
       "emotion_detected": "anger",
       "trust_score": 4.0,

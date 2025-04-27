@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2757",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2757",
-    "scenario": "Music recommendations based on genre",
-    "timestamp": "2025-04-22T08:43:40.238365",
-    "total_turns": 5,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.02,
-      "benevolence": 4.19,
-      "integrity": 4.04
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Ah, I understand. You're looking for something less mainstream and more focused on deep house or melodic techno. In that case, perhaps you would enjoy artists like Tale of Us, Solomun, or maybe Ben Böhmer. They are known for more atmospheric and intricate electronic sounds.",
+      "utterance": "Ah, I understand. You're looking for something less mainstream and more focused on deep house or melodic techno. In that case, perhaps you would enjoy artists like Tale of Us, Solomun, or maybe Ben B\u00f6hmer. They are known for more atmospheric and intricate electronic sounds.",
       "response_time": 3.01,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, Tale of Us and Solomun sound exactly like what I was hoping for, thank you! I've never heard of Ben Böhmer, but I'll check them all out. Much better than the first list.",
+      "utterance": "Okay, Tale of Us and Solomun sound exactly like what I was hoping for, thank you! I've never heard of Ben B\u00f6hmer, but I'll check them all out. Much better than the first list.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

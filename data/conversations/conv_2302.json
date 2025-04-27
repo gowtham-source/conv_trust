@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2302",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2302",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T16:30:08.203571",
-    "total_turns": 4,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.23,
-      "benevolence": 4.14,
-      "integrity": 3.79
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "I understand your frustration. Let's break it down. You're correct, we'll need the volume formula for a sphere: V = (4/3)πr³. You've got the rate of change of volume (dV/dt = 10 cm³/s) and you want to find dr/dt when r = 5 cm. Now, let's differentiate the volume formula with respect to time (t).  That's where we start applying the related rates concepts.  Can you try differentiating the volume equation and seeing where that leads you?",
+      "utterance": "I understand your frustration. Let's break it down. You're correct, we'll need the volume formula for a sphere: V = (4/3)\u03c0r\u00b3. You've got the rate of change of volume (dV/dt = 10 cm\u00b3/s) and you want to find dr/dt when r = 5 cm. Now, let's differentiate the volume formula with respect to time (t).  That's where we start applying the related rates concepts.  Can you try differentiating the volume equation and seeing where that leads you?",
       "response_time": 1.65,
       "emotion_detected": "anger",
       "trust_score": 2.5,

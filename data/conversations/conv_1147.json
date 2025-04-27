@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1147",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1147",
-    "scenario": "Movie recommendations based on genre",
-    "timestamp": "2025-04-21T14:11:05.788579",
-    "total_turns": 6,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.41,
-      "benevolence": 4.45,
-      "integrity": 4.56
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a fair question. I use a combination of methods. First, I analyze databases of movie information, including plot synopses, genre classifications, audience reviews, and critic ratings. Then, based on your expressed preferences (suspense, not too gory, similar to 'Prisoners' but less dark, dislike of supernatural elements), I filter the results. I prioritize movies that are consistently rated highly for suspense and that are tagged with keywords associated with crime thrillers but avoid keywords associated with horror or supernatural themes. I also consider the 'mood' or tone described in reviews. Finally, I check if the recommended movies share cast members or directors with movies you’ve mentioned liking in the past (when available). While the selection isn't perfect, this process helps me provide a more tailored recommendation. I hope that clarifies things!",
+      "utterance": "That's a fair question. I use a combination of methods. First, I analyze databases of movie information, including plot synopses, genre classifications, audience reviews, and critic ratings. Then, based on your expressed preferences (suspense, not too gory, similar to 'Prisoners' but less dark, dislike of supernatural elements), I filter the results. I prioritize movies that are consistently rated highly for suspense and that are tagged with keywords associated with crime thrillers but avoid keywords associated with horror or supernatural themes. I also consider the 'mood' or tone described in reviews. Finally, I check if the recommended movies share cast members or directors with movies you\u2019ve mentioned liking in the past (when available). While the selection isn't perfect, this process helps me provide a more tailored recommendation. I hope that clarifies things!",
       "response_time": 5.08,
       "emotion_detected": "fear",
       "trust_score": 5.5,

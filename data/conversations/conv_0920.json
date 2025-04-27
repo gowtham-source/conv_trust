@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0920",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0920",
-    "scenario": "Ar denial processing",
-    "timestamp": "2025-04-21T13:47:44.039443",
-    "total_turns": 9,
-    "total_trust_score": 3.25,
-    "trust_category_scores": {
-      "competence": 3.12,
-      "benevolence": 3.27,
-      "integrity": 3.27
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Thank you. Processing... Okay, it appears that claim 12345 was denied due to missing information regarding the patient's secondary insurance. Claim 67890 was denied for a coding error – the procedure code used isn't covered under the patient's plan. Claim 13579 was denied because the service required pre-authorization and it wasn't obtained.",
+      "utterance": "Thank you. Processing... Okay, it appears that claim 12345 was denied due to missing information regarding the patient's secondary insurance. Claim 67890 was denied for a coding error \u2013 the procedure code used isn't covered under the patient's plan. Claim 13579 was denied because the service required pre-authorization and it wasn't obtained.",
       "response_time": 0.5,
       "emotion_detected": "neutral",
       "trust_score": 1.0,

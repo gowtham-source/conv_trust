@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0645",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0645",
-    "scenario": "Food ordering and recommendations",
-    "timestamp": "2025-04-21T13:20:22.776074",
-    "total_turns": 5,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.79,
-      "benevolence": 3.92,
-      "integrity": 3.97
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, trying to be healthy-ish and adventurous. How about trying the 'Peruvian Ceviche' from 'Ocean's Catch'? It's a light, refreshing seafood dish with citrus and chili. Alternatively, I could suggest the 'Ethiopian Vegetarian Combo' from 'Addis Eats' – a flavorful and diverse platter of lentil stews and vegetable dishes served with injera bread. Which of these options is closer to what you're looking for?",
+      "utterance": "Okay, trying to be healthy-ish and adventurous. How about trying the 'Peruvian Ceviche' from 'Ocean's Catch'? It's a light, refreshing seafood dish with citrus and chili. Alternatively, I could suggest the 'Ethiopian Vegetarian Combo' from 'Addis Eats' \u2013 a flavorful and diverse platter of lentil stews and vegetable dishes served with injera bread. Which of these options is closer to what you're looking for?",
       "response_time": 2.86,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

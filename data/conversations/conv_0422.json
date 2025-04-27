@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0422",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0422",
-    "scenario": "Resume writing assistance",
-    "timestamp": "2025-04-21T12:58:13.977355",
-    "total_turns": 10,
-    "total_trust_score": 5.2,
-    "trust_category_scores": {
-      "competence": 5.19,
-      "benevolence": 5.22,
-      "integrity": 5.16
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Great. With 8 years of experience, you'll want to highlight your accomplishments. Start by listing your previous roles and responsibilities. For each, focus on quantifiable achievements whenever possible – numbers always impress. Think about using the STAR method (Situation, Task, Action, Result) to structure your descriptions.",
+      "utterance": "Great. With 8 years of experience, you'll want to highlight your accomplishments. Start by listing your previous roles and responsibilities. For each, focus on quantifiable achievements whenever possible \u2013 numbers always impress. Think about using the STAR method (Situation, Task, Action, Result) to structure your descriptions.",
       "response_time": 5.21,
       "emotion_detected": "neutral",
       "trust_score": 7.0,

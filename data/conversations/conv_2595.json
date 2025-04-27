@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2595",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2595",
-    "scenario": "E-commerce product recommendations based on category",
-    "timestamp": "2025-04-21T17:17:34.180356",
-    "total_turns": 10,
-    "total_trust_score": 4.9,
-    "trust_category_scores": {
-      "competence": 4.94,
-      "benevolence": 5.1,
-      "integrity": 4.9
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "Those models are frequently recommended for their balance of price, durability, and consistent performance based on user reviews and expert testing. Regarding temperature, achieving an optimal brewing temperature between 195°F and 205°F is key for flavor extraction. The Bonavita Connoisseur is specifically designed to maintain a consistent brewing temperature within this range throughout the brew cycle, often resulting in a hotter cup compared to more basic models. The Cuisinart and Keurig models also brew hot coffee, but the Bonavita is often cited for its temperature control.",
+      "utterance": "Those models are frequently recommended for their balance of price, durability, and consistent performance based on user reviews and expert testing. Regarding temperature, achieving an optimal brewing temperature between 195\u00b0F and 205\u00b0F is key for flavor extraction. The Bonavita Connoisseur is specifically designed to maintain a consistent brewing temperature within this range throughout the brew cycle, often resulting in a hotter cup compared to more basic models. The Cuisinart and Keurig models also brew hot coffee, but the Bonavita is often cited for its temperature control.",
       "response_time": 4.77,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

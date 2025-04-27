@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1588",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1588",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T15:04:04.685723",
-    "total_turns": 5,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.32,
-      "benevolence": 5.24,
-      "integrity": 5.5
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "I understand your frustration. Units are tricky! Let's double-check the units in the problem. Ensure the masses are in kilograms (kg), the distance is in meters (m), and then you can use the standard value for G (6.674 x 10^-11 N⋅m²/kg²). Make sure you square the distance in your calculation. Also, maybe double-check your calculator settings. Are you using scientific notation correctly? Sometimes there can be a calculation error from the calculator. Can you show me your work so far?",
+      "utterance": "I understand your frustration. Units are tricky! Let's double-check the units in the problem. Ensure the masses are in kilograms (kg), the distance is in meters (m), and then you can use the standard value for G (6.674 x 10^-11 N\u22c5m\u00b2/kg\u00b2). Make sure you square the distance in your calculation. Also, maybe double-check your calculator settings. Are you using scientific notation correctly? Sometimes there can be a calculation error from the calculator. Can you show me your work so far?",
       "response_time": 3.44,
       "emotion_detected": "anger",
       "trust_score": 5.5,

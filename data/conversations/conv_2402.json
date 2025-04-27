@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2402",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2402",
-    "scenario": "Interview preparation assistance",
-    "timestamp": "2025-04-21T16:40:24.493388",
-    "total_turns": 4,
-    "total_trust_score": 6.25,
-    "trust_category_scores": {
-      "competence": 6.37,
-      "benevolence": 6.37,
-      "integrity": 6.29
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Understood. For algorithms and data structures, we can review common problems like sorting and searching, and practice those. I can provide example code in various languages. Regarding the behavioral question, the STAR method (Situation, Task, Action, Result) is a great framework. Let's brainstorm some failure scenarios – can you provide a specific instance where you may have failed, so that we may formulate a reply?",
+      "utterance": "Understood. For algorithms and data structures, we can review common problems like sorting and searching, and practice those. I can provide example code in various languages. Regarding the behavioral question, the STAR method (Situation, Task, Action, Result) is a great framework. Let's brainstorm some failure scenarios \u2013 can you provide a specific instance where you may have failed, so that we may formulate a reply?",
       "response_time": 5.81,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

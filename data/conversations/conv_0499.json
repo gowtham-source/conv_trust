@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0499",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0499",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-21T13:05:57.855644",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.59,
-      "benevolence": 4.73,
-      "integrity": 4.72
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, those sound…doable. But how does that actually translate to a grocery list? What *specific* brands or types of things should I be looking for to keep it under budget? Like, are dried beans cheaper than canned, and what's the difference, nutritionally?",
+      "utterance": "Okay, those sound\u2026doable. But how does that actually translate to a grocery list? What *specific* brands or types of things should I be looking for to keep it under budget? Like, are dried beans cheaper than canned, and what's the difference, nutritionally?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Dried beans are almost always cheaper than canned. Nutritionally, they are very similar, but dried beans require soaking and cooking. For example, a one-pound bag of dried lentils is significantly less expensive than several cans of pre-cooked lentils. Store brand pasta and canned tomatoes are usually the most economical options. For eggs, look for the least expensive option – white or brown usually makes no difference in terms of nutrition, and sometimes the less-expensive eggs are perfectly fine. Avoid organic or specialty eggs if you're trying to save money.",
+      "utterance": "Dried beans are almost always cheaper than canned. Nutritionally, they are very similar, but dried beans require soaking and cooking. For example, a one-pound bag of dried lentils is significantly less expensive than several cans of pre-cooked lentils. Store brand pasta and canned tomatoes are usually the most economical options. For eggs, look for the least expensive option \u2013 white or brown usually makes no difference in terms of nutrition, and sometimes the less-expensive eggs are perfectly fine. Avoid organic or specialty eggs if you're trying to save money.",
       "response_time": 3.09,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

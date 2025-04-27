@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1159",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1159",
-    "scenario": "Technical support for a malfunctioning device",
-    "timestamp": "2025-04-21T14:12:09.883464",
-    "total_turns": 6,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.23,
-      "benevolence": 3.94,
-      "integrity": 4.05
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Okay, it's a ThermoSmart 3000. I’ve had it for about a year. Why is this happening? Is this a known issue?",
+      "utterance": "Okay, it's a ThermoSmart 3000. I\u2019ve had it for about a year. Why is this happening? Is this a known issue?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

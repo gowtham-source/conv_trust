@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0588",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0588",
-    "scenario": "Book recommendations based on genre",
-    "timestamp": "2025-04-21T13:14:49.627364",
-    "total_turns": 5,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.92,
-      "benevolence": 3.62,
-      "integrity": 4.12
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Hmm, I've read both of those. Anything a little more… recent? I'm also interested in hard science fiction - stuff that really dives into the science aspect. Getting a bit frustrated, I feel like I've read everything good!",
+      "utterance": "Hmm, I've read both of those. Anything a little more\u2026 recent? I'm also interested in hard science fiction - stuff that really dives into the science aspect. Getting a bit frustrated, I feel like I've read everything good!",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

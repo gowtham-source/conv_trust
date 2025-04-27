@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2266",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2266",
-    "scenario": "Job application assistance",
-    "timestamp": "2025-04-21T16:25:53.264471",
-    "total_turns": 6,
-    "total_trust_score": 6.0,
-    "trust_category_scores": {
-      "competence": 6.05,
-      "benevolence": 5.7,
-      "integrity": 6.25
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "That's helpful, but I'm still confused. How can I make the opening more engaging without sounding cliché? The job description is pretty standard, how can I tailor it without repeating what's already written? And is there a secret to getting noticed in the closing?",
+      "utterance": "That's helpful, but I'm still confused. How can I make the opening more engaging without sounding clich\u00e9? The job description is pretty standard, how can I tailor it without repeating what's already written? And is there a secret to getting noticed in the closing?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2294",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2294",
-    "scenario": "Game recommendations based on genre",
-    "timestamp": "2025-04-21T16:29:14.406154",
-    "total_turns": 5,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 5.08,
-      "benevolence": 4.92,
-      "integrity": 4.96
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, considering your love for RPGs, experience with popular strategy games, and your desire for something 'actually good' – I would recommend looking into the following:\n\n*   **Divinity: Original Sin 2:** A highly-rated RPG with turn-based combat. \n*   **XCOM 2:** Turn-based strategy with a sci-fi theme.\n\nSince you have played The Witcher 3: Wild Hunt and Mass Effect series, I will assume you have a higher preference for role-playing games. Let me know if you would like further recommendations!",
+      "utterance": "Okay, considering your love for RPGs, experience with popular strategy games, and your desire for something 'actually good' \u2013 I would recommend looking into the following:\n\n*   **Divinity: Original Sin 2:** A highly-rated RPG with turn-based combat. \n*   **XCOM 2:** Turn-based strategy with a sci-fi theme.\n\nSince you have played The Witcher 3: Wild Hunt and Mass Effect series, I will assume you have a higher preference for role-playing games. Let me know if you would like further recommendations!",
       "response_time": 4.03,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

@@ -1,23 +1,9 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1050",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1050",
-    "scenario": "flight booking assistance",
-    "timestamp": "2025-04-21T14:01:03.057235",
-    "total_turns": 8,
-    "total_trust_score": 3.62,
-    "trust_category_scores": {
-      "competence": 3.69,
-      "benevolence": 3.59,
-      "integrity": 3.76
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
       "speaker": "user",
-      "utterance": "Okay, I need to book a flight from New York (JFK) to Los Angeles (LAX) sometime in mid-October. I'm flexible, but ideally between October 15th and 20th. And please, nothing too early in the morning – I hate those red-eye flights!",
+      "utterance": "Okay, I need to book a flight from New York (JFK) to Los Angeles (LAX) sometime in mid-October. I'm flexible, but ideally between October 15th and 20th. And please, nothing too early in the morning \u2013 I hate those red-eye flights!",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

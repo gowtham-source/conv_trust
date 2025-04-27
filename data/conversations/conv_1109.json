@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1109",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1109",
-    "scenario": "Health advice consultation",
-    "timestamp": "2025-04-21T14:07:19.326291",
-    "total_turns": 8,
-    "total_trust_score": 3.62,
-    "trust_category_scores": {
-      "competence": 3.75,
-      "benevolence": 3.71,
-      "integrity": 3.53
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "No fever or chest pain. I don't smoke, but I do have seasonal allergies – they've been acting up lately, actually. Maybe it's just that? It's just frustrating because I can't sleep well.",
+      "utterance": "No fever or chest pain. I don't smoke, but I do have seasonal allergies \u2013 they've been acting up lately, actually. Maybe it's just that? It's just frustrating because I can't sleep well.",
       "response_time": null,
       "emotion_detected": "sadness",
       "trust_score": null,

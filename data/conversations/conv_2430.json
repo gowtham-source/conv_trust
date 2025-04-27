@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2430",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2430",
-    "scenario": "Book recommendations based on genre",
-    "timestamp": "2025-04-21T16:43:15.666478",
-    "total_turns": 7,
-    "total_trust_score": 6.0,
-    "trust_category_scores": {
-      "competence": 6.07,
-      "benevolence": 6.15,
-      "integrity": 5.97
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a fascinating, albeit challenging, combination! Psychological thrillers with magical realism elements are quite niche. While I can't pinpoint a book that perfectly blends those three specific components – tense psychological suspense, a dash of magical realism, and pure dread – I can suggest titles that touch on similar themes. Perhaps 'Mexican Gothic' by Silvia Moreno-Garcia? It has gothic suspense and uncanny elements.",
+      "utterance": "That's a fascinating, albeit challenging, combination! Psychological thrillers with magical realism elements are quite niche. While I can't pinpoint a book that perfectly blends those three specific components \u2013 tense psychological suspense, a dash of magical realism, and pure dread \u2013 I can suggest titles that touch on similar themes. Perhaps 'Mexican Gothic' by Silvia Moreno-Garcia? It has gothic suspense and uncanny elements.",
       "response_time": 5.37,
       "emotion_detected": "fear",
       "trust_score": 5.5,

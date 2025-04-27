@@ -1,23 +1,9 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1239",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1239",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T14:20:03.807390",
-    "total_turns": 6,
-    "total_trust_score": 5.0,
-    "trust_category_scores": {
-      "competence": 4.9,
-      "benevolence": 4.76,
-      "integrity": 5.14
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
       "speaker": "user",
-      "utterance": "Hey, I need some fashion advice! I'm going to a work conference next month and have absolutely no idea what to wear. Plus, I'm on a tight budget – let's say $300 total for a whole outfit.",
+      "utterance": "Hey, I need some fashion advice! I'm going to a work conference next month and have absolutely no idea what to wear. Plus, I'm on a tight budget \u2013 let's say $300 total for a whole outfit.",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

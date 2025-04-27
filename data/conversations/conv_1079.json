@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1079",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1079",
-    "scenario": "Job application assistance",
-    "timestamp": "2025-04-21T14:04:19.893198",
-    "total_turns": 9,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 5.16,
-      "benevolence": 5.1,
-      "integrity": 5.29
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Ugh, quantifying achievements is the worst! I just…did the work. How do I even begin to put numbers on 'increased brand awareness'?",
+      "utterance": "Ugh, quantifying achievements is the worst! I just\u2026did the work. How do I even begin to put numbers on 'increased brand awareness'?",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,
@@ -105,7 +91,7 @@
     {
       "turn_id": 9,
       "speaker": "user",
-      "utterance": "No, I don't. Honestly, I always struggle with cover letters. What if I just…don't send one? Do you think that's a terrible idea, given that the job posting doesn't explicitly say one is required?",
+      "utterance": "No, I don't. Honestly, I always struggle with cover letters. What if I just\u2026don't send one? Do you think that's a terrible idea, given that the job posting doesn't explicitly say one is required?",
       "response_time": null,
       "emotion_detected": "fear",
       "trust_score": null,

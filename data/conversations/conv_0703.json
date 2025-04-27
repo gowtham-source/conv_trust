@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0703",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0703",
-    "scenario": "hotel booking assistance",
-    "timestamp": "2025-04-21T13:25:57.247909",
-    "total_turns": 10,
-    "total_trust_score": 4.3,
-    "trust_category_scores": {
-      "competence": 4.49,
-      "benevolence": 4.51,
-      "integrity": 4.17
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Hmm, I've stayed at the Hard Rock before. Maybe something a little less…loud? And ideally with a pool. Ugh, this is harder than I thought.",
+      "utterance": "Hmm, I've stayed at the Hard Rock before. Maybe something a little less\u2026loud? And ideally with a pool. Ugh, this is harder than I thought.",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2902",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2902",
-    "scenario": "Financial planning guidance",
-    "timestamp": "2025-04-22T09:12:56.000310",
-    "total_turns": 4,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.41,
-      "benevolence": 5.73,
-      "integrity": 5.54
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "That's a very common challenge – balancing multiple financial goals simultaneously. While tracking expenses might seem tedious, it provides the crucial data needed to make informed decisions. Once you have a clear picture of your cash flow, you can start prioritizing. Generally, a foundational step is building a small emergency fund, addressing high-interest debt (like credit cards), and then strategically allocating funds towards your long-term goals (like a house down payment or retirement). The optimal balance depends on your individual circumstances, risk tolerance, and timelines. Would you like some general frameworks for prioritizing debt repayment versus saving/investing?",
+      "utterance": "That's a very common challenge \u2013 balancing multiple financial goals simultaneously. While tracking expenses might seem tedious, it provides the crucial data needed to make informed decisions. Once you have a clear picture of your cash flow, you can start prioritizing. Generally, a foundational step is building a small emergency fund, addressing high-interest debt (like credit cards), and then strategically allocating funds towards your long-term goals (like a house down payment or retirement). The optimal balance depends on your individual circumstances, risk tolerance, and timelines. Would you like some general frameworks for prioritizing debt repayment versus saving/investing?",
       "response_time": 3.65,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

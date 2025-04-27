@@ -1,23 +1,9 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0092",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0092",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-21T12:27:19.684304",
-    "total_turns": 4,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.79,
-      "benevolence": 3.74,
-      "integrity": 3.91
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
       "speaker": "user",
-      "utterance": "Okay, I need to go grocery shopping, but I'm trying to stick to a really tight budget this week – like, $50 max. Can you give me some meal ideas and a potential shopping list? I'm so tired of eating ramen!",
+      "utterance": "Okay, I need to go grocery shopping, but I'm trying to stick to a really tight budget this week \u2013 like, $50 max. Can you give me some meal ideas and a potential shopping list? I'm so tired of eating ramen!",
       "response_time": null,
       "emotion_detected": "sadness",
       "trust_score": null,

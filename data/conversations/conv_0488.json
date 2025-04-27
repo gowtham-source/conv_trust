@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0488",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0488",
-    "scenario": "Career counseling",
-    "timestamp": "2025-04-21T13:04:46.838602",
-    "total_turns": 9,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 5.08,
-      "benevolence": 4.64,
-      "integrity": 4.59
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Content writing sounds…okay, I guess? But everyone says the market is oversaturated. Is it even worth trying to get into that? I don’t want to waste my time.",
+      "utterance": "Content writing sounds\u2026okay, I guess? But everyone says the market is oversaturated. Is it even worth trying to get into that? I don\u2019t want to waste my time.",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,

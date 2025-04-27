@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1341",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1341",
-    "scenario": "Home improvement guidance",
-    "timestamp": "2025-04-21T14:31:18.016165",
-    "total_turns": 7,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.34,
-      "benevolence": 5.42,
-      "integrity": 5.37
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "No worries, it happens! Let's start with the basics. Can you describe your current faucet setup? How many handles does it have? Do you have a sprayer? Take a photo if that helps. Also, check under your sink for the water shut-off valves – are there two, one for hot and one for cold?",
+      "utterance": "No worries, it happens! Let's start with the basics. Can you describe your current faucet setup? How many handles does it have? Do you have a sprayer? Take a photo if that helps. Also, check under your sink for the water shut-off valves \u2013 are there two, one for hot and one for cold?",
       "response_time": 5.03,
       "emotion_detected": "neutral",
       "trust_score": 7.0,

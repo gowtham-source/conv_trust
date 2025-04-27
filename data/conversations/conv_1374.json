@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1374",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1374",
-    "scenario": "Health advice consultation",
-    "timestamp": "2025-04-21T14:40:29.036928",
-    "total_turns": 5,
-    "total_trust_score": 3.25,
-    "trust_category_scores": {
-      "competence": 3.32,
-      "benevolence": 3.17,
-      "integrity": 3.32
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Ugh, I get about 6 hours of sleep on most nights, and my diet is… well, it's not great. Lots of fast food. I also have a slight headache most afternoons. Does this give you any clues?",
+      "utterance": "Ugh, I get about 6 hours of sleep on most nights, and my diet is\u2026 well, it's not great. Lots of fast food. I also have a slight headache most afternoons. Does this give you any clues?",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,

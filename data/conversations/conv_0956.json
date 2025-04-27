@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0956",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0956",
-    "scenario": "Financial planning guidance",
-    "timestamp": "2025-04-21T13:51:09.786531",
-    "total_turns": 10,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 5.08,
-      "benevolence": 5.17,
-      "integrity": 5.01
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Ugh, listing all that out is going to be painful. Okay, income is around $75,000 a year. Expenses are probably… too high. Mortgage, car payment, utilities, groceries…the usual. Credit card debt is sitting around $5,000. I have about $10,000 in a savings account. Is that good enough to start?",
+      "utterance": "Ugh, listing all that out is going to be painful. Okay, income is around $75,000 a year. Expenses are probably\u2026 too high. Mortgage, car payment, utilities, groceries\u2026the usual. Credit card debt is sitting around $5,000. I have about $10,000 in a savings account. Is that good enough to start?",
       "response_time": null,
       "emotion_detected": "sadness",
       "trust_score": null,

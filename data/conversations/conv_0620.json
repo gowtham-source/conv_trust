@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0620",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0620",
-    "scenario": "Interview preparation assistance",
-    "timestamp": "2025-04-21T13:18:03.017175",
-    "total_turns": 5,
-    "total_trust_score": 6.25,
-    "trust_category_scores": {
-      "competence": 5.86,
-      "benevolence": 6.0,
-      "integrity": 6.28
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Okay, that's helpful. But what if they ask me something completely out of left field, like designing a system for… I don't know… self-folding laundry? I mean, how can you prepare for something *that* random? I get so flustered when I don't know where to start, and I think that's what kills me in interviews.",
+      "utterance": "Okay, that's helpful. But what if they ask me something completely out of left field, like designing a system for\u2026 I don't know\u2026 self-folding laundry? I mean, how can you prepare for something *that* random? I get so flustered when I don't know where to start, and I think that's what kills me in interviews.",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

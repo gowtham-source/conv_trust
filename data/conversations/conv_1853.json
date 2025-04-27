@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1853",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1853",
-    "scenario": "Book recommendations based on genre",
-    "timestamp": "2025-04-21T15:34:50.193228",
-    "total_turns": 6,
-    "total_trust_score": 5.0,
-    "trust_category_scores": {
-      "competence": 4.86,
-      "benevolence": 5.21,
-      "integrity": 4.77
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "I understand your concern. *The Priory of the Orange Tree* does have extensive world-building, but unlike some dense fantasy novels, the plot maintains a solid pace. The world-building is revealed gradually through the characters' interactions and the unfolding story, making it more accessible. It’s a complex world, but the story is the focus, making it a good choice for you. I think you'll enjoy it.",
+      "utterance": "I understand your concern. *The Priory of the Orange Tree* does have extensive world-building, but unlike some dense fantasy novels, the plot maintains a solid pace. The world-building is revealed gradually through the characters' interactions and the unfolding story, making it more accessible. It\u2019s a complex world, but the story is the focus, making it a good choice for you. I think you'll enjoy it.",
       "response_time": 3.39,
       "emotion_detected": "joy",
       "trust_score": 5.5,

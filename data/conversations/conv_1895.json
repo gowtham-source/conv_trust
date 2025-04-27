@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1895",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1895",
-    "scenario": "Health advice consultation",
-    "timestamp": "2025-04-21T15:40:56.491273",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.6,
-      "benevolence": 4.58,
-      "integrity": 4.24
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Ugh, okay. Well, my diet isn't great. I mostly eat fast food during the week because I'm always busy. I try to go to the gym a couple of times a week, but sometimes I'm just too tired. Sleep is the worst – I'm lucky to get six hours a night. I'm starting to get really frustrated with how I feel.",
+      "utterance": "Ugh, okay. Well, my diet isn't great. I mostly eat fast food during the week because I'm always busy. I try to go to the gym a couple of times a week, but sometimes I'm just too tired. Sleep is the worst \u2013 I'm lucky to get six hours a night. I'm starting to get really frustrated with how I feel.",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

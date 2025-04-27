@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2158",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2158",
-    "scenario": "flight booking assistance",
-    "timestamp": "2025-04-21T16:13:43.561457",
-    "total_turns": 5,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.42,
-      "benevolence": 4.62,
-      "integrity": 4.92
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Well, I'd prefer a direct flight if possible, and ideally in the morning. My budget is flexible, but I'd like to keep it under £800, if that's possible. I'm not too fussy about the airline.",
+      "utterance": "Well, I'd prefer a direct flight if possible, and ideally in the morning. My budget is flexible, but I'd like to keep it under \u00a3800, if that's possible. I'm not too fussy about the airline.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay. Finding direct flights from London to New York on November 15th, leaving in the morning and under £800... Hmm, that's proving a little tricky. Most direct flights are significantly over that budget for that date. I can see one flight with British Airways that departs at 9:30 AM for £850. Would you be interested in that, or would you like me to explore some options with layovers, maybe with a slightly lower price?",
+      "utterance": "Okay. Finding direct flights from London to New York on November 15th, leaving in the morning and under \u00a3800... Hmm, that's proving a little tricky. Most direct flights are significantly over that budget for that date. I can see one flight with British Airways that departs at 9:30 AM for \u00a3850. Would you be interested in that, or would you like me to explore some options with layovers, maybe with a slightly lower price?",
       "response_time": 4.05,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Ugh, £850 is more than I'd like. Let's see those layover options. I'd prefer something with a reasonable connection time... not too long, I don't want to be stuck in an airport all day. Can you show me the total travel time, including layovers, for each of those?",
+      "utterance": "Ugh, \u00a3850 is more than I'd like. Let's see those layover options. I'd prefer something with a reasonable connection time... not too long, I don't want to be stuck in an airport all day. Can you show me the total travel time, including layovers, for each of those?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

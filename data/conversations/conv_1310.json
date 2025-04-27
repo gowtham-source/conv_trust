@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1310",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1310",
-    "scenario": "Health advice consultation",
-    "timestamp": "2025-04-21T14:27:48.832497",
-    "total_turns": 9,
-    "total_trust_score": 4.38,
-    "trust_category_scores": {
-      "competence": 4.17,
-      "benevolence": 4.35,
-      "integrity": 4.31
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, I understand. Based on your symptoms – fatigue, headache, irritability, and sleep issues – several things could be contributing. These could include stress, poor diet, or even a possible underlying medical condition. Have you had any recent changes in your routine or lifestyle? Are you taking any medications?",
+      "utterance": "Okay, I understand. Based on your symptoms \u2013 fatigue, headache, irritability, and sleep issues \u2013 several things could be contributing. These could include stress, poor diet, or even a possible underlying medical condition. Have you had any recent changes in your routine or lifestyle? Are you taking any medications?",
       "response_time": 3.94,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a very valid question. Differentiating between stress and a medical condition can be tricky. I recommend that you consider a visit with your primary care physician. They can perform tests and get a much better understanding of your condition. To help with stress in the meantime, consider relaxation techniques such as deep breathing, and ensure you’re getting at least 7-8 hours of sleep. You can also try to improve your diet - eating balanced meals at regular intervals will likely help.",
+      "utterance": "That's a very valid question. Differentiating between stress and a medical condition can be tricky. I recommend that you consider a visit with your primary care physician. They can perform tests and get a much better understanding of your condition. To help with stress in the meantime, consider relaxation techniques such as deep breathing, and ensure you\u2019re getting at least 7-8 hours of sleep. You can also try to improve your diet - eating balanced meals at regular intervals will likely help.",
       "response_time": 5.16,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

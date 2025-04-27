@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1605",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1605",
-    "scenario": "Job application assistance",
-    "timestamp": "2025-04-21T15:06:07.709800",
-    "total_turns": 8,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.87,
-      "benevolence": 4.2,
-      "integrity": 3.92
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "That's a challenging situation. First, don't automatically rule yourself out. Many companies have 'wish lists' in job descriptions. Focus on demonstrating equivalent skills or relevant experiences. You can also address the discrepancy in your cover letter, emphasizing your eagerness to learn and how your existing skills make you a good fit. It’s ultimately up to you, but it's often worth applying if you meet a significant portion of the requirements and believe you'd be a good fit.",
+      "utterance": "That's a challenging situation. First, don't automatically rule yourself out. Many companies have 'wish lists' in job descriptions. Focus on demonstrating equivalent skills or relevant experiences. You can also address the discrepancy in your cover letter, emphasizing your eagerness to learn and how your existing skills make you a good fit. It\u2019s ultimately up to you, but it's often worth applying if you meet a significant portion of the requirements and believe you'd be a good fit.",
       "response_time": 3.21,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

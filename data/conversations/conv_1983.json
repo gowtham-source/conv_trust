@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1983",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1983",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T15:52:19.343618",
-    "total_turns": 6,
-    "total_trust_score": 6.0,
-    "trust_category_scores": {
-      "competence": 5.89,
-      "benevolence": 5.96,
-      "integrity": 6.16
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "You're right, quality is important! For jeans, I'd suggest looking at styles from the brand 'Old Navy' – their 'High-Waisted Wow' or 'Power Slim' jeans often get good reviews and are frequently on sale for under $60. 'Levi's' has some basic jeans in the $70-80 range which can also be worth the investment, especially if you find a good fit. Check online stores like ASOS and Boohoo too; they often have sales. For t-shirts, I'd say Uniqlo is your best bet for basic, affordable, and durable choices. Good luck!",
+      "utterance": "You're right, quality is important! For jeans, I'd suggest looking at styles from the brand 'Old Navy' \u2013 their 'High-Waisted Wow' or 'Power Slim' jeans often get good reviews and are frequently on sale for under $60. 'Levi's' has some basic jeans in the $70-80 range which can also be worth the investment, especially if you find a good fit. Check online stores like ASOS and Boohoo too; they often have sales. For t-shirts, I'd say Uniqlo is your best bet for basic, affordable, and durable choices. Good luck!",
       "response_time": 5.65,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2687",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2687",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T22:12:17.485343",
-    "total_turns": 4,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.21,
-      "benevolence": 5.63,
-      "integrity": 5.62
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Okay, it's going to be somewhere warm, like 70-80 degrees Fahrenheit. I'm feeling a bit frustrated because it seems like everything decent costs a fortune these days. How am I supposed to get a whole outfit – like, pants, a top, maybe even a light jacket – for $150 without it looking cheap or falling apart? What are the actual secret stores people use for this?!",
+      "utterance": "Okay, it's going to be somewhere warm, like 70-80 degrees Fahrenheit. I'm feeling a bit frustrated because it seems like everything decent costs a fortune these days. How am I supposed to get a whole outfit \u2013 like, pants, a top, maybe even a light jacket \u2013 for $150 without it looking cheap or falling apart? What are the actual secret stores people use for this?!",
       "response_time": null,
       "emotion_detected": "anger",
       "trust_score": null,

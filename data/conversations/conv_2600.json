@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2600",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2600",
-    "scenario": "Travel booking assistance",
-    "timestamp": "2025-04-21T17:18:24.914116",
-    "total_turns": 8,
-    "total_trust_score": 3.62,
-    "trust_category_scores": {
-      "competence": 3.93,
-      "benevolence": 3.43,
-      "integrity": 4.03
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Ugh, that's more than I wanted to pay. Okay, so much for direct. What if I was willing to have a stopover? I was reading about potentially adding a stopover in Iceland for a day or two on the way there or back – would that even be possible without massively increasing the cost, and how does adding a stopover like that typically affect the included checked baggage allowance compared to a simple connection?",
+      "utterance": "Ugh, that's more than I wanted to pay. Okay, so much for direct. What if I was willing to have a stopover? I was reading about potentially adding a stopover in Iceland for a day or two on the way there or back \u2013 would that even be possible without massively increasing the cost, and how does adding a stopover like that typically affect the included checked baggage allowance compared to a simple connection?",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,

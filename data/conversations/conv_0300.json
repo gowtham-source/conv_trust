@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0300",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0300",
-    "scenario": "Movie recommendations based on genre",
-    "timestamp": "2025-04-21T12:46:20.940669",
-    "total_turns": 5,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.04,
-      "benevolence": 3.84,
-      "integrity": 4.04
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Yeah, I've seen The Dark Knight. Great movie! Prisoners was good too, but a bit too heavy. Anything similar to 'The Dark Knight' but maybe less…comic book-y? You know what I mean?",
+      "utterance": "Yeah, I've seen The Dark Knight. Great movie! Prisoners was good too, but a bit too heavy. Anything similar to 'The Dark Knight' but maybe less\u2026comic book-y? You know what I mean?",
       "response_time": null,
       "emotion_detected": "joy",
       "trust_score": null,

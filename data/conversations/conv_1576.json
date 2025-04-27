@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1576",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1576",
-    "scenario": "E-commerce product recommendations",
-    "timestamp": "2025-04-21T15:02:42.430451",
-    "total_turns": 8,
-    "total_trust_score": 5.88,
-    "trust_category_scores": {
-      "competence": 5.54,
-      "benevolence": 5.99,
-      "integrity": 5.71
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "Let me try to help with that. ND filters reduce the amount of light entering the camera, enabling longer exposures in bright conditions – great for blurring water or motion. Polarizing filters reduce glare and reflections, and also deepen the color of the sky, and are therefore especially useful for landscapes. For your photography, I'd suggest a set of high-quality ND filters (various strengths, like a 3-stop and a 10-stop) and a circular polarizer. Popular brands include Hoya, B+W, and Lee Filters. I can link you to some recommended options. Does that explanation help to clear up the confusion?",
+      "utterance": "Let me try to help with that. ND filters reduce the amount of light entering the camera, enabling longer exposures in bright conditions \u2013 great for blurring water or motion. Polarizing filters reduce glare and reflections, and also deepen the color of the sky, and are therefore especially useful for landscapes. For your photography, I'd suggest a set of high-quality ND filters (various strengths, like a 3-stop and a 10-stop) and a circular polarizer. Popular brands include Hoya, B+W, and Lee Filters. I can link you to some recommended options. Does that explanation help to clear up the confusion?",
       "response_time": 5.23,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

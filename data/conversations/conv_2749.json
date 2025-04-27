@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2749",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2749",
-    "scenario": "Music recommendations based on genre",
-    "timestamp": "2025-04-22T08:42:09.119952",
-    "total_turns": 8,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 5.27,
-      "benevolence": 4.94,
-      "integrity": 5.33
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "Certainly! On Anjunadeep, I'd recommend exploring artists like Lane 8, Yotto, or Ben Böhmer. They consistently deliver tracks that blend atmospheric elements with solid beats perfect for chilling or moving. Let me know what you think after giving them a listen!",
+      "utterance": "Certainly! On Anjunadeep, I'd recommend exploring artists like Lane 8, Yotto, or Ben B\u00f6hmer. They consistently deliver tracks that blend atmospheric elements with solid beats perfect for chilling or moving. Let me know what you think after giving them a listen!",
       "response_time": 4.97,
       "emotion_detected": "neutral",
       "trust_score": 7.0,

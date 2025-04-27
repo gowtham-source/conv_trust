@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1107",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1107",
-    "scenario": "Career counseling",
-    "timestamp": "2025-04-21T14:07:06.245795",
-    "total_turns": 5,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.46,
-      "benevolence": 4.66,
-      "integrity": 4.41
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a very insightful and valid concern. While AI is rapidly advancing in writing and content generation, it currently excels primarily at formulaic or data-driven content. Areas that require creativity, nuanced understanding, original thought, and emotional intelligence – things like persuasive writing, storytelling, complex analysis, and strategic communication – still heavily rely on human expertise. In fact, the need for writers who can effectively *use* and *critique* AI-generated content is likely to increase. We can explore how to develop skills that complement AI, making you a more competitive candidate in the future. Would you like to explore that?",
+      "utterance": "That's a very insightful and valid concern. While AI is rapidly advancing in writing and content generation, it currently excels primarily at formulaic or data-driven content. Areas that require creativity, nuanced understanding, original thought, and emotional intelligence \u2013 things like persuasive writing, storytelling, complex analysis, and strategic communication \u2013 still heavily rely on human expertise. In fact, the need for writers who can effectively *use* and *critique* AI-generated content is likely to increase. We can explore how to develop skills that complement AI, making you a more competitive candidate in the future. Would you like to explore that?",
       "response_time": 3.76,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1412",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1412",
-    "scenario": "Insurance claim processing",
-    "timestamp": "2025-04-21T14:44:25.049612",
-    "total_turns": 8,
-    "total_trust_score": 2.5,
-    "trust_category_scores": {
-      "competence": 2.53,
-      "benevolence": 2.42,
-      "integrity": 2.58
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, it's working now. My car is a 2018 Honda Civic. But here's a tricky question: The other driver’s insurance company is dragging their feet. How does that affect my claim process?",
+      "utterance": "Okay, it's working now. My car is a 2018 Honda Civic. But here's a tricky question: The other driver\u2019s insurance company is dragging their feet. How does that affect my claim process?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

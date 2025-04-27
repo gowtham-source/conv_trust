@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0396",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0396",
-    "scenario": "Home improvement guidance",
-    "timestamp": "2025-04-21T12:55:42.662415",
-    "total_turns": 8,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.94,
-      "benevolence": 4.74,
-      "integrity": 4.78
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -26,7 +12,7 @@
     {
       "turn_id": 2,
       "speaker": "agent",
-      "utterance": "Okay, tiling the shower with subway tile is a popular choice! For subway tile in a shower, you'll generally want to use a modified thin-set mortar. This provides better adhesion and water resistance than unmodified thin-set. Look for a mortar specifically designed for tile sizes similar to subway tile (typically 3x6 inches). Check the tile manufacturer's recommendations as well – they often specify the best mortar for their product. Brands like Custom Building Products and Mapei are generally reliable.",
+      "utterance": "Okay, tiling the shower with subway tile is a popular choice! For subway tile in a shower, you'll generally want to use a modified thin-set mortar. This provides better adhesion and water resistance than unmodified thin-set. Look for a mortar specifically designed for tile sizes similar to subway tile (typically 3x6 inches). Check the tile manufacturer's recommendations as well \u2013 they often specify the best mortar for their product. Brands like Custom Building Products and Mapei are generally reliable.",
       "response_time": 3.0,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "You're welcome! Don't get discouraged; these types of challenges are common in renovations. For an acrylic shower pan, you'll need a self-leveling compound specifically designed for use with plastics or flexible surfaces. Read the product label carefully. Ensure the compound is compatible with acrylic and waterproof. Also, proper surface preparation is crucial – clean and prime the shower pan according to the compound's instructions. Taking these extra steps will ensure a long-lasting and watertight shower installation. Let me know if you have any further questions.",
+      "utterance": "You're welcome! Don't get discouraged; these types of challenges are common in renovations. For an acrylic shower pan, you'll need a self-leveling compound specifically designed for use with plastics or flexible surfaces. Read the product label carefully. Ensure the compound is compatible with acrylic and waterproof. Also, proper surface preparation is crucial \u2013 clean and prime the shower pan according to the compound's instructions. Taking these extra steps will ensure a long-lasting and watertight shower installation. Let me know if you have any further questions.",
       "response_time": 4.81,
       "emotion_detected": "neutral",
       "trust_score": 7.0,

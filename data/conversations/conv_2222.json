@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2222",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2222",
-    "scenario": "Hackathon participation",
-    "timestamp": "2025-04-21T16:21:12.635494",
-    "total_turns": 5,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.52,
-      "benevolence": 4.9,
-      "integrity": 4.81
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, for React and Node.js projects, I recommend looking into libraries like Axios (for making HTTP requests), Redux or Zustand (for state management – though Context API can work too!), and of course, a UI component library like Material UI or Ant Design. For backend, consider using Express.js as your framework. However, picking one is tricky because it depends a lot on your project. What problems is it supposed to solve? Also, how complex will your project be?",
+      "utterance": "Okay, for React and Node.js projects, I recommend looking into libraries like Axios (for making HTTP requests), Redux or Zustand (for state management \u2013 though Context API can work too!), and of course, a UI component library like Material UI or Ant Design. For backend, consider using Express.js as your framework. However, picking one is tricky because it depends a lot on your project. What problems is it supposed to solve? Also, how complex will your project be?",
       "response_time": 4.03,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

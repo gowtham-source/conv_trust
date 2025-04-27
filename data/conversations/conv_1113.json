@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1113",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1113",
-    "scenario": "Career counseling",
-    "timestamp": "2025-04-21T14:07:40.759102",
-    "total_turns": 8,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 5.06,
-      "benevolence": 5.2,
-      "integrity": 5.0
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -26,7 +12,7 @@
     {
       "turn_id": 2,
       "speaker": "agent",
-      "utterance": "I understand. It's common to feel that way after graduation. A psychology degree provides a strong foundation in critical thinking, research, and communication – all valuable skills. Let's explore some alternative career paths. Have you considered roles in human resources, market research, or even user experience research?",
+      "utterance": "I understand. It's common to feel that way after graduation. A psychology degree provides a strong foundation in critical thinking, research, and communication \u2013 all valuable skills. Let's explore some alternative career paths. Have you considered roles in human resources, market research, or even user experience research?",
       "response_time": 4.86,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2924",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2924",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-22T09:16:55.221185",
-    "total_turns": 7,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.63,
-      "benevolence": 4.51,
-      "integrity": 4.38
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "I completely understand your frustration; rising food costs are a real challenge. To make the list stretch and add variety, focus on bulk items like rice, pasta, and dried beans – they offer many servings for a low cost. You can create different meals by varying spices and preparations. For example, dried beans can become chili, soup, or bean burgers. Rice can be a base for stir-fries (with frozen veggies and a small amount of meat/beans) or rice and beans. Eggs are versatile for breakfast or dinner. Consider making larger batches of staple meals like lentil soup or bean stew that can be eaten over a couple of days. Buying generic brands often saves money too. Would you like me to give you an example meal plan using these items?",
+      "utterance": "I completely understand your frustration; rising food costs are a real challenge. To make the list stretch and add variety, focus on bulk items like rice, pasta, and dried beans \u2013 they offer many servings for a low cost. You can create different meals by varying spices and preparations. For example, dried beans can become chili, soup, or bean burgers. Rice can be a base for stir-fries (with frozen veggies and a small amount of meat/beans) or rice and beans. Eggs are versatile for breakfast or dinner. Consider making larger batches of staple meals like lentil soup or bean stew that can be eaten over a couple of days. Buying generic brands often saves money too. Would you like me to give you an example meal plan using these items?",
       "response_time": 1.49,
       "emotion_detected": "neutral",
       "trust_score": 2.5,

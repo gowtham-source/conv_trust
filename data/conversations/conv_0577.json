@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0577",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0577",
-    "scenario": "Legal advice consultation",
-    "timestamp": "2025-04-21T13:13:40.112893",
-    "total_turns": 10,
-    "total_trust_score": 3.7,
-    "trust_category_scores": {
-      "competence": 3.54,
-      "benevolence": 3.69,
-      "integrity": 3.78
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "You have several options. You could file a complaint with the Department of Fair Employment and Housing (DFEH). Alternatively, you could pursue a private lawsuit. The DFEH investigation can take some time, however. I suggest keeping detailed records of everything – emails, performance reviews, conversations – anything that might support your claim. This will be helpful no matter which route you choose.",
+      "utterance": "You have several options. You could file a complaint with the Department of Fair Employment and Housing (DFEH). Alternatively, you could pursue a private lawsuit. The DFEH investigation can take some time, however. I suggest keeping detailed records of everything \u2013 emails, performance reviews, conversations \u2013 anything that might support your claim. This will be helpful no matter which route you choose.",
       "response_time": 5.97,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

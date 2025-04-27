@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2507",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2507",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T16:59:37.981829",
-    "total_turns": 9,
-    "total_trust_score": 3.62,
-    "trust_category_scores": {
-      "competence": 3.67,
-      "benevolence": 3.62,
-      "integrity": 3.54
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Understood. The quadratic formula is indeed very powerful. It is: x = [-b ± sqrt(b^2 - 4ac)] / 2a. The part under the square root, b^2 - 4ac, is called the discriminant. It tells us about the nature of the solutions.",
+      "utterance": "Understood. The quadratic formula is indeed very powerful. It is: x = [-b \u00b1 sqrt(b^2 - 4ac)] / 2a. The part under the square root, b^2 - 4ac, is called the discriminant. It tells us about the nature of the solutions.",
       "response_time": 3.98,
       "emotion_detected": "neutral",
       "trust_score": 5.5,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "No, you've calculated it perfectly! The discriminant is indeed 0. This means the equation has exactly one real solution (sometimes called a repeated root). Now, substitute the values a=1, b=-4, c=4, and the discriminant (0) back into the full quadratic formula: x = [-(-4) ± sqrt(0)] / (2*1).",
+      "utterance": "No, you've calculated it perfectly! The discriminant is indeed 0. This means the equation has exactly one real solution (sometimes called a repeated root). Now, substitute the values a=1, b=-4, c=4, and the discriminant (0) back into the full quadratic formula: x = [-(-4) \u00b1 sqrt(0)] / (2*1).",
       "response_time": 0.5,
       "emotion_detected": "neutral",
       "trust_score": 1.0,
@@ -105,7 +91,7 @@
     {
       "turn_id": 9,
       "speaker": "user",
-      "utterance": "Phew, okay, glad I got that part right. So, x = [4 ± 0] / 2. That just simplifies to 4 / 2 = 2. So the solution is x=2. Wow, that wasn't as bad as I thought! So, if the discriminant is zero, there's only one answer? What if it's negative? My teacher mentioned something about imaginary roots, and I just zoned out.",
+      "utterance": "Phew, okay, glad I got that part right. So, x = [4 \u00b1 0] / 2. That just simplifies to 4 / 2 = 2. So the solution is x=2. Wow, that wasn't as bad as I thought! So, if the discriminant is zero, there's only one answer? What if it's negative? My teacher mentioned something about imaginary roots, and I just zoned out.",
       "response_time": null,
       "emotion_detected": "surprise",
       "trust_score": null,

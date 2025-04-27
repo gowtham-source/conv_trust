@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1693",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1693",
-    "scenario": "Health advice consultation",
-    "timestamp": "2025-04-21T15:16:31.788782",
-    "total_turns": 9,
-    "total_trust_score": 2.5,
-    "trust_category_scores": {
-      "competence": 2.42,
-      "benevolence": 2.48,
-      "integrity": 2.49
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "I understand your frustration. A persistent headache combined with fatigue and sleep problems can be very disruptive. Have you noticed anything that seems to trigger the headache, or make it worse? Also, could you describe your sleep patterns – how many hours do you usually sleep, and do you wake up feeling rested?",
+      "utterance": "I understand your frustration. A persistent headache combined with fatigue and sleep problems can be very disruptive. Have you noticed anything that seems to trigger the headache, or make it worse? Also, could you describe your sleep patterns \u2013 how many hours do you usually sleep, and do you wake up feeling rested?",
       "response_time": 1.91,
       "emotion_detected": "neutral",
       "trust_score": 2.5,

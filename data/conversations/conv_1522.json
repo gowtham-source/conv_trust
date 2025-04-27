@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1522",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1522",
-    "scenario": "Educational tutoring session",
-    "timestamp": "2025-04-21T14:56:10.176841",
-    "total_turns": 7,
-    "total_trust_score": 5.0,
-    "trust_category_scores": {
-      "competence": 4.92,
-      "benevolence": 4.76,
-      "integrity": 5.29
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, let's consider the matrix A = [[2, 1], [1, 2]]. The vector v = [1, 1] is an eigenvector of A, because when you multiply A by v, you get [3, 3], which is just 3 times v. So, the eigenvalue associated with v is 3. We can verify this using the equation Av = λv, where A is the matrix, v is the eigenvector, and λ is the eigenvalue. In this case, [[2, 1], [1, 2]] * [1, 1] = 3 * [1, 1]. Got it?",
+      "utterance": "Okay, let's consider the matrix A = [[2, 1], [1, 2]]. The vector v = [1, 1] is an eigenvector of A, because when you multiply A by v, you get [3, 3], which is just 3 times v. So, the eigenvalue associated with v is 3. We can verify this using the equation Av = \u03bbv, where A is the matrix, v is the eigenvector, and \u03bb is the eigenvalue. In this case, [[2, 1], [1, 2]] * [1, 1] = 3 * [1, 1]. Got it?",
       "response_time": 2.39,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Ah, good question! To find the eigenvalues, you solve the characteristic equation, which is det(A - λI) = 0, where A is your matrix, λ is the eigenvalue, and I is the identity matrix. Then, for each eigenvalue you find, you substitute it back into the equation (A - λI)v = 0, and solve for the eigenvector v.  It involves determinants and solving systems of linear equations. Can you give me a matrix and I can show you the steps?",
+      "utterance": "Ah, good question! To find the eigenvalues, you solve the characteristic equation, which is det(A - \u03bbI) = 0, where A is your matrix, \u03bb is the eigenvalue, and I is the identity matrix. Then, for each eigenvalue you find, you substitute it back into the equation (A - \u03bbI)v = 0, and solve for the eigenvector v.  It involves determinants and solving systems of linear equations. Can you give me a matrix and I can show you the steps?",
       "response_time": 4.15,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

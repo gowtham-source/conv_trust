@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0392",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0392",
-    "scenario": "E-commerce product recommendations based on category",
-    "timestamp": "2025-04-21T12:55:19.919258",
-    "total_turns": 5,
-    "total_trust_score": 4.5,
-    "trust_category_scores": {
-      "competence": 4.66,
-      "benevolence": 4.34,
-      "integrity": 4.58
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "That's a great question! Our recommendation engine uses a multi-faceted approach. While sales volume within a category is a significant factor, we also weigh customer reviews and ratings quite heavily. Seasonality also plays a role, especially for items like winter gear or summer apparel. We also consider co-purchasing patterns – items frequently bought together – to provide more relevant recommendations. Essentially, we try to predict what items, given your stated interest in the 'outdoor gear' category and overnight camping trips, are most likely to meet your needs based on the collective experience and preferences of other customers.",
+      "utterance": "That's a great question! Our recommendation engine uses a multi-faceted approach. While sales volume within a category is a significant factor, we also weigh customer reviews and ratings quite heavily. Seasonality also plays a role, especially for items like winter gear or summer apparel. We also consider co-purchasing patterns \u2013 items frequently bought together \u2013 to provide more relevant recommendations. Essentially, we try to predict what items, given your stated interest in the 'outdoor gear' category and overnight camping trips, are most likely to meet your needs based on the collective experience and preferences of other customers.",
       "response_time": 4.09,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

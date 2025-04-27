@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0363",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0363",
-    "scenario": "Grocery recommendations based on budget",
-    "timestamp": "2025-04-21T12:52:31.258513",
-    "total_turns": 10,
-    "total_trust_score": 5.2,
-    "trust_category_scores": {
-      "competence": 5.18,
-      "benevolence": 5.25,
-      "integrity": 5.27
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Of course! Consider adding eggs – they're a great source of protein and relatively inexpensive. Also, frozen vegetables can be cheaper than fresh, especially if certain vegetables are out of season. I can also generate meal ideas that center around rice and beans but use different spices and sauces to make them more exciting.",
+      "utterance": "Of course! Consider adding eggs \u2013 they're a great source of protein and relatively inexpensive. Also, frozen vegetables can be cheaper than fresh, especially if certain vegetables are out of season. I can also generate meal ideas that center around rice and beans but use different spices and sauces to make them more exciting.",
       "response_time": 5.65,
       "emotion_detected": "neutral",
       "trust_score": 5.5,
@@ -92,7 +78,7 @@
     {
       "turn_id": 8,
       "speaker": "agent",
-      "utterance": "That's a great question! Generally, generic brands are cheaper, but it's always wise to compare the unit price (price per ounce or pound) on the shelf tag. Sometimes, store sales or bulk discounts on name-brand items can make them cheaper than the generic option per unit. Also, keep an eye out for manager's specials on items nearing their expiration date – those can be a steal! I don't have real-time access to prices at your local stores, so it's best to check in-store or online before heading to the checkout.",
+      "utterance": "That's a great question! Generally, generic brands are cheaper, but it's always wise to compare the unit price (price per ounce or pound) on the shelf tag. Sometimes, store sales or bulk discounts on name-brand items can make them cheaper than the generic option per unit. Also, keep an eye out for manager's specials on items nearing their expiration date \u2013 those can be a steal! I don't have real-time access to prices at your local stores, so it's best to check in-store or online before heading to the checkout.",
       "response_time": 3.36,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

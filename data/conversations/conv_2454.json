@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2454",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2454",
-    "scenario": "Home improvement guidance",
-    "timestamp": "2025-04-21T16:48:25.186152",
-    "total_turns": 8,
-    "total_trust_score": 3.62,
-    "trust_category_scores": {
-      "competence": 3.78,
-      "benevolence": 3.72,
-      "integrity": 3.66
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Right, I removed the handle, and it looks like there's some kind of plastic or ceramic cylinder in there – I assume that's the cartridge? How on earth do I figure out which replacement cartridge I need? There are no visible markings on the old one, and I don't have the original faucet box or receipt. This is incredibly frustrating!",
+      "utterance": "Right, I removed the handle, and it looks like there's some kind of plastic or ceramic cylinder in there \u2013 I assume that's the cartridge? How on earth do I figure out which replacement cartridge I need? There are no visible markings on the old one, and I don't have the original faucet box or receipt. This is incredibly frustrating!",
       "response_time": null,
       "emotion_detected": "disgust",
       "trust_score": null,

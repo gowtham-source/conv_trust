@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0946",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0946",
-    "scenario": "Hackathon participation",
-    "timestamp": "2025-04-21T13:50:11.551726",
-    "total_turns": 9,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 4.87,
-      "benevolence": 4.98,
-      "integrity": 5.18
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, MVP...got it. What about the tech stack? I’m comfortable with Python and a bit of JavaScript, but what if the challenge requires something completely different, like blockchain or something super niche? I don't want to be totally useless.",
+      "utterance": "Okay, MVP...got it. What about the tech stack? I\u2019m comfortable with Python and a bit of JavaScript, but what if the challenge requires something completely different, like blockchain or something super niche? I don't want to be totally useless.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

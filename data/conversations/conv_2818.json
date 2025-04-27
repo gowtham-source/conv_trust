@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2818",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2818",
-    "scenario": "Travel booking assistance",
-    "timestamp": "2025-04-22T08:55:29.201034",
-    "total_turns": 10,
-    "total_trust_score": 5.2,
-    "trust_category_scores": {
-      "competence": 5.28,
-      "benevolence": 5.18,
-      "integrity": 5.36
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Great, Paris in October for 4 people. Searching for flights and hotels near the Eiffel Tower. I've found several options across various price points and airlines. For flights, I'm seeing options primarily with one or two layovers. Hotel options near the Eiffel Tower include Hotel Le Littré, Pullman Paris Tour Eiffel, and Mercure Paris Centre Tour Eiffel, among others. Prices vary significantly. Would you like me to provide detailed flight schedules or hotel amenities for these options?",
+      "utterance": "Great, Paris in October for 4 people. Searching for flights and hotels near the Eiffel Tower. I've found several options across various price points and airlines. For flights, I'm seeing options primarily with one or two layovers. Hotel options near the Eiffel Tower include Hotel Le Littr\u00e9, Pullman Paris Tour Eiffel, and Mercure Paris Centre Tour Eiffel, among others. Prices vary significantly. Would you like me to provide detailed flight schedules or hotel amenities for these options?",
       "response_time": 5.33,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

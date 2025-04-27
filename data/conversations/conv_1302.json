@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1302",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_1302",
-    "scenario": "Music recommendations based on genre",
-    "timestamp": "2025-04-21T14:26:58.373223",
-    "total_turns": 9,
-    "total_trust_score": 4.75,
-    "trust_category_scores": {
-      "competence": 4.55,
-      "benevolence": 4.52,
-      "integrity": 5.01
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -61,7 +47,7 @@
     {
       "turn_id": 5,
       "speaker": "user",
-      "utterance": "Fontaines D.C. is great, thanks! But, what if I wanted something similar to Fontaines D.C., but with a slightly different feel? Something with a bit more… I don't know, electronic influence?",
+      "utterance": "Fontaines D.C. is great, thanks! But, what if I wanted something similar to Fontaines D.C., but with a slightly different feel? Something with a bit more\u2026 I don't know, electronic influence?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

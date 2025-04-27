@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2227",
-    "agent_model": "gemini-2.0-flash-lite",
-    "user_id": "user_2227",
-    "scenario": "Game recommendations based on genre",
-    "timestamp": "2025-04-21T16:21:43.973039",
-    "total_turns": 9,
-    "total_trust_score": 5.12,
-    "trust_category_scores": {
-      "competence": 5.13,
-      "benevolence": 5.3,
-      "integrity": 5.06
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Yeah, I've played both of those, and loved them! Anything a bit more… obscure, perhaps? Maybe some good indie RPGs or something different.",
+      "utterance": "Yeah, I've played both of those, and loved them! Anything a bit more\u2026 obscure, perhaps? Maybe some good indie RPGs or something different.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Okay, I see. For less mainstream RPGs, I recommend checking out 'Disco Elysium' – it's a unique detective RPG with incredible writing. Also, 'Divinity: Original Sin 2' is a fantastic choice if you like tactical combat. For something different, have you considered strategy games? 'Civilization VI' is a great one.",
+      "utterance": "Okay, I see. For less mainstream RPGs, I recommend checking out 'Disco Elysium' \u2013 it's a unique detective RPG with incredible writing. Also, 'Divinity: Original Sin 2' is a fantastic choice if you like tactical combat. For something different, have you considered strategy games? 'Civilization VI' is a great one.",
       "response_time": 2.59,
       "emotion_detected": "neutral",
       "trust_score": 4.0,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "Disco Elysium is praised for its deep role-playing mechanics, and the way it handles skills. The combat, however, is not its strongest point; it is quite complex and relies heavily on dialogue and skill checks. You may or may not enjoy it. What I can tell you is that its strengths truly shine in the narrative, characters, and world-building. In that regard, it’s stellar.",
+      "utterance": "Disco Elysium is praised for its deep role-playing mechanics, and the way it handles skills. The combat, however, is not its strongest point; it is quite complex and relies heavily on dialogue and skill checks. You may or may not enjoy it. What I can tell you is that its strengths truly shine in the narrative, characters, and world-building. In that regard, it\u2019s stellar.",
       "response_time": 5.49,
       "emotion_detected": "joy",
       "trust_score": 5.5,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Hmm, okay. That’s a tough sell for me. Maybe something with better combat then. How about some action games? Anything new or exciting?",
+      "utterance": "Hmm, okay. That\u2019s a tough sell for me. Maybe something with better combat then. How about some action games? Anything new or exciting?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_2748",
-    "agent_model": "gemini-2.5-flash-preview-04-17",
-    "user_id": "user_2748",
-    "scenario": "Interview preparation assistance",
-    "timestamp": "2025-04-22T08:41:58.159804",
-    "total_turns": 6,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.11,
-      "benevolence": 5.48,
-      "integrity": 5.39
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -48,7 +34,7 @@
     {
       "turn_id": 4,
       "speaker": "agent",
-      "utterance": "Behavioral questions are very common! Interviewers use them to understand how you handle situations and fit within a team. For questions about weaknesses, it's good to mention a real weakness you are actively working to improve. Avoid cliché answers that are actually strengths. The STAR method (Situation, Task, Action, Result) is useful for structuring these responses.",
+      "utterance": "Behavioral questions are very common! Interviewers use them to understand how you handle situations and fit within a team. For questions about weaknesses, it's good to mention a real weakness you are actively working to improve. Avoid clich\u00e9 answers that are actually strengths. The STAR method (Situation, Task, Action, Result) is useful for structuring these responses.",
       "response_time": 4.25,
       "emotion_detected": "neutral",
       "trust_score": 5.5,

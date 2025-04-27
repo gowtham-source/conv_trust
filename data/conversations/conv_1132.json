@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_1132",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_1132",
-    "scenario": "Fashion recommendations based on budget",
-    "timestamp": "2025-04-21T14:09:38.619210",
-    "total_turns": 9,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 4.12,
-      "benevolence": 3.91,
-      "integrity": 4.2
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -70,7 +56,7 @@
     {
       "turn_id": 6,
       "speaker": "agent",
-      "utterance": "I understand your concern. How about a midi dress in a solid color like navy or emerald green? Those colors tend to look more elegant even in less expensive fabrics. Stores like ASOS, H&M, and Target often have great options in that price range. For shoes, you could consider simple heels or dressy flats. Accessories can make a big difference too – a statement necklace or earrings can elevate the look.",
+      "utterance": "I understand your concern. How about a midi dress in a solid color like navy or emerald green? Those colors tend to look more elegant even in less expensive fabrics. Stores like ASOS, H&M, and Target often have great options in that price range. For shoes, you could consider simple heels or dressy flats. Accessories can make a big difference too \u2013 a statement necklace or earrings can elevate the look.",
       "response_time": 2.84,
       "emotion_detected": "neutral",
       "trust_score": 4.0,

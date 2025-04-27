@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0376",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0376",
-    "scenario": "E-commerce product recommendations based on category",
-    "timestamp": "2025-04-21T12:53:52.246404",
-    "total_turns": 10,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.47,
-      "benevolence": 5.44,
-      "integrity": 5.53
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Um, accessories I guess? I don't know, something… nice. She already has a lot of tools.",
+      "utterance": "Um, accessories I guess? I don't know, something\u2026 nice. She already has a lot of tools.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

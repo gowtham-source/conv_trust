@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0162",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0162",
-    "scenario": "Home improvement guidance",
-    "timestamp": "2025-04-21T12:34:12.783334",
-    "total_turns": 10,
-    "total_trust_score": 5.5,
-    "trust_category_scores": {
-      "competence": 5.37,
-      "benevolence": 5.72,
-      "integrity": 5.58
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -105,7 +91,7 @@
     {
       "turn_id": 9,
       "speaker": "user",
-      "utterance": "Alright, alright, you've convinced me. Primer it is. But here's a tough one: My walls have some pretty deep scratches from the previous owners’ cat. What's the best way to fix those before priming?",
+      "utterance": "Alright, alright, you've convinced me. Primer it is. But here's a tough one: My walls have some pretty deep scratches from the previous owners\u2019 cat. What's the best way to fix those before priming?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

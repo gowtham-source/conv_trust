@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0625",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0625",
-    "scenario": "Legal advice consultation",
-    "timestamp": "2025-04-21T13:18:32.390207",
-    "total_turns": 7,
-    "total_trust_score": 4.0,
-    "trust_category_scores": {
-      "competence": 3.76,
-      "benevolence": 4.14,
-      "integrity": 3.83
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -83,7 +69,7 @@
     {
       "turn_id": 7,
       "speaker": "user",
-      "utterance": "Okay, that's… helpful, I guess. It was an oak tree, and it was pretty big. So, what are my next steps? Should I contact him directly, or should I get a lawyer involved right away? This is all so stressful.",
+      "utterance": "Okay, that's\u2026 helpful, I guess. It was an oak tree, and it was pretty big. So, what are my next steps? Should I contact him directly, or should I get a lawyer involved right away? This is all so stressful.",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,

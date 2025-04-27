@@ -1,18 +1,4 @@
 {
-  "metadata": {
-    "conversation_id": "conv_0973",
-    "agent_model": "gemini-2.0-flash",
-    "user_id": "user_0973",
-    "scenario": "Shoe recommendations based on style",
-    "timestamp": "2025-04-21T13:53:00.511270",
-    "total_turns": 6,
-    "total_trust_score": 3.5,
-    "trust_category_scores": {
-      "competence": 3.7,
-      "benevolence": 3.31,
-      "integrity": 3.48
-    }
-  },
   "turns": [
     {
       "turn_id": 1,
@@ -39,7 +25,7 @@
     {
       "turn_id": 3,
       "speaker": "user",
-      "utterance": "Hmm, Chelsea boots are interesting. But aren't those kind of…dressy? I need something I can wear with jeans and a t-shirt without looking out of place. Are there Chelsea boots that fit that bill?",
+      "utterance": "Hmm, Chelsea boots are interesting. But aren't those kind of\u2026dressy? I need something I can wear with jeans and a t-shirt without looking out of place. Are there Chelsea boots that fit that bill?",
       "response_time": null,
       "emotion_detected": "neutral",
       "trust_score": null,
