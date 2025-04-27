@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "conversation_id": "conv_2944",
+    "agent_model": "gemini-2.5-flash-preview-04-17",
+    "user_id": "user_2944",
+    "scenario": "Health advice consultation",
+    "timestamp": "2025-04-22T09:19:26.554941",
+    "total_turns": 4,
+    "total_trust_score": null,
+    "trust_category_scores": {
+      "competence": null,
+      "benevolence": null,
+      "integrity": null
+    }
+  },
+  "turns": [],
+  "data": {
+    "conversation_id": "conv_4a3ba39d",
+    "average_trust_score": null,
+    "trust_category_averages": {
+      "competence": null,
+      "benevolence": null,
+      "integrity": null
+    },
+    "engagement_score": 4.0,
+    "emotion_distribution": {},
+    "response_quality_score": null,
+    "latency_score": null
+  }
+}

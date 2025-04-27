@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "conversation_id": "conv_0242",
+    "agent_model": "gemini-2.0-flash",
+    "user_id": "user_0242",
+    "scenario": "Shoe recommendations based on style",
+    "timestamp": "2025-04-21T12:40:56.083199",
+    "total_turns": 8,
+    "total_trust_score": null,
+    "trust_category_scores": {
+      "competence": null,
+      "benevolence": null,
+      "integrity": null
+    }
+  },
+  "turns": [],
+  "data": {
+    "conversation_id": "conv_31c8a8d6",
+    "average_trust_score": null,
+    "trust_category_averages": {
+      "competence": null,
+      "benevolence": null,
+      "integrity": null
+    },
+    "engagement_score": 4.0,
+    "emotion_distribution": {},
+    "response_quality_score": null,
+    "latency_score": null
+  }
+}

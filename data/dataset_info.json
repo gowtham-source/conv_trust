@@ -1,0 +1,36 @@
+{
+  "dataset_name": "Trust Research Synthetic Dataset",
+  "creation_date": "2025-04-21",
+  "num_conversations": 50,
+  "models_used": [
+    "gemini-2.0-flash"
+  ],
+  "scenarios": [
+    "Customer service interaction about a delayed package",
+    "Home improvement guidance",
+    "Career counseling",
+    "Legal advice consultation",
+    "Travel booking assistance",
+    "Health advice consultation",
+    "Food ordering and recommendations",
+    "Financial planning guidance",
+    "Educational tutoring session"
+  ],
+  "statistics": {
+    "conversations_per_model": {
+      "gemini-2.0-flash": 50
+    },
+    "conversations_per_scenario": {
+      "Customer service interaction about a delayed package": 8,
+      "Home improvement guidance": 7,
+      "Career counseling": 5,
+      "Legal advice consultation": 5,
+      "Travel booking assistance": 4,
+      "Health advice consultation": 5,
+      "Food ordering and recommendations": 9,
+      "Financial planning guidance": 3,
+      "Educational tutoring session": 4
+    }
+  },
+  "schema_version": "1.0"
+}

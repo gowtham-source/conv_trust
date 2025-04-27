@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "conversation_id": "conv_2997",
+    "agent_model": "gemini-2.5-flash-preview-04-17",
+    "user_id": "user_2997",
+    "scenario": "Travel booking assistance",
+    "timestamp": "2025-04-22T09:20:39.100607",
+    "total_turns": 6,
+    "total_trust_score": null,
+    "trust_category_scores": {
+      "competence": null,
+      "benevolence": null,
+      "integrity": null
+    }
+  },
+  "turns": [],
+  "data": {
+    "conversation_id": "conv_788412d1",
+    "average_trust_score": null,
+    "trust_category_averages": {
+      "competence": null,
+      "benevolence": null,
+      "integrity": null
+    },
+    "engagement_score": 4.0,
+    "emotion_distribution": {},
+    "response_quality_score": null,
+    "latency_score": null
+  }
+}

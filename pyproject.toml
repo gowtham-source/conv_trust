@@ -1,0 +1,9 @@
+[project]
+name = "conv-trust"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "tqdm>=4.67.1",
+]

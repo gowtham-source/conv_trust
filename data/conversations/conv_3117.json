@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "conversation_id": "conv_3117",
+    "agent_model": "gemini-2.5-flash-preview-04-17",
+    "user_id": "user_3117",
+    "scenario": "Game recommendations based on genre",
+    "timestamp": "2025-04-22T09:23:11.606071",
+    "total_turns": 5,
+    "total_trust_score": null,
+    "trust_category_scores": {
+      "competence": null,
+      "benevolence": null,
+      "integrity": null
+    }
+  },
+  "turns": [],
+  "data": {
+    "conversation_id": "conv_9fded4b0",
+    "average_trust_score": null,
+    "trust_category_averages": {
+      "competence": null,
+      "benevolence": null,
+      "integrity": null
+    },
+    "engagement_score": 4.0,
+    "emotion_distribution": {},
+    "response_quality_score": null,
+    "latency_score": null
+  }
+}
