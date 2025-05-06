@@ -8,8 +8,20 @@ import uuid
 import datetime
 from typing import Dict, List, Any, Optional, Tuple, Union
 
-from src.models.llm import LLMModelInterface
-from src.analyzers.sentiment import SentimentAnalyzer
+try:
+    # Try to import the real LLM implementation first
+    from src.models.llm import LLMModelInterface
+except ImportError as e:
+    # If that fails, use the mock implementation
+    print(f"Using mock LLM model due to import error: {e}")
+    from src.models.mock_llm import MockLLMModelInterface as LLMModelInterface
+try:
+    # Try to import the real sentiment analyzer first
+    from src.analyzers.sentiment import SentimentAnalyzer
+except ImportError as e:
+    # If that fails, use the mock implementation
+    print(f"Using mock sentiment analyzer due to import error: {e}")
+    from src.analyzers.mock_sentiment import MockSentimentAnalyzer as SentimentAnalyzer
 from src.utils.schema import (
     Conversation, ConversationMetadata, ConversationData, 
     Turn, TrustCategoryScores, EmotionDistribution

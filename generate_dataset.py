@@ -53,7 +53,7 @@ def parse_args():
         "--models", 
         type=str, 
         nargs="+", 
-        default=["gemini-2.0-flash"],
+        default=["gemini-2.0-flash-lite"],
         help="Models to use for generation"
     )
     return parser.parse_args()
